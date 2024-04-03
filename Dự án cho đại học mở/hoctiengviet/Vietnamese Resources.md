@@ -1,0 +1,16 @@
+- Learning Vietnamese:
+	- Waiting for someone to help me improve this
+- Acquire Vietnamese:
+	- Vietnamese Newspapers:
+		- [VTVNews](https://vtv.vn/)
+		- [Vietnamnet](https://vietnamnet.vn/)
+		- [Tạp chí Tia sáng](https://tiasang.com.vn/)
+		- [Dân trí](https://dantri.com.vn/)
+		- [VNExpress](https://vnexpress.net/)
+	- Manga (Translated to Vietnamese):
+		- [Blogtruyenmoi]()
+		- [Nettruyen]()
+	- Forums:
+		- [VOZ-vn]()
+		- [Blogtruyen Forum](): An Forum for manga lovers
+		- [tve-4u](): where bookworms "hang out".
