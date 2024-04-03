@@ -1,0 +1,3 @@
+- Đây là phần cơ bản nhất
+- Dịch từ các nguồn khác
+- 

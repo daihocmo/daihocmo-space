@@ -1,0 +1,15 @@
+- Đây là một trang tổng hợp về việc học Tiếng Anh, được viết, tổng hợp, học tập và nhiều thứ khác bởi mình
+- Dự án sẽ được làm trên nền `mkdocs` để dễ sử dụng và đa dạng hóa các kiểu
+- Dự án là một phần trong lộ trình chính thức của đại học mở
+### Các thông tin cần lưu ý và sử dụng nguồn dịch.
+- Các nội dung trọng yếu:
+	- Từ vựng: Sẽ làm một bộ thẻ Anki: Core 1.5k hoặc Core2k, giúp tạo nền tảng từ vựng cho người học
+	- Ngữ pháp: Một hướng dẫn ngữ pháp hoàn toàn khác, có thể lấy từ Antimoon, hoặc _ăn cắp_ từ các hướng dẫn ngữ pháp truyền thống có tinh giản
+- Các nội dung để đắm chìm:
+	- Về nghe: Bao gồm phim ảnh, nội dung trên Youtube
+	- Về đọc: Đọc sách báo và các nội dung liên quan, mới đầu có thể bắt đầu bằng việc đọc bình luận trên Youtube
+- Bộ công cụ giúp ta học ngoại ngữ:
+	- Yêu cầu: Tối giản, dễ dùng, dễ tiếp cận với đa phần người học không thuộc tuýp người có thể sử dụng máy tính thành thạo
+	- Bao gồm:
+		- Anki: Học từ vựng, làm sentence-mining .etc.
+		- Video Player: Sử dụng mpv hoặc VLC ()

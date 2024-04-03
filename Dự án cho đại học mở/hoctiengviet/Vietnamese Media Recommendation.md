@@ -1,0 +1,36 @@
+- Yêu cầu bổ sung thêm các nội dung có phụ đề Tiếng Việt rõ ràng
+- Youtube:
+	- Daily vlog:
+		- [Gia đình cam cam](https://www.youtube.com/channel/UClsAZnicRDs_25b_1DxldKA)
+		- [The Hanoi Chamomile](https://www.youtube.com/channel/UCZv-924OFOCEX6A8hcvdisQ)
+		- [Dinology](https://www.youtube.com/channel/UCwTi_xn6ukH9QJsNtH-oNWw)
+		- [Giang Ơi](https://www.youtube.com/channel/UC-AJnWGWhPt3ReFnvzRZ-Kg)
+		- [Trầm](https://www.youtube.com/channel/UCBI4RkQrIgjbCMHpehFk5Fw)
+	- Technology1
+		- [ThinkView](https://www.youtube.com/channel/UCMRCjWYwR5p2Plp_0ehIG6g)
+		- [Duy Luân Dễ Thương](https://www.youtube.com/channel/UCQ0jSGgYMLmRMeTE6UaPPXg)
+	- News & Podcast:
+		- [VTV24](https://www.youtube.com/channel/UCabsTV34JwALXKGMqHpvUiA)
+		- [Vietcetera](https://www.youtube.com/channel/UCORwVnph7TK6rmyKozkV8_g)
+		- [Fonos](https://www.youtube.com/channel/UCgKVnpqft_rMv2WmNTQyVdg): Audiobook library in Vietnamese, only the first chapters of each books are available, but the speaking is clear, soothing and just *professional*. You can sign up for 99K VND (About 4.5 dollar I guess).
+	- Entertainment:
+		- [Phê Phim](https://www.youtube.com/channel/UCAJ9i1NhhlnosAGu7QcBEtw)
+		- [Phê game](https://www.youtube.com/channel/UCTF0ldaORTbCfx2ahvFfYWg)
+	- Travel:
+		- [Khoai Lang Thang](https://www.youtube.com/channel/UCZE88kYvCKUKjM-G0uc8Duw)
+	 - Contents for Children (Stories or such kinds of things)
+		 - [POPS Kids](https://www.youtube.com/channel/UC5ezaYrzZpyItPSRG27MLpg): This channel is only available in Vietnam so remember to change your location before visiting this channel. It has many vietdub anime so it would be a really helpful learning resource.
+		- [Peppa Pig Tiếng Việt](https://www.youtube.com/channel/UCxeoWTyTJUppaRU3v5zcolQ)
+		- [Wolfoo Tiếng Việt](https://www.youtube.com/channel/UC1s_pX5PgH7R6QtTn80cKtA)
+		- [Hello Jadoo Việt Nam](https://www.youtube.com/channel/UC9ozrP7Yu8ohjExSP5Bun0Q)
+	- Miscellaneous Information
+- News:
+	- [VTVNews](https://vtv.vn/)
+	- [Vietnamnet](https://vietnamnet.vn/)
+	- [Tạp chí Tia sáng](https://tiasang.com.vn/)
+	- [Dân trí](https://dantri.com.vn/)
+	- [VNExpress](https://vnexpress.net/)
+- Other:
+	- Kho dữ liệu học tập
+	- TÌm hiểu về Tiếng Việt ở một mức độ sâu hơn
+- Các kênh Tiếng Việt có phụ đề

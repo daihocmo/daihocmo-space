@@ -1,0 +1,2 @@
+- Đây là một loạt bài viết về lập trình bằng Tiếng Việt, được học và chuyển ngữ sang Tiếng Việt qua nhiều sách học lập trình như Code Complete.
+- Sẽ còn có nhiều cập nhật đang chờ phía trước
