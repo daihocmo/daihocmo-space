@@ -1,0 +1,2 @@
+- Sau khi bắt đầu hiểu cơ bản về phương pháp ở trang tổng.
+- 

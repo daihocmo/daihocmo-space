@@ -1,0 +1,5 @@
+- Thay vì viết dài dòng cho các ngôn ngữ khác nhau thì nhìn chung, phương pháp học về cơ bản là không khác nhau. Tất nhiên, mỗi ngôn ngữ đều có một đặc thù riêng của nó.
+- Kế hoạch gốc, soạn ngày 4/3/2024:
+	- Soạn hướng dẫn về các kiến thức tiếp thu ngoại ngữ ở trang này, và các phần hướng dẫn đặc biệt cho các ngôn ngữ khác ở trang tiếp theo
+	- Sẽ bao gồm rất nhiều các mảng kiến thức khác nhau
+	- Hãy nhớ rằng, việc sử dụng được tốt các công cụ cũng sẽ là một điểm manh

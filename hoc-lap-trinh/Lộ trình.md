@@ -1,0 +1,4 @@
+- Tìm hiểu về việc học
+- Tìm hiểu thêm về học thông qua Learning how to Learn:
+	- Bao gồm 3 bài viết tóm lược
+- Học một cách khoa học

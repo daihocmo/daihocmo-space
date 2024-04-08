@@ -1,0 +1,1 @@
+- Dựa trên 2 hướng dẫn của TMW và "An Alternative Way to read in Japanese"

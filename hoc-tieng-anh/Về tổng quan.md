@@ -1,0 +1,4 @@
+- Để bắt đầu cải thiện về mảng Anh chuyên ngành, người học cần nắm chắc các kiến thức về Tiếng Anh cơ bản (Theo như đa phần người học thì nắm chắc cơ bản đồng nghĩa với việc đã đắm mình vào Tiếng Anh đủ nhiều, nên đo ngoại ngữ theo thang khối lượng, nạp càng nhiều câu chữ hay các đoạn nghe và chất lượng của input càng cao thì càng nhanh đạt fluency cao)
+- Chủ yếu tập trung vào:
+	- Ngôn ngữ chuyên ngành: Có nhiều từ vựng bình thường dùng một cách nhưng vào chuyên ngành lại khác. VD: "Compression" có nghĩa là sự nén, nhưng "Compression" trong âm nhạc hay sản xuất âm nhạc lại có nghĩa là kiểm soát biên độ âm lượng không vượt quá ngưỡng cho phép để tránh bị vỡ âm (distorted?)
+	- 

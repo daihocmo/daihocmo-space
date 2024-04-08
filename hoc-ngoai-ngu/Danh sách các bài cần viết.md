@@ -1,0 +1,13 @@
+- Tổng quan của việc học ngoại ngữ:
+	- Nguồn tham khảo:
+		- [TMW]()
+		- [Tatsumoto]()
+		- [Antimoon]()
+		- [Donkuri]()
+		- [Tổng hợp](https://gohoneko.neocities.org/#learn)
+	- Cấu trúc chung cho nó:
+- Bài viết có thể thử ăn cắp
+- [Damage your language](https://www.antimoon.com/wiki/Vi%E1%BB%87c_vi%E1%BA%BFt_v%C3%A0_n%C3%B3i_c%C3%B3_th%E1%BB%83_h%E1%BB%A7y_ho%E1%BA%A1i_Ti%E1%BA%BFng_Anh_c%E1%BB%A7a_b%E1%BA%A1n)
+- [KNow](https://www.antimoon.com/wiki/Input_l%C3%A0_g%C3%AC_v%C3%A0_t%E1%BA%A1i_sao_b%E1%BA%A1n_th%E1%BB%B1c_s%E1%BB%B1_c%E1%BA%A7n_n%C3%B3) 
+-  [Damage your language s](https://www.antimoon.com/wiki/T%E1%BA%A1i_sao_b%E1%BA%A1n_c%E1%BA%A7n_ph%E1%BA%A3i_t%E1%BB%B1_m%C3%ACnh_h%E1%BB%8Dc_Ti%E1%BA%BFng_Anh)
+- [Btw](https://www.antimoon.com/wiki/Vi%E1%BB%87c_vi%E1%BA%BFt_v%C3%A0_n%C3%B3i_c%C3%B3_th%E1%BB%83_h%E1%BB%A7y_ho%E1%BA%A1i_Ti%E1%BA%BFng_Anh_c%E1%BB%A7a_b%E1%BA%A1n)
