@@ -3,26 +3,33 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 ## Learning Vietnamese
 ### Alphabet
 - [Flexiclasses Vietnamese Learning Blog](https://flexiclasses.com/vietnamese/alphabet/): All about Vietnamese alphabet, learning how to read and write here.
-- [Vietnamese Alphabet by MyLanguages.org](http://www.mylanguages.org/vietnamese_alphabet.php)
+- [Vietnamese Alphabet by MyLanguages.org](http://www.mylanguages.org/vietnamese_alphabet.php): Yet another Vietnamese alphabet guide.
 
 ### Vocabulary
+- [Vietnamese Vocabulary Core 1k by Soi](https://ankiweb.net/shared/info/687513656): Vietnamese Core 1K Vocab Anki Deck made by Soi
+- [Xefjord's Complete Vietnamese - Northern Dialect](https://www.dropbox.com/sh/g4iz7sw992qzieg/AAD-iCCcDrUmfUPsXU3JtvWLa?dl=0): The Vietnamese Anki deck from [this project](https://www.reddit.com/r/languagelearning/comments/ywuj8g/100_free_anki_language_decks_xefjords_complete/).
 - [Vietnamese Vocabulary Lists](https://www.vietnamesepod101.com/vietnamese-vocabulary-lists/): A complete list of basic Vietnamese vocabulary made by VietnamesePod101.
 
 ### Grammar
-- [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers like podcasts.
+- [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers.
 
 - [Elementary Vietnamese by Binh Nhu Ngo](https://www.amazon.com/Elementary-Vietnamese-Binh-Nhu-Ph-D/dp/0804833699): Excellent reviews from community, I haven't read it myself, you can buy the book direct on Amazon (2003 Revised Version).
 
 - [seahorse viet grammar's archive](https://seahorseviet.wordpress.com/category/grammar/): Many grammar points but without sorting.
 
+- [Vietnamese Grammar by Soi](https://ankiweb.net/shared/info/1707723482): An Anki deck for learning Vietnamese Grammar. There are audios for different dialects!
 ### Chữ Nôm
 - [ChuNom.org](https://chunom.org/): There are some Chữ Nôm course offered by ChuNom.org
-- [Nom Foundation](https://nomfoundation.org/): The Vietnamese Nôm Preservation Foundation arose from the postwar efforts of Vietnamese and Americans who feared that an entire literary culture--the 1000 years of writing in Chữ Nôm used to record the Vietnamese language and its vast heritage of poetry, history, medicine, royal edict, and religion--was about to go extinct.
+- [Nom Foundation](https://nomfoundation.org/): an American nonprofit agency for Han Nom preservation. 
 
 ## Acquire Vietnamese
 
 ### Movies & TV Shows
-- Nothing
+You just have to click one of the links here and it will directs you to the Vietnamese movie collection (Instead of the website's main page).
+
+- [FPTPlay](https://fptplay.vn/block/category_vod/viet-nam-5575464417dc1321ee858668): Watching Vietnamese movies for free, you just have to use your Google or Facebook account. 
+- [TV360](https://tv360.vn/movies/phim-viet-nam?c=3733): Same as above.
+- [VieChannel](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw): There are a lot of gameshows in this channel.
 
 ### Novels and Literary Texts
 - [HakoLN](https://ln.hako.vn/): Light novels and Web novels translated to Vietnamese
@@ -38,7 +45,7 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Podcastindex](https://podcastindex.org/): Listen to Podcast online without sign-in, not just Vietnamese Podcasts.
 
 ### Forums
-- [VOZ](https://voz.vn/): VOZ (other names: Vnoczone, vOz, vOzforums, Vietnam Overclockers Zone) an online forum established since 2001, one of the largest Technogoly forum in Vietnamese. Despite the description, this forum has a lot of things to offer, not just Science & Technology.  
+- [VOZ](https://voz.vn/): VOZ (other names: Vnoczone, vOz, vOzforums, Vietnam Overclockers Zone) an online forum has been established since 2001, one of the largest Technogoly forum in Vietnamese. Despite the description, this forum has a lot of things to offer, not just Science & Technology.  
 - [OTOFUN](https://www.otofun.net/forums): Primarily about cars and auto.
 - [Blogtruyen Forum](https://forum.blogtruyenmoi.com/): An Forum for manga lovers, you can also read Vietnamese-translated manga here.
 - [TVE-4U](https://tve-4u.org/): The forum for book lovers and for downloading Vietnamese books made by volunteers.
@@ -70,7 +77,6 @@ Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) 
 
 - **[※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)** - Spaced repetition flashcard program. A must have. It is tricky to use at first. So please see the Mining section for guides on how to set it up (From the main guide).
 - [Unikey](https://www.unikey.org/download.html): Vietnamese Keyboard.
-- [EBWin](http://ebstudio.info/) - An epwing format dictionary reader. Good for look ups without a web browser.
     
 
 ### Applications (Mobile)
@@ -79,8 +85,6 @@ Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) 
 
 - [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) - Port of Anki for Android devices.
 - [AnkiConnect for Android](https://github.com/KamWithK/AnkiconnectAndroid) - use AnkiConnect for 1 click card creation on Android.
-- [EBPocket Basic](https://play.google.com/store/apps/details?id=info.ebstudio.ebpocketfree) - this is an EPWING, Stardict and MDX dictionary reader, useful for monolingual dictionaries.
-- [EBPocket Professional APK](https://cdn.discordapp.com/attachments/813105334763126814/843591036831793172/info.ebstudio.ebpocket.apk) - APK of the full vesion of EBPocket.
 - [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=ja&gl=US) - Chromium based browser with extension support. You can use Yomichan on this.
 
 #### iOS

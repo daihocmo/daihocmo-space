@@ -87,11 +87,7 @@ Download the one for your system.
 
 When opening Anki for the first time, you will be asked to set your display language, just leave it at the default (English).
 
-You can try some shared decks below to get started:
-
-- [Core 100 Vietnamese Words](https://ankiweb.net/shared/info/1965697482)
-
-- [Core 1000 Vietnamese Words](https://ankiweb.net/shared/info/144766298): You can use this deck after finishing the first one. This deck has no audio, so you may wanna use TTS to generate audio for the time being.
+You can try the [Vietnamese Vocabulary Core 1k by Soi](https://ankiweb.net/shared/info/687513656) deck to get started. My own optimized deck is currently in progress so you can give this deck from Soi a try.
 
 After the download is complete, import the deck by clicking "Import file" and navigating to the downloaded file (.apkg) and then click Import on the top right.
 
@@ -122,9 +118,7 @@ Once you have completed your new cards for the day, make sure you come back the 
 
 Learning grammar can be straightforward and complex at the same time. It's quite essential to learning Vietnamese and while it might seem daunting at first, there are resources out there that help make the learning process easier. The grammar learning process is relatively simple; just pick up a guide and read/watch it.
 
-There have been many resources throughout the years that teach grammar, many great and many not so great. Due to the nature of the topic, just one grammar resource may not be enough for everyone.
-
-Here are a few guides ranked based on how much I recommend them to total beginners You do not need to do every single one, just find the one that works well for you.
+Here are a few guides I wanna recommend to total beginners. You do not need to do every single one, just find the one that works well for you.
 
 - [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers like podcasts.
 
@@ -211,11 +205,9 @@ Throughout my 4+ years of running TheMoeWay and talking to all sorts of immersio
 
 ## 3.2 Pronunciation
 
-Currently in progress
+Learning Vietnamese pronunciation is tough, even for advanced learners. It's undeniable to say that, how well you pronouce a Vietnamese word is largely up to how much time have you heard that word spoken by a Vietnamese native.
 
-## 3.3 Learning milestones
-
-Currently in progress
+## 3.3 Learning milestones (Currently in progress).
 
 
 ## 3.4 Closing notes: post-beginner stage and beyond
