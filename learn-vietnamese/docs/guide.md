@@ -2,8 +2,11 @@ This guide was originally written by TheMoeWay Community for Japanese Learners, 
 
 ## 2.1 How to learn Vietnamese (Northern Dialect)
 There are so many Vietnamese southern dialect resources and learning guides out there but rarely for Northern dialect. There are several reasons why you may wanna learn Vietnamese in Northern Dialect from the beginning:
+
 - The pronunciation is clearer, sharper, easier to comprehend.
+
 - Northern dialect is Vietnamese standard dialect.
+
 - The character and the tone sound consistent in Northern dialect. 
 
 Don't worry about the dialects too much when you have just started learning Vietnamese. As a Northern dialect speaker, I can perfectly understand Southern dialect (It's not like learning another language, just some minor differences in pronunciation). The dialect only matters in listening and speaking (I know most of Vietnamese learners know this, but still, I want to emphasize it)
@@ -57,6 +60,7 @@ Things you can do with the chart:
 - Learn Vietnamese alphabet pronunciation [here](https://youtu.be/Jf6mvBy9VXk?si=u35CESIcmtEIZYas).
 
 - After that, learn Vietnamese tones [here](https://www.youtube.com/watch?v=3bptcM1hf1E).
+
 Both videos only take you 20 minutes, so don't skip any parts and watch until the end.
 
 #### Step 3 - the grinding
@@ -84,7 +88,9 @@ Download the one for your system.
 When opening Anki for the first time, you will be asked to set your display language, just leave it at the default (English).
 
 You can try some shared decks below to get started:
+
 - [Core 100 Vietnamese Words](https://ankiweb.net/shared/info/1965697482)
+
 - [Core 1000 Vietnamese Words](https://ankiweb.net/shared/info/144766298): You can use this deck after finishing the first one. This deck has no audio, so you may wanna use TTS to generate audio for the time being.
 
 After the download is complete, import the deck by clicking "Import file" and navigating to the downloaded file (.apkg) and then click Import on the top right.
@@ -122,7 +128,7 @@ Here are a few guides ranked based on how much I recommend them to total beginne
 
 - [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers like podcasts.
 
-- Elementary Vietnamese by Binh Nhu Ngo: Excellent reviews from community, I haven't read it myself, you can buy the book direct on Amazon (2003 Revised Version).
+- [Elementary Vietnamese by Binh Nhu Ngo](https://www.amazon.com/Elementary-Vietnamese-Binh-Nhu-Ph-D/dp/0804833699): Excellent reviews from community, I haven't read it myself, you can buy the book direct on Amazon (2003 Revised Version).
 
 - [seahorse viet grammar's archive](https://seahorseviet.wordpress.com/category/grammar/): Many grammar points but without sorting.
 

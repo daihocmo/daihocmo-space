@@ -1,9 +1,0 @@
-- Khởi đầu: Bao gồm động lực, tại sao nên thử .etc?
-- Những bước đầu tiên:
-	- Giới thiệu về Input Hyphothesis, tầm quan trọng của Input
-	- Dẫn dắt vào Immersion, hiểu thêm về Immersion và cách chọn tài liệu
-- Đi sâu:
-	- Về phát âm
-	- Về ngữ pháp
-- Những lựa chọn khác:
-	- Các ngôn ngữ khác

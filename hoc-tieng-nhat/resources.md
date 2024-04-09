@@ -1,3 +1,4 @@
+Chắc chắn sẽ có
 - Về học Tiếng Nhật
 	- Từ vựng: Soạn bộ thẻ Kaishi1.5k sang Tiếng Việt, được viết dưới dạng Hán Nôm với nghĩa thuần việt nếu có.
 	- Ngữ pháp: Dịch hướng dẫn của Cure Dolly (Thông qua Cure Dolly Textbook sang Tiếng Việt)

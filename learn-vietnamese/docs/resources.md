@@ -6,16 +6,42 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Vietnamese Alphabet by MyLanguages.org](http://www.mylanguages.org/vietnamese_alphabet.php)
 
 ### Vocabulary
-- [languageguide.org Vietnamese]()
+- [Vietnamese Vocabulary Lists](https://www.vietnamesepod101.com/vietnamese-vocabulary-lists/): A complete list of basic Vietnamese vocabulary made by VietnamesePod101.
 
 ### Grammar
 - [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers like podcasts.
 
-- Elementary Vietnamese by Binh Nhu Ngo: Excellent reviews from community, I haven't read it myself, you can buy the book direct on Amazon (2003 Revised Version).
+- [Elementary Vietnamese by Binh Nhu Ngo](https://www.amazon.com/Elementary-Vietnamese-Binh-Nhu-Ph-D/dp/0804833699): Excellent reviews from community, I haven't read it myself, you can buy the book direct on Amazon (2003 Revised Version).
 
 - [seahorse viet grammar's archive](https://seahorseviet.wordpress.com/category/grammar/): Many grammar points but without sorting.
 
+### Chữ Nôm
+- [ChuNom.org](https://chunom.org/): There are some Chữ Nôm course offered by ChuNom.org
+- [Nom Foundation](https://nomfoundation.org/): The Vietnamese Nôm Preservation Foundation arose from the postwar efforts of Vietnamese and Americans who feared that an entire literary culture--the 1000 years of writing in Chữ Nôm used to record the Vietnamese language and its vast heritage of poetry, history, medicine, royal edict, and religion--was about to go extinct.
+
 ## Acquire Vietnamese
+
+### Movies & TV Shows
+- Nothing
+
+### Novels and Literary Texts
+- [HakoLN](https://ln.hako.vn/): Light novels and Web novels translated to Vietnamese
+- [DTV-Ebook](https://www.dtv-ebook.com): Download various Romance ebooks.
+- [1000 cuốn sách vang bóng một thời](https://tve-4u.org/forums/1000-quyen-sach-viet-mot-thoi-vang-bong.136/): old Vietnamese books (expired copyright) being digitalized. 
+
+### Manga
+- [Blogtruyenmoi](https://blogtruyenmoi.com/): A manga reader site made by Ngankvn, most of the mangas here are uploaded by users or scanlated groups.
+- [Nettruyen](https://nettruyenco.vn/): A pretty large manga reader site.
+
+### Audiobooks & Podcasts
+- [TVO Podcast](https://www.youtube.com/playlist?list=PLpDgPu_Hq9Zx5cejuDGZPWdDyTPAgse7P): A Podcast made by TiengVietOi - A Vietnamese learning Youtube channel.
+- [Podcastindex](https://podcastindex.org/): Listen to Podcast online without sign-in, not just Vietnamese Podcasts.
+
+### Forums
+- [VOZ](https://voz.vn/): VOZ (other names: Vnoczone, vOz, vOzforums, Vietnam Overclockers Zone) an online forum established since 2001, one of the largest Technogoly forum in Vietnamese. Despite the description, this forum has a lot of things to offer, not just Science & Technology.  
+- [OTOFUN](https://www.otofun.net/forums): Primarily about cars and auto.
+- [Blogtruyen Forum](https://forum.blogtruyenmoi.com/): An Forum for manga lovers, you can also read Vietnamese-translated manga here.
+- [TVE-4U](https://tve-4u.org/): The forum for book lovers and for downloading Vietnamese books made by volunteers.
 
 ### News
 - [VTVNews](https://vtv.vn/): Daily news about Vietnam.
@@ -23,16 +49,6 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Dân trí](https://dantri.com.vn/)
 - [VNExpress](https://vnexpress.net/)
 - [Tạp chí Tia sáng](https://tiasang.com.vn/): A Vietnamese science & technology magazine.
-	
-### Manga
-- [Blogtruyenmoi](https://blogtruyenmoi.com/)
-- [Nettruyen](https://nettruyenco.vn/)
-
-### Forums
-- [VOZ](https://voz.vn/)
-- [OTOFUN](https://www.otofun.net/forums): Primarily about cars and auto.
-- [Blogtruyen Forum](https://forum.blogtruyenmoi.com/): An Forum for manga lovers, you can also read Vietnamese-translated manga here.
-- [TVE-4U](https://tve-4u.org/): The forum for book lovers and for downloading Vietnamese books made by volunteers.
 
 ### Dictionaries
 #### Yomichan
@@ -43,17 +59,39 @@ Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) 
 - **[Từ Điển Tiếng Việt Thông Dụng](https://www.mediafire.com/file/ekopqoj0627tpkw/T%E1%BB%AB_%C4%91i%E1%BB%83n_ti%E1%BA%BFng_Vi%E1%BB%87t.zip/file)** Vie-Vie dictionary converted by Marsh Nguyễn. The dictionary data is from Từ Điển Tiếng Việt Thông Dụng and was sourced from [https://github.com/vntk/dictionary/tree/master/data](https://github.com/vntk/dictionary/tree/master/data) contains 42012 entries.
 
 #### Online
+- [VietnamesePod101 Dictionary](https://www.vietnamesepod101.com/vietnamese-dictionary/): A Vietnamese Dictionary made by VietnamesePod101.
 - [Soha](http://tratu.soha.vn/): Please change Search Mode to "Viet -> Anh" before searching.
 - [VDict](http://1.vndic.net/): Please change Search Mode to "Viet -> Anh" before searching.
 
 #### E-Reader Dictionaries
 - **[VNEDICT in stardict format](https://www.mediafire.com/folder/9ss2pn046fcjo/Vi%E1%BB%87t_-_Anh)**
 
+#### Other Tools
+
+- **[※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)** - Spaced repetition flashcard program. A must have. It is tricky to use at first. So please see the Mining section for guides on how to set it up (From the main guide).
+- [Unikey](https://www.unikey.org/download.html): Vietnamese Keyboard.
+- [EBWin](http://ebstudio.info/) - An epwing format dictionary reader. Good for look ups without a web browser.
+    
+
+### Applications (Mobile)
+
+#### Android
+
+- [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) - Port of Anki for Android devices.
+- [AnkiConnect for Android](https://github.com/KamWithK/AnkiconnectAndroid) - use AnkiConnect for 1 click card creation on Android.
+- [EBPocket Basic](https://play.google.com/store/apps/details?id=info.ebstudio.ebpocketfree) - this is an EPWING, Stardict and MDX dictionary reader, useful for monolingual dictionaries.
+- [EBPocket Professional APK](https://cdn.discordapp.com/attachments/813105334763126814/843591036831793172/info.ebstudio.ebpocket.apk) - APK of the full vesion of EBPocket.
+- [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=ja&gl=US) - Chromium based browser with extension support. You can use Yomichan on this.
+
+#### iOS
+
+- [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) - $24.99 official port of Anki for iOS.
+    
 ### Guides/Methods/Motivation
 
 - [All Japanese All The Time](https://learnjapanese.link/ajatt) - The reason why All Japanese All The Time, often abbreviated to AJATT, is still popular to this day, is because of the mindset building that it was able to achieve. The articles on that site can get you in the Japanese immersion spirit better than I or any other guide can.
 - [AntiMoon](http://www.antimoon.com/) - AntiMoon is a site made for English learners. It promotes learning through large amounts of input, also known as immersion. It has good articles on some of the practical methods used in immersion.
-- [TheMoeWay](http://learnjapanese.moe/)
+- [TheMoeWay](http://learnjapanese.moe/): Immersion-based Japanese guide.
 - [Donkuri Guide](https://donkuri.github.io/learn-japanese/)
 - [YouTube & Netflix mining guide](https://soyuz18.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565) - Youtube and netflix mining guide with asbplayer (also works with zoro.to and amazon prime video)
 
