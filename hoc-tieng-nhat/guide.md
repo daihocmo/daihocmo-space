@@ -1,1 +1,0 @@
-- https://donkuri.github.io/learn-japanese/guide/

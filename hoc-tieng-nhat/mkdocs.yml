@@ -1,0 +1,56 @@
+site_name: Học Tiếng Nhật qua Anime, Manga, Lightnovel.
+site_description: Học Tiếng Nhật thông qua việc tiêu thụ nội dung do người Nhật làm cho người Nhật (Immersion). Hoàn toàn miễn phí, tự học.
+site_author: onlyduyy  
+theme:
+  name: material
+  features:
+    - navigation.sections
+  palette:
+    primary: indigo
+
+nav:
+  - Home: 'index.md'
+  - 'Guide':
+    - 'Hướng dẫn chung': 'guide.md'
+    - 'Nói Tiếng Nhật': 'noi-tieng-nhat.md'
+    - 'Tiếng Nhật trong Anime': 'tieng-nhat-anime.md'
+    - 'Đọc Tiếng Nhật': 'doc-tieng-nhat.md'
+  - 'Yomitan':
+    - 'Yomitan Nhật - Việt': 'yomi-setup.md'
+  - 'Resources':
+    - 'Resources': 'resources.md'
+  - 'Tiêu thụ nội dung Nhật':
+    - 'Lightnovel': 'light-novel.md'
+    - 'Phim Ảnh': 'movies.md'
+    - 'Youtube': 'youtube.md'
+    - 'Anime & Manga': 'otaku-corner.md'
+      
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.suggest
+    - search.highlighting
+    - search.share
+  name: material
+
+extra:
+  generator: false

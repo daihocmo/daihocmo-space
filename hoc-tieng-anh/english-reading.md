@@ -1,2 +1,0 @@
-- Đọc là cách nhanh nhất giúp bạn cải thiện Tiếng Anh, cả về từ vựng, ngữ pháp và cả cách họ sử dụng và viết Tiếng Anh. Việc nạp cho mình đủ lượng thông tin đọc sẽ giúp Tiếng Anh của bạn tự nhiên hơn, trôi chảy hơn và thực sự gần với cách mà người bản xứ sẽ sử dụng Tiếng Anh hơn
-- 

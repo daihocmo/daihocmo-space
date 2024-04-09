@@ -1,2 +1,0 @@
-- Sau khi đã viết xong một cách tương đối về phương pháp ở bên, thì giờ là tập trung về Tiếng Anh
-- Những phần cần có

@@ -1,0 +1,2 @@
+## Tiếng Nhật trong Anime có "ổn" không?
+Trong Anime thì các nhân vật được lồng tiếng và các seiyuu đều nói rất rõ ràng nên Tiếng Nhật trong Anime thường dễ nghe hơn Tiếng Nhật ngoài đời thật vì bình thường người Nhật họ nói rất nhanh.

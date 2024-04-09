@@ -1,0 +1,55 @@
+site_name: Phương pháp học ngoại ngữ thông qua Immersion và Comprehensible Input.
+site_description: Bản Tiếng Việt của thuyết Input của bác Stephen Krashen
+site_author: onlyduyy  
+theme:
+  name: material
+  features:
+    - navigation.sections
+  palette:
+    primary: indigo
+
+nav:
+  - Home: 'index.md'
+  - 'Guide':
+    - 'Vietnamese Guide': 'guide.md'
+  - 'Yomitan':
+    - 'Yomitan for Vietnamese Dictionary': 'yomi-setup.md'
+  - 'Hán Nôm':
+    - 'Guide': 'han-nom.md'
+  - 'Resources':
+    - 'Resources': 'resources.md'
+  - 'Vietnamese Media Recommendation':
+    - 'Novels': 'books.md'
+    - 'Movies': 'movies.md'
+    - 'Youtube': 'youtube.md'
+    - 'Comprehensible Input': 'input.md'
+      
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.suggest
+    - search.highlighting
+    - search.share
+  name: material
+
+extra:
+  generator: false
