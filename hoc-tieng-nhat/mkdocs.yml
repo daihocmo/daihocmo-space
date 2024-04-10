@@ -1,4 +1,4 @@
-site_name: Học Tiếng Nhật qua Anime, Manga, Lightnovel.
+site_name: Học Tiếng Nhật qua Youtube, Phim Ảnh và hơn thế nữa.
 site_description: Học Tiếng Nhật thông qua việc tiêu thụ nội dung do người Nhật làm cho người Nhật (Immersion). Hoàn toàn miễn phí, tự học.
 site_author: onlyduyy  
 theme:
@@ -15,15 +15,16 @@ nav:
     - 'Nói Tiếng Nhật': 'noi-tieng-nhat.md'
     - 'Tiếng Nhật trong Anime': 'tieng-nhat-anime.md'
     - 'Đọc Tiếng Nhật': 'doc-tieng-nhat.md'
+    - 'Ngữ pháp': 'ngu-phap.md'
   - 'Yomitan':
     - 'Yomitan Nhật - Việt': 'yomi-setup.md'
   - 'Resources':
     - 'Resources': 'resources.md'
   - 'Tiêu thụ nội dung Nhật':
-    - 'Lightnovel': 'light-novel.md'
-    - 'Phim Ảnh': 'movies.md'
     - 'Youtube': 'youtube.md'
-    - 'Anime & Manga': 'otaku-corner.md'
+    - 'Phim Ảnh': 'phim-anh.md'
+    - 'Anime & Manga': 'anime.md'
+    - 'LN & VN': 'tieu-thuyet.md'
       
 theme:
   palette:

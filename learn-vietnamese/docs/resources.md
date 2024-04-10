@@ -11,13 +11,16 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Vietnamese Vocabulary Lists](https://www.vietnamesepod101.com/vietnamese-vocabulary-lists/): A complete list of basic Vietnamese vocabulary made by VietnamesePod101.
 
 ### Grammar
+- [onlyduyy's guide to Vietnamese Grammar](): Yet another Vietnamese grammar guide that doesn't suck.
+
 - [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers.
 
-- [Elementary Vietnamese by Binh Nhu Ngo](https://www.amazon.com/Elementary-Vietnamese-Binh-Nhu-Ph-D/dp/0804833699): Excellent reviews from community, I haven't read it myself, you can buy the book direct on Amazon (2003 Revised Version).
+- [Elementary Vietnamese by Binh Nhu Ngo](https://www.amazon.com/Elementary-Vietnamese-Binh-Nhu-Ph-D/dp/0804833699): Excellent reviews from community, I haven't read it myself, you can buy the book directly on Amazon (2003 Revised Version).
 
 - [seahorse viet grammar's archive](https://seahorseviet.wordpress.com/category/grammar/): Many grammar points but without sorting.
 
 - [Vietnamese Grammar by Soi](https://ankiweb.net/shared/info/1707723482): An Anki deck for learning Vietnamese Grammar. There are audios for different dialects!
+
 ### Chữ Nôm
 - [ChuNom.org](https://chunom.org/): There are some Chữ Nôm course offered by ChuNom.org
 - [Nom Foundation](https://nomfoundation.org/): an American nonprofit agency for Han Nom preservation. 
@@ -32,15 +35,18 @@ You just have to click one of the links here and it will directs you to the Viet
 - [VieChannel](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw): There are a lot of gameshows in this channel.
 
 ### Novels and Literary Texts
-- [HakoLN](https://ln.hako.vn/): Light novels and Web novels translated to Vietnamese
+- [Hako](https://ln.hako.vn/): Light novels and Web novels translated to Vietnamese
 - [DTV-Ebook](https://www.dtv-ebook.com): Download various Romance ebooks.
 - [1000 cuốn sách vang bóng một thời](https://tve-4u.org/forums/1000-quyen-sach-viet-mot-thoi-vang-bong.136/): old Vietnamese books (expired copyright) being digitalized. 
 
 ### Manga
+- [Manga Recommendation](): From Japanese Media Recommendation, you can choose the same manga to read on any of these manga reading sites. 
 - [Blogtruyenmoi](https://blogtruyenmoi.com/): A manga reader site made by Ngankvn, most of the mangas here are uploaded by users or scanlated groups.
 - [Nettruyen](https://nettruyenco.vn/): A pretty large manga reader site.
+- [TruyenQQVN](https://truyenqqvn.com/): Another manga (and manwa, manhua) reading site.  
 
 ### Audiobooks & Podcasts
+- [Vietnamese Podcast Suggestion](): A list of suggestions for which Vietnamese podcasts to listen to.
 - [TVO Podcast](https://www.youtube.com/playlist?list=PLpDgPu_Hq9Zx5cejuDGZPWdDyTPAgse7P): A Podcast made by TiengVietOi - A Vietnamese learning Youtube channel.
 - [Podcastindex](https://podcastindex.org/): Listen to Podcast online without sign-in, not just Vietnamese Podcasts.
 
@@ -52,7 +58,7 @@ You just have to click one of the links here and it will directs you to the Viet
 
 ### News
 - [VTVNews](https://vtv.vn/): Daily news about Vietnam.
-- [Vietnamnet](https://vietnamnet.vn/)
+- [Vietnamnet](https://vietnamnet.vn/): News 
 - [Dân trí](https://dantri.com.vn/)
 - [VNExpress](https://vnexpress.net/)
 - [Tạp chí Tia sáng](https://tiasang.com.vn/): A Vietnamese science & technology magazine.

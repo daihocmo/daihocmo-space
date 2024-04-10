@@ -12,13 +12,14 @@ nav:
   - Home: 'index.md'
   - 'Guide':
     - 'Hướng dẫn chính': 'guide.md'
-  - 'Resources':
-    - 'Resources': 'resources.md'
+    - 'Đầu vào dễ hiểu ': 'dau-vao.md'
+    - 'Tổng hợp ngữ pháp': 'ngu-phap.md'
+  - 'Khu tài nguyên':
+    - 'Tài nguyên học': 'resources.md'
   - 'English Media Recommendation':
-    - 'Văn Học': 'books.md'
-    - 'Phim Ảnh': 'movies.md'
+    - 'Văn Học': 'sach.md'
+    - 'Phim Ảnh': 'phim-anh.md'
     - 'Youtube': 'youtube.md'
-    - 'Đầu vào dễ hiểu ^^?': 'input.md'
       
 theme:
   palette:
