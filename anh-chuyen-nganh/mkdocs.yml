@@ -1,1 +1,59 @@
-site_name: My Docs
+site_name: Tiếng Anh Chuyên Ngành (ESP)
+site_description: Bản Tiếng Việt của thuyết Input của bác Stephen Krashen
+site_author: onlyduyy  
+theme:
+  name: material
+  features:
+    - navigation.sections
+  palette:
+    primary: indigo
+
+nav:
+  - Home: 'index.md'
+  - 'Động lực':
+    - 'Để học thật tốt ngoại ngữ': how-to-languages.md
+  - 'Hướng dẫn':
+    - 'Giới thiệu về việc học ngoại ngữ': 'guide.md'
+    - 'Nói về Comprehensible Input': 'yomi-setup.md'
+  - 'Immersion':
+    - 'Guide': 'han-nom.md'
+    - 'Guide': 'han-nom.md'
+    - 'Guide': 'han-nom.md'
+    - 'Guide': 'han-nom.md'
+  - 'Quá trình học':
+    - Sentence mining
+    - Sử dụng Anki
+    - 'Timeboxing'
+  - Học qua mọi thứ
+    - 'Xem phim ảnh'
+    - 'Học qua Youtube'
+      
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.suggest
+    - search.highlighting
+    - search.share
+  name: material
+
+extra:
+  generator: false

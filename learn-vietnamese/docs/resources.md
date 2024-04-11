@@ -11,7 +11,7 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Vietnamese Vocabulary Lists](https://www.vietnamesepod101.com/vietnamese-vocabulary-lists/): A complete list of basic Vietnamese vocabulary made by VietnamesePod101.
 
 ### Grammar
-- [onlyduyy's guide to Vietnamese Grammar](): Yet another Vietnamese grammar guide that doesn't suck.
+- [onlyduyy's guide to Vietnamese Grammar](): Yet another Vietnamese grammar guide that doesn't suck. Currently in progress.
 
 - [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers.
 
@@ -35,9 +35,15 @@ You just have to click one of the links here and it will directs you to the Viet
 - [VieChannel](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw): There are a lot of gameshows in this channel.
 
 ### Novels and Literary Texts
+#### Real Vietnamese literature
+- [Văn học trẻ - Truyện ngắn](https://vanhoctre.com/tac-gia-tac-pham/van-hoc-viet-nam/truyen-ngan): Collection of short stories.
+- [Báo Nhân Dân - Mục truyện ngắn](https://nhandan.vn/truyen-ngan/): Collection of short stories from Nhan Dan Newspaper.
+- [Hội nhà văn - Truyện ngắn](https://vanvn.vn/tac-pham-moi/truyen-ngan/): Same as above, but written by people from "Hội nhà văn".
+- [Wikisource Vietnamese Short Stories Collection](https://vi.wikisource.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Truy%E1%BB%87n_ng%E1%BA%AFn_Vi%E1%BB%87t_Nam): Collection of short stories from Wikisource
+- [1000 cuốn sách vang bóng một thời](https://tve-4u.org/forums/1000-quyen-sach-viet-mot-thoi-vang-bong.136/): old Vietnamese books (expired copyright) being digitalized. 
+#### Light novel, web novel
 - [Hako](https://ln.hako.vn/): Light novels and Web novels translated to Vietnamese
 - [DTV-Ebook](https://www.dtv-ebook.com): Download various Romance ebooks.
-- [1000 cuốn sách vang bóng một thời](https://tve-4u.org/forums/1000-quyen-sach-viet-mot-thoi-vang-bong.136/): old Vietnamese books (expired copyright) being digitalized. 
 
 ### Manga
 - [Manga Recommendation](): From Japanese Media Recommendation, you can choose the same manga to read on any of these manga reading sites. 

@@ -1,6 +1,14 @@
-This guide was originally written by TheMoeWay Community for Japanese Learners, I just copied it and made some changes to make it suitable for Vietnamese learners (This guide only includes the content from section 2.1 to the end of the guide. If you wanna read the full guide, please check the original guide [here](https://learnjapanese.moe/guide/)). All credit goes to the original authors.
+The structure of this guide is based on [TheMoeWay Community for Japanese Learners](https://learnjapanese.moe/guide/) (This guide includes the "Preface" part, feel free to check this out).
 
-## 2.1 How to learn Vietnamese (Northern Dialect)
+Basically, Vietnamese language:
+
+- No conjugation you would need to remember.
+
+- Lots of loan words from Chinese (if you know some Chinese, you have something to associate your new vocabulary with).
+
+- The script: Latin-based.
+
+## 1.1 How to learn Vietnamese (Northern Dialect)
 There are so many Vietnamese southern dialect resources and learning guides out there but rarely for Northern dialect. There are several reasons why you may wanna learn Vietnamese in Northern Dialect from the beginning:
 
 - The pronunciation is clearer, sharper, easier to comprehend.
@@ -8,6 +16,7 @@ There are so many Vietnamese southern dialect resources and learning guides out 
 - Northern dialect is Vietnamese standard dialect.
 
 - The character and the tone sound consistent in Northern dialect. 
+
 
 Don't worry about the dialects too much when you have just started learning Vietnamese. As a Northern dialect speaker, I can perfectly understand Southern dialect (It's not like learning another language, just some minor differences in pronunciation). The dialect only matters in listening and speaking (I know most of Vietnamese learners know this, but still, I want to emphasize it)
 
@@ -25,11 +34,11 @@ The learning process for the beginner consists of:
 - Starting immersion with easy content and with high repetition. This is how you will be spending most of your time.
 
 
-## 2.2 Vietnamese alphabet
+## 1.2 Vietnamese alphabet
 ![alphabet.png](./Image/alphabet.png)
 The Vietnamese alphabet, also known as the Quốc ngữ script, stands as the official writing system of Vietnam, reflecting the linguistic and cultural heritage of the country. This unique script, unlike many other East Asian writing systems, is based on the Latin alphabet, showcasing the influence of Western linguistic traditions in Vietnam’s language development. The alphabet consists of 29 letters, including 14 consonants and 15 vowels. Each letter has a unique sound, and it is essential to know how to pronounce them correctly in order to speak and read Vietnamese fluently ([Check TVO here](https://www.tiengvietoi.com/post/vietnamese-alphabet-pronunciation-a-brief-introduction/)). 
 
-### How to learn the alphabet
+### 1.3 How to learn the alphabet
 ### Step 1: the chart
 ![bang_chu_cai](./Image/bang_chu_cai.png)
 
@@ -72,7 +81,7 @@ What also helps immensely in memorising the alphabet and the tones is reading Vi
 I recommend practising by trying to read some storybooks, which you can find [here](https://global-asp.github.io/storybooks-sah/stories/vi/).
 
 
-## 2.4 Learning Vocabulary
+## 1.4 Learning Vocabulary
 To make Vietnamese less daunting, I recommend you work through a beginner-level vocabulary deck for Anki. This is a deck consisting of around _1500_ words aimed at teaching you the most common Vietnamese words to jumpstart your Vietnamese learning.
 
 ### Quick Anki Setup
@@ -114,7 +123,7 @@ This, in essence, is how we are going to learn vocabulary in the beginner stage.
 
 Once you have completed your new cards for the day, make sure you come back the next day to check your reviews!
 
-## 2.5 Grammar
+## 1.5 Grammar
 
 Learning grammar can be straightforward and complex at the same time. It's quite essential to learning Vietnamese and while it might seem daunting at first, there are resources out there that help make the learning process easier. The grammar learning process is relatively simple; just pick up a guide and read/watch it.
 
@@ -129,7 +138,7 @@ Here are a few guides I wanna recommend to total beginners. You do not need to d
 It is prime time to start getting some immersion going when you have learned some new grammar points. Seeing how the grammar you learned is applied in real usages really helps further your understanding of the grammar points.
 
 
-## 2.6 Beginner immersion: an uphill battle
+## 1.6 Beginner immersion: an uphill battle
 
 If you recall from section 1.3, I touched on something known as comprehensible input. This is input that is understandable at your level, where there’s just a few missing pieces of the puzzle every few sentences. With this sort of immersion, you subconsciously fill in the incomprehensible parts with educated guesses based on context, which is what makes this type of input so useful for the purposes of language learning.
 
@@ -141,7 +150,7 @@ So how can we make it so we don’t constantly dread having to parse through con
 
 The answer is actually very simple. Fun! Media can be entertaining for reasons other than language content. By choosing media that also has high entertainment value regardless of its language level, we are able to stay consistently engaged and motivated to continue our immersion. Then, as our language experience grows, we naturally find ourselves understanding more and more, and the once seemingly unattainable goal of finding comprehensible input has now become a given, with the goal rather shifting to finding content that is difficult enough to push us to continue learning.
 
-## 2.7 How to immerse
+## 1.7 How to immerse
 
 ### Reading & Dictionaries
 
@@ -151,7 +160,7 @@ To look up words individually, you can use [Soha](http://tratu.soha.vn/) (Rememb
 
 ### Choosing immersion content
 
-Honestly, pick whatever you want. If you don't have anything in mind you can just check [Vietnamese Media Recommendation](https://daihocmo.github.io/vietmoe/youtube/). Just make sure you're actually interested in whatever you're choosing to immerse with!
+Honestly, pick whatever you want. If you don't have anything in mind you can just check [Vietnamese Media Recommendation](https://daihocmo.github.io/learn-vietnamese/youtube/). Just make sure you're actually interested in whatever you're choosing to immerse with!
 
 ### How to immerse with listening
 
@@ -175,7 +184,7 @@ Reading content with a visual component such as Youtube videos, Manga can help e
 In the beginner stage I recommend a 7:3 listening to reading ratio. This is mainly because listening is the most natural form of the language, so I believe it is essential to prioritise it to make your brain process Japanese more naturally.  
 You can start to lower the amount of listening to an equal 5:5 ratio when you get better at Vietnamese.
 
-## 2.8 Beginner learning loop
+## 1.8 Beginner learning loop
 
 ### The wrong way to do it
 
@@ -223,21 +232,3 @@ Thank you so much for taking your time to read this guide and I wish you good lu
 If you have any questions, you can ask away at our Discord server (TheMoeWay server, there is a Vietnamese channel in the server).
 
 [Join the Discord](http://learnjapanese.moe/join/)
-
-
-### Contributors (From TheMoeWay's guide)
-
-I'd like to thank everyone that has contributed to the making of this guide:
-
-iamatryhard  
-shigatsunoraion  
-qazsedctgb  
-ktamashi  
-kaio.n  
-saegusa.mayumin  
-pedipanol  
-.ikki.  
-ultravioletspring  
-deviru  
-kazuhira___  
-marv.n

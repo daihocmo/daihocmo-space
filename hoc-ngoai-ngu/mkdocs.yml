@@ -10,19 +10,23 @@ theme:
 
 nav:
   - Home: 'index.md'
-  - 'Guide':
-    - 'Vietnamese Guide': 'guide.md'
-  - 'Yomitan':
-    - 'Yomitan for Vietnamese Dictionary': 'yomi-setup.md'
-  - 'Hán Nôm':
+  - 'Động lực':
+    - 'Để học thật tốt ngoại ngữ': how-to-languages.md
+  - 'Hướng dẫn':
+    - 'Giới thiệu về việc học ngoại ngữ': 'guide.md'
+    - 'Nói về Comprehensible Input': 'yomi-setup.md'
+  - 'Immersion':
     - 'Guide': 'han-nom.md'
-  - 'Resources':
-    - 'Resources': 'resources.md'
-  - 'Vietnamese Media Recommendation':
-    - 'Novels': 'books.md'
-    - 'Movies': 'movies.md'
-    - 'Youtube': 'youtube.md'
-    - 'Comprehensible Input': 'input.md'
+    - 'Guide': 'han-nom.md'
+    - 'Guide': 'han-nom.md'
+    - 'Guide': 'han-nom.md'
+  - 'Quá trình học':
+    - Sentence mining
+    - Sử dụng Anki
+    - 'Timeboxing'
+  - Học qua mọi thứ
+    - 'Xem phim ảnh'
+    - 'Học qua Youtube'
       
 theme:
   palette:
