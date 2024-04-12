@@ -1,0 +1,1 @@
+_Understanding Vietnam's culture could make your Vietnamese learning journey much easier._
