@@ -12,6 +12,8 @@ nav:
   - Home: 'index.md'
   - 'Guide':
     - 'Vietnamese Guide': 'guide.md'
+    - 'Reading': 'reading-guide.md'
+    - 'Sentence Mining': 'asbplayer.md'
   - 'Yomitan':
     - 'Yomitan for Vietnamese Dictionary': 'yomi-setup.md'
   - 'Hán Nôm':
