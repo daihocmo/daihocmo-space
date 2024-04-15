@@ -78,9 +78,10 @@ Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) 
 - **[Từ Điển Tiếng Việt Thông Dụng](https://www.mediafire.com/file/ekopqoj0627tpkw/T%E1%BB%AB_%C4%91i%E1%BB%83n_ti%E1%BA%BFng_Vi%E1%BB%87t.zip/file)** Vie-Vie dictionary converted by Marsh Nguyễn. The dictionary data is from Từ Điển Tiếng Việt Thông Dụng and was sourced from [https://github.com/vntk/dictionary/tree/master/data](https://github.com/vntk/dictionary/tree/master/data) contains 42012 entries.
 
 #### Online
-- [VietnamesePod101 Dictionary](https://www.vietnamesepod101.com/vietnamese-dictionary/): A Vietnamese Dictionary made by VietnamesePod101.
-- [Soha](http://tratu.soha.vn/): Please change Search Mode to "Viet -> Anh" before searching.
-- [VDict](http://1.vndic.net/): Please change Search Mode to "Viet -> Anh" before searching.
+- [Forvo](https://forvo.com/languages/vi/): Search for a word and hear it pronounced by a native speaker.
+- [VietnamesePod101 Dictionary](https://www.vietnamesepod101.com/vietnamese-dictionary/) - A Vietnamese Dictionary made by VietnamesePod101.
+- [VDict](http://1.vndic.net/) (bilingual) - If you are a beginner, use this. 
+- [Soha](http://tratu.soha.vn/) (bilingual) - If you are a beginner, you can use this too. 
 
 #### E-Reader Dictionaries
 - **[VNEDICT in stardict format](https://www.mediafire.com/folder/9ss2pn046fcjo/Vi%E1%BB%87t_-_Anh)**

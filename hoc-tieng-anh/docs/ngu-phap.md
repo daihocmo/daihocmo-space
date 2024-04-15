@@ -2,21 +2,9 @@
 
 **Thì hiện tại đơn (Simple present tense)** dùng để diễn tả một sự thật hiển nhiên hay một hành động diễn ra lặp đi lặp lại theo thói quen, phong tục, khả năng.
 
-- **Thì hiện tại đơn diễn tả một sự thật hiển nhiên, một chân lý.**
-
-Ex: The sun rises in the East and sets in the West (Mặt trời mọc ở hướng Đông và lặn ở hướng Tây)
-
-- **Thì hiện tại đơn diễn tả 1 hành động xảy ra thường xuyên, một thói quen ở hiện tại.**
-
-Ex: He gets up early every morning.(Anh dậy sớm mỗi sáng.)
-
-- **Thì hiện tại đơn diễn tả một năng lực của con người**
-
-Ex: He plays badminton very well (Anh ấy chơi cầu lông rất giỏi)
-
-- **Ngoài ra, thì hiện tại đơn còn diễn tả một kế hoạch đã được sắp xếp trong tương lai, đặc biệt là trong việc di chuyển.**
-
-Ex: The train leaves at 9 am tomorrow (Tàu khởi hành lúc 9 giờ sáng ngày mai)
+Ex: The sun rises in the East and sets in the West (Mặt trời mọc ở hướng Đông và lặn ở hướng Tây) - (Sự thật hiển nhiên)
+Ex: He gets up early every morning.(Anh dậy sớm mỗi sáng.) - (Thói quen)
+Ex: The train leaves at 9 am tomorrow (Tàu khởi hành lúc 9 giờ sáng ngày mai) - (Lịch trình)
 
 Trong câu có chứa các trạng từ chỉ tần suất như:
 
@@ -30,20 +18,11 @@ Trong câu có chứa các trạng từ chỉ tần suất như:
 
 **Thì hiện tại tiếp diễn** **(Present continuous tense)** dùng để diễn tả những sự việc xảy ra ngay lúc chúng ta nói hay xung quanh thời điểm chúng ta nói, và hành động đó vẫn chưa chấm dứt (còn tiếp tục diễn ra).
 
-
-- **Diễn tả một hành động đang diễn ra và kéo dài tại một thời điểm ở hiện tại.**
-
 Ex: The children are playing football now. (Bọn trẻ đang chơi bóng đá bây giờ.)
-
-- **Thường tiếp theo sau mệnh lệnh, câu đề nghị.**
 
 Ex: Look! The child is crying. (Nhìn xem! Đứa trẻ đang khóc.)
 
-- **Diễn tả 1 hành động xảy ra lặp đi lặp lại, dùng phó từ ALWAYS :**
-
-Ex: She is always borrowing our books and then she doesn’t remember. (Cô ấy luôn mượn sách của chúng tôi và sau đó cô ấy không nhớ.)
-
-- **Diễn tả một hành động sắp xảy ra (ở trong tương lai gần)**
+Ex: She is always borrowing our books and then she doesn’t remember. (Cô ấy luôn mượn sách của chúng tôi và sau đó cô ấy không nhớ.) - (Thường ám chỉ thói quen xấu)
 
 Ex: Tomorrow, I am taking to the train to ohio to visit a relative (ngày mai, tôi sẽ đi tàu tới Ohio để thăm người thân)
 
