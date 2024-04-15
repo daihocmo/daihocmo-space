@@ -1,3 +1,5 @@
+_Vẽ nhiều là cách luyện tập và trở lên giỏi hơn trong vẽ nhanh nhất._
+
 So you want to draw manga, well you will probably get answers that direct you to Drawing on the Right Side of the brain (to "start"), Proko for anatomy, instructions to draw from life and studying realism here.
 
 Now let me list some resources/insight that I've accrued in my journey towards your similar goal.

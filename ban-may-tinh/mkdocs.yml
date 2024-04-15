@@ -1,5 +1,5 @@
-site_name: Tự học vẽ
-site_description: Tự học vẽ thành thạo thông qua các tài nguyên miễn phí.
+site_name: Sử dụng máy tính một cách năng suất và bảo mật
+site_description: Nâng cao năng suất làm việc đồng thời bảo vệ bản thân tốt hơn trên không gian mạng khi sử dụng máy tính.
 site_author: onlyduyy  
 theme:
   name: material
@@ -11,11 +11,17 @@ theme:
 nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
-    - 'Học sao?': 'guide.md'
-  - 'Tài nguyên':
-    - 'Tài nguyên học': 'resources.md'
-
-      
+    - 'Khởi đầu': 'gioi-thieu.md' 
+    - 'Internet?': 'guide.md'
+    - 'Công cụ - tối ưu': 'cong-cu-toi-uu.md'
+  - 'Năng suất':
+    - 'Phương pháp Zettelkasten': 'zettelkasten.md'
+    - 'Quản lý kiến thức - Obsidian': 'obsidian.md'
+    - 'Ôn tập hiệu quả - Anki': 'anki.md'
+    - 'Plain Text: Văn bản thuần': 'plain-text.md'
+  - 'Bảo mật & Riêng tư':
+    - 'Linux': 'linux-in-a-nutshell.md'    
+    - 'An toàn trên mạng': 'an-toan-tren-mang.md'
 theme:
   palette:
     # Palette toggle for light mode
