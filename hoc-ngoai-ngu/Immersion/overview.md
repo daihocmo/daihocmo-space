@@ -1,1 +1,0 @@
-Trích dẫn từ bài viết của Donkuri

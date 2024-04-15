@@ -1,1 +1,0 @@
-Ban can lam gif?

@@ -1,5 +1,5 @@
-site_name: Học lập trình
-site_description: Bản Tiếng Việt của thuyết Input của bác Stephen Krashen
+site_name: Giáo trình khoa học máy tính OSSU
+site_description: Giáo trình khoa học máy tính/Công nghệ thông tin dựa trên giáo trình của OSSU, nay có bản Tiếng Việt.
 site_author: onlyduyy  
 theme:
   name: material
@@ -11,13 +11,7 @@ theme:
 nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
-    - '': 'guide.md'
-    - 'Nói về Comprehensible Input': 'yomi-setup.md'
-  - 'Immersion':
-    - 'Guide': 'han-nom.md'
-    - 'Guide': 'han-nom.md'
-    - 'Guide': 'han-nom.md'
-    - 'Guide': 'han-nom.md'
+    - 'Giáo trình': 'guide.md'
       
 theme:
   palette:

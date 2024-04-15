@@ -1,17 +1,3 @@
-# Welcome to MkDocs
+Học toàn bộ cả giáo trình chương trình Khoa học máy tính/Công nghệ thông tin bậc đại học hoàn toàn miễn phí.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Giáo trình gốc thuộc OSSU.

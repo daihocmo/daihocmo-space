@@ -1,5 +1,5 @@
 site_name: Phương pháp học ngoại ngữ thông qua Immersion và Comprehensible Input.
-site_description: Bản Tiếng Việt của thuyết Input của bác Stephen Krashen
+site_description: Tự học ngoại ngữ và thành thạo thông qua các tài nguyên miễn phí.
 site_author: onlyduyy  
 theme:
   name: material
@@ -11,22 +11,27 @@ theme:
 nav:
   - Home: 'index.md'
   - 'Động lực':
-    - 'Để học thật tốt ngoại ngữ': how-to-languages.md
+    - 'Động lực học': 'cai-thien-dong-luc.md'
+    - 'Để học thật tốt ngoại ngữ': 'de-hoc-tot-ngoai-ngu.md'
   - 'Hướng dẫn':
-    - 'Giới thiệu về việc học ngoại ngữ': 'guide.md'
-    - 'Nói về Comprehensible Input': 'yomi-setup.md'
+    - 'Học ngoại ngữ': 'guide.md'
+    - 'Comprehensible Input': 'input.md'
+    - 'Vùng ngôn ngữ': 'language-domain.md'
+    - 'Lặp lại ngắt quãng': 'srs.md'
+    - 'Cách đọc để học': 'reading.md'
   - 'Immersion':
-    - 'Guide': 'han-nom.md'
-    - 'Guide': 'han-nom.md'
-    - 'Guide': 'han-nom.md'
-    - 'Guide': 'han-nom.md'
+    - 'Overview': 'overview.md'
+    - 'Mass Immersion': 'mass.md'
+    - 'Active Immersion': 'active.md'
+    - 'Passive Immersion': 'passive.md'
   - 'Quá trình học':
-    - Sentence mining
-    - Sử dụng Anki
-    - 'Timeboxing'
-  - Học qua mọi thứ
-    - 'Xem phim ảnh'
-    - 'Học qua Youtube'
+    - 'Sentence mining': 'sentence-mining.md'
+    - 'Anki': 'anki.md'
+    - 'Timeboxing': 'timeboxing.md'
+  - 'Học Tiếng Anh qua':
+    - 'Xem phim ảnh': 'phim-anh.md'
+    - 'Youtube': 'youtube.md'
+    - 'Đọc sách': 'kindle.md'
       
 theme:
   palette:
