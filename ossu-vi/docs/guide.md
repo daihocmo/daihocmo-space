@@ -2,7 +2,7 @@
 
 # Curriculum
 
-**Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
+**Curriculum version**: `8.0.0`
 
 - [Prerequisites](#prerequisites)
 - [Intro CS](#intro-cs)
