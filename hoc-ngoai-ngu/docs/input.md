@@ -1,3 +1,9 @@
+It works. However, I want to note that it's very easy to get lost trying to find input sources that are actually at your level. Instead of spending hours upon hours searching for that perfect show/cartoon where people speak precisely at the level that you can understand, it's better to just pick something that seems interesting to you and just watch it even if it happens to be way above your level. Otherwise chances are you'll just end up not watching anything at all. Either way you're not gonna understand a damn thing in the beginning, so don't sweat the small details too much.
+
+If you do want a recommendation for a beginner-friendly show, I've yet to find anything better than 楽しいムーミン一家. It's even easier to understand than shows like Pokemon. And it's also really good.
+
+Also, don't make the mistake of thinking you can get away with not reading. Most of your vocabulary gain is gonna be through the written medium. The idea of comprehensible input applies to books too.
+
 # Input là gì và tại sao bạn thực sự cần nó
 
 (Bài viết thuộc bản dịch của cộng đồng Antimoon Việt Nam, mình chỉ chia sẻ lại)
