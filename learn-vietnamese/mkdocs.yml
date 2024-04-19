@@ -13,6 +13,7 @@ nav:
   - 'Guide':
     - 'Vietnamese Guide': 'guide.md'
     - 'Reading': 'reading-guide.md'
+    - 'Vietnamese Culture': 'viet-culture.md'
   - 'Comprehensible Input':
     - 'Guide': 'input-guide.md'
     - 'Resources': 'input-resources.md'
