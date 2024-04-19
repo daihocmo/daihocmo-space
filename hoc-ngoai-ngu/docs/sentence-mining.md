@@ -104,9 +104,7 @@ Feel free to ask me any questions, up to now I've mined around 2000 sentences.
 
 ### Phần khác
 
-
-
-    When mining do you just add a card with the word?
+When mining do you just add a card with the word?
 
 You add the whole sentence. This way you have a sentence with 1 word you don't know and now know how the word works in a sentence + some context in which the word can be used.
 

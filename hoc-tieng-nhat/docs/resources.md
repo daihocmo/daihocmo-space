@@ -1,5 +1,10 @@
 Đây là trang tài nguyên của TheMoeWay, xem trang gốc và đầy đủ hơn [tại đây](https://learnjapanese.moe/resources/). Bên trang gốc sẽ có nhiều hơn nên mọi người nên qua đó nha, nhất là khi bạn đã có nền Tiếng Anh vững.
 
+## Đặc biệt
+- [Kuzuri's Resources](https://kuzuri.neocities.org/resources): Trang tổng hợp tất cả tài nguyên học Tiếng Nhật hoàn toàn miễn phí!
+- [Unofficial languagegainz Discord JP Resource Page](https://docs.google.com/document/d/1EyIKdsFgsakIh568loSanprRbgzZeAiRTNVkDWoY5RI/edit#heading=h.vf40j64cv0rm): Một trang tổng hợp tài nguyên của languagegainz.
+- [GaijinRyman](https://github.com/GaijinRyman/JapaneseResources): Tài nguyên học các kiểu của GaijinRyman, trên Github.
+
 ## Learning Japanese
 
 ### Kana
@@ -32,7 +37,8 @@
 - [Nyaa.si](https://nyaa.si/?q=&f=0&c=1_4) - Trang chia sẻ .torrent các Anime không có phụ đề. Nên dùng **qBittorrent** để xử lý cái này!
 - [asbplayer Chrome Extension](https://github.com/killergerbah/asbplayer/releases): Mạnh lắm, nên thử, học ngoại ngữ gì cũng dùng được cái này.
 - [Animelon](https://animelon.com/) - Trang để học Tiếng Nhật thông qua Anime.
-- [Anix.to]() - Xem Anime không phụ đề, chuyển sang Soft-sub rồi tắt phụ đề đi. Dùng asbplayer để thêm phụ đề vào :<
+- [Anix.to](https://anix.to/home) - Xem Anime không phụ đề, chuyển sang Soft-sub rồi tắt phụ đề đi. Dùng asbplayer để thêm phụ đề Nhật vào nếu bạn muốn xem phụ đề Nhật.
+
 
 ### Phim và J-Drama
 
@@ -52,7 +58,7 @@
 
 - [Itazuraneko Extended Ebook Novel](https://yonde.itazuraneko.org/) - Kho tải light novel và các tiểu thuyết Nhật, bấm Ctrl + F để tìm sách
 - [Aozora Bunko](https://www.aozora.gr.jp/) - văn học cổ điển của Nhật
-- **[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Trang web giúp đọc sách điện tử (.epub) trực tiếp trên trình duyệt, hỗ trợ cho Tiếng Nhật
+- **[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Trang web giúp đọc sách điện tử (.epub) trực tiếp trên trình duyệt, hỗ trợ cho Tiếng Nhật, để dùng Yomitan!
 
 
 ### Audiobooks & Podcasts
@@ -79,12 +85,11 @@ Cho việc nghe thụ động, đây là những tệp âm thanh được lọc 
 - [Condensed Audio 5](https://www.paliss.com/)
 - [Condense your own audio](https://ercanserteli.com/condenser/)
 
-### 
 
 ### Từ điển
 
 #### Yomichan
 
-- [Tải Yomitan ](https://foosoft.net/projects/yomichan/) - Từ điển tra từ trực tiếp trên trình duyệt
-- Hướng dẫn cách cài: [click here](https://learnjapanese.moe/yomichan)
-- [Tải từ điển Nhật - Anh ở trang này](https://github.com/MarvNC/yomichan-dictionaries): Hiện tại vẫn chưa có từ điển Nhật Việt cho Yomitan nào tốt :<
+- [Tải Yomitan](https://foosoft.net/projects/yomichan/) - Từ điển tra từ trực tiếp trên trình duyệt
+- Hướng dẫn cách cài: [bấm vào đây](https://learnjapanese.moe/yomichan)
+- [Tải từ điển Nhật - Anh ở trang này](https://github.com/MarvNC/yomichan-dictionaries): Hiện tại vẫn chưa có từ điển Nhật Việt cho Yomitan nào tốt.

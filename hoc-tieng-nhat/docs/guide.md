@@ -1,5 +1,7 @@
 ### Trước khi vào đọc lộ trình
+
 Xem thử Roadmap ngắn này được làm bởi donkuri.
+
 Đây cũng là hướng dẫn mình tham khảo và thấy đơn giản và ngắn gọn nhất, bởi phần lớn thời gian bọn mình học sẽ là tập trung vào xem Media Nhật nói chung. Đây cũng sẽ là lúc bạn tận hưởng quá trình học nhất ^^!
 
 ![roadmap](https://donkuri.github.io/learn-japanese/img/jp-flowchart.png)

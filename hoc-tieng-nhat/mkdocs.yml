@@ -10,18 +10,20 @@ theme:
 
 nav:
   - Home: 'index.md'
-  - 'Guide':
-    - 'Hướng dẫn chung': 'guide.md'
-    - 'Nói Tiếng Nhật': 'noi-tieng-nhat.md'
-    - 'Tiếng Nhật trong Anime': 'tieng-nhat-anime.md'
-    - 'Đọc Tiếng Nhật': 'doc-tieng-nhat.md'
+  - 'Hướng dẫn':
+    - 'Chung': 'guide.md'
+    - 'Nói': 'noi-tieng-nhat.md'
+    - 'Anime': 'tieng-nhat-anime.md'
+    - 'Đọc': 'doc-tieng-nhat.md'
     - 'Ngữ pháp': 'ngu-phap.md'
-  - 'Yomitan':
-    - 'Hướng dẫn cài đặt': 'yomi-setup.md'
-  - 'Resources':
-    - 'Resources': 'resources.md'
-  - 'Tiêu thụ nội dung Nhật':
+  - 'Công cụ':
+    - 'Yomitan': 'yomi-setup.md'
+    - 'Anki': 'anki.md'
+  - 'Tài nguyên':
+    - 'Tài nguyên': 'resources.md'
+  - 'Nội dung Nhật':
     - 'Youtube': 'youtube.md'
+    - 'Podcasts': 'podcasts.md'
     - 'Phim Ảnh': 'phim-anh.md'
     - 'Anime & Manga': 'anime.md'
     - 'LN & VN': 'tieu-thuyet.md'
