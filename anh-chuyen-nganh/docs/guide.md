@@ -1,0 +1,1 @@
+Trước khi đến với ESP, bạn nên có một lượng Tiếng Anh đủ chắc! Đọc thêm về nó ở trang Tiếng Anh của 'Khu học mở' [tại đây](https://daihocmo.github.io/hoc-tieng-anh/)

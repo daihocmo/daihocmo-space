@@ -1,4 +1,4 @@
-site_name: Sử dụng máy tính một cách năng suất và bảo mật
+site_name: Sử dụng Linux và các công cụ tối ưu cho công việc.
 site_description: Nâng cao năng suất làm việc đồng thời bảo vệ bản thân tốt hơn trên không gian mạng khi sử dụng máy tính.
 site_author: onlyduyy  
 theme:
@@ -10,18 +10,20 @@ theme:
 
 nav:
   - Home: 'index.md'
-  - 'Hướng dẫn':
-    - 'Khởi đầu': 'gioi-thieu.md' 
-    - 'Internet?': 'guide.md'
-    - 'Công cụ - tối ưu': 'cong-cu-toi-uu.md'
-  - 'Năng suất':
-    - 'Phương pháp Zettelkasten': 'zettelkasten.md'
-    - 'Quản lý kiến thức - Obsidian': 'obsidian.md'
-    - 'Ôn tập hiệu quả - Anki': 'anki.md'
-    - 'Plain Text: Văn bản thuần': 'plain-text.md'
+  - 'Linux':
+    - 'Mở đầu': 'gioi-thieu.md'
+    - 'Chuyển nhà': 'installation-guide.md' 
+    - 'Terminal': 'guide.md'
+    - 'Lựa chọn Tools': 'cong-cu-toi-uu.md'
+  - 'Công cụ':
+    - 'Obsidian': 'obsidian.md'
+    - 'Anki': 'anki.md'
+    - 'Orgmode': 'org-mode.md'
   - 'Bảo mật & Riêng tư':
-    - 'Linux': 'linux-in-a-nutshell.md'    
-    - 'An toàn trên mạng': 'an-toan-tren-mang.md'
+    - 'Bảo mật trong Linux': 'linux-security.md'    
+    - 'An toàn trên mạng': 'net-safety.md'
+  - 'Tài nguyên':
+    - 'Tài nguyên': 'tai-nguyen.md'
 theme:
   palette:
     # Palette toggle for light mode

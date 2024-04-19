@@ -1,5 +1,5 @@
-site_name: Tiếng Anh Chuyên Ngành (ESP)
-site_description: Hướng dẫn tự học Tiếng Anh chuyên ngành thông qua các nguồn miễn phí.
+site_name: Học cách học
+site_description: Tự học cách học tập, làm việc tối ưu và hiệu quả.
 site_author: onlyduyy  
 theme:
   name: material
@@ -10,13 +10,22 @@ theme:
 
 nav:
   - Home: 'index.md'
-  - 'Hướng dẫn': 
-    - 'Hướng dẫn': 'guide.md'
-    - 'Đọc trong ESP': 'reading.md'
-    - 'Nghe trong ESP': 'esp-listening.md'
-    - 'Từ vựng': 'esp-vocabulary.md'
-  - 'Tài nguyên':
-    - 'Tài nguyên': 'resources.md'
+  - 'Hướng dẫn':
+    - 'Giáo trình': 'guide.md'
+  - 'Công cụ học tập':
+    - 'Ghi nhớ cùng Anki': 'anki.md'
+    - 'PKM với Obsidian': 'obsidian.md'
+    - 'Quản lý lịch trình': 'calendar.md'
+    - 'OKR cho cá nhân': 'okr.md'
+  - 'Phương pháp ghi chú':
+    - 'PARA': 'para.md'
+    - 'Chỉ mục': 'indexing-method.md'
+    - 'Hộp gỗ': 'zettelkasten.md'
+  - 'Phương pháp học tập':
+    - 'Siêu học tập': 'ultralearn.md'
+    - 'Lặp lại ngắt quãng': 'srs.md'
+
+
       
 theme:
   palette:
