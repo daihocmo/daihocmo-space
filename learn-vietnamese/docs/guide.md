@@ -9,16 +9,17 @@ Basically, Vietnamese language:
 - The script: Latin-based.
 
 ## 1.1 How to learn Vietnamese (Northern Dialect)
+
 There are so many Vietnamese southern dialect resources and learning guides out there but rarely for Northern dialect. There are several reasons why you may wanna learn Vietnamese in Northern Dialect from the beginning:
 
 - The pronunciation is clearer, sharper, easier to comprehend.
 
 - Northern dialect is Vietnamese standard dialect.
 
-- The character and the tone sound consistent in Northern dialect. 
+- The characters and the tones sound consistent in Northern dialect. 
 
 
-Don't worry about the dialects too much when you have just started learning Vietnamese. As a Northern dialect speaker, I can perfectly understand Southern dialect (It's not like learning another language, just some minor differences in pronunciation). The dialect only matters in listening and speaking (I know most of Vietnamese learners know this, but still, I want to emphasize it)
+Don't worry about the dialects too much when you have just started learning Vietnamese. The dialect only matters in listening and speaking (I know most of Vietnamese learners know this, but still, I want to emphasize it)
 
 You might wanna watch [this video](https://youtu.be/y1fF69jiavU?si=3f2CvFzjN-8zxPNP) before reading this whole learning guide. This video was made by a successful Vietnamese learner - aNcari (Her Youtube channel name).
 

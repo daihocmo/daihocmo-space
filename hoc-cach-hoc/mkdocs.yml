@@ -12,6 +12,7 @@ nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
     - 'Giáo trình': 'guide.md'
+    - 'Ghi chú': 'ghi-chu.md'
   - 'Công cụ học tập':
     - 'Ghi nhớ cùng Anki': 'anki.md'
     - 'PKM với Obsidian': 'obsidian.md'
@@ -24,6 +25,7 @@ nav:
   - 'Phương pháp học tập':
     - 'Siêu học tập': 'ultralearn.md'
     - 'Lặp lại ngắt quãng': 'srs.md'
+    - 'Plaintext': 'plain-text.md'
 
 
       
