@@ -24,10 +24,12 @@ nav:
     - 'Guide': 'han-nom.md'
   - 'Resources':
     - 'Resources': 'resources.md'
+    - 'Grammar Guide': 'grammar-guide.md'
   - 'Media':
     - 'Novels': 'books.md'
     - 'Movies': 'movies.md'
     - 'Youtube': 'youtube.md'
+    - 'Podcasts': 'podcasts.md'
       
 theme:
   palette:

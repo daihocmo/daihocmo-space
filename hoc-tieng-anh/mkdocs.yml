@@ -12,14 +12,17 @@ nav:
   - Home: 'index.md'
   - 'Guide':
     - 'Hướng dẫn chính': 'guide.md'
+  - 'Đầu vào':
     - 'Đầu vào dễ hiểu ': 'dau-vao.md'
-    - 'Tổng hợp ngữ pháp': 'grammar-guide.md'
+    - 'Lựa chọn đầu vào': 'how-to-choose.md'
   - 'Khu tài nguyên':
     - 'Tài nguyên học': 'resources.md'
-  - 'English Media Recommendation':
-    - 'Văn Học': 'sach.md'
-    - 'Phim Ảnh': 'phim-anh.md'
+    - 'Tổng hợp ngữ pháp': 'grammar-guide.md'
+  - 'Media':
+    - 'Sách': 'sach.md'
+    - 'Phim': 'phim-anh.md'
     - 'Youtube': 'youtube.md'
+    - 'Podcasts': 'podcasts.md'
       
 theme:
   palette:

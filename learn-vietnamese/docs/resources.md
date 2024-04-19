@@ -11,7 +11,7 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Vietnamese Vocabulary Lists](https://www.vietnamesepod101.com/vietnamese-vocabulary-lists/): A complete list of basic Vietnamese vocabulary made by VietnamesePod101.
 
 ### Grammar
-- [onlyduyy's guide to Vietnamese Grammar](): Yet another Vietnamese grammar guide that doesn't suck. Currently in progress.
+- [onlyduyy's guide to Vietnamese Grammar](grammar-guide.md): Yet another Vietnamese grammar guide that doesn't suck. Currently in progress.
 
 - [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers.
 
@@ -41,6 +41,7 @@ You just have to click one of the links here and it will directs you to the Viet
 - [Hội nhà văn - Truyện ngắn](https://vanvn.vn/tac-pham-moi/truyen-ngan/): Same as above, but written by people from "Hội nhà văn".
 - [Wikisource Vietnamese Short Stories Collection](https://vi.wikisource.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Truy%E1%BB%87n_ng%E1%BA%AFn_Vi%E1%BB%87t_Nam): Collection of short stories from Wikisource
 - [1000 cuốn sách vang bóng một thời](https://tve-4u.org/forums/1000-quyen-sach-viet-mot-thoi-vang-bong.136/): old Vietnamese books (expired copyright) being digitalized. 
+
 #### Light novel, web novel
 - [Hako](https://ln.hako.vn/): Light novels and Web novels translated to Vietnamese
 - [DTV-Ebook](https://www.dtv-ebook.com): Download various Romance ebooks.
@@ -49,10 +50,10 @@ You just have to click one of the links here and it will directs you to the Viet
 - [Manga Recommendation](): From Japanese Media Recommendation, you can choose the same manga to read on any of these manga reading sites. 
 - [Blogtruyenmoi](https://blogtruyenmoi.com/): A manga reader site made by Ngankvn, most of the mangas here are uploaded by users or scanlated groups.
 - [Nettruyen](https://nettruyenco.vn/): A pretty large manga reader site.
-- [TruyenQQVN](https://truyenqqvn.com/): Another manga (and manwa, manhua) reading site.  
+- [TruyenQQVN](https://truyenqqvn.com/): Another manga (and manhwa, manhua) reading site.  
 
 ### Audiobooks & Podcasts
-- [Vietnamese Podcast Suggestion](): A list of suggestions for which Vietnamese podcasts to listen to.
+- [Vietnamese Podcast Suggestion](podcasts.md): A list of suggestions for which Vietnamese podcasts to listen to.
 - [TVO Podcast](https://www.youtube.com/playlist?list=PLpDgPu_Hq9Zx5cejuDGZPWdDyTPAgse7P): A Podcast made by TiengVietOi - A Vietnamese learning Youtube channel.
 - [Podcastindex](https://podcastindex.org/): Listen to Podcast online without sign-in, not just Vietnamese Podcasts.
 
@@ -78,10 +79,11 @@ Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) 
 - **[Từ Điển Tiếng Việt Thông Dụng](https://www.mediafire.com/file/ekopqoj0627tpkw/T%E1%BB%AB_%C4%91i%E1%BB%83n_ti%E1%BA%BFng_Vi%E1%BB%87t.zip/file)** Vie-Vie dictionary converted by Marsh Nguyễn. The dictionary data is from Từ Điển Tiếng Việt Thông Dụng and was sourced from [https://github.com/vntk/dictionary/tree/master/data](https://github.com/vntk/dictionary/tree/master/data) contains 42012 entries.
 
 #### Online
+- [Youglish Vietnamese](https://youglish.com/vietnamese): Youghlish but for Vietnamese.
 - [Forvo](https://forvo.com/languages/vi/): Search for a word and hear it pronounced by a native speaker.
 - [VietnamesePod101 Dictionary](https://www.vietnamesepod101.com/vietnamese-dictionary/) - A Vietnamese Dictionary made by VietnamesePod101.
 - [VDict](http://1.vndic.net/) (bilingual) - If you are a beginner, use this. 
-- [Soha](http://tratu.soha.vn/) (bilingual) - If you are a beginner, you can use this too. 
+Remember to change the search mode to "Viet - Anh".
 
 #### E-Reader Dictionaries
 - **[VNEDICT in stardict format](https://www.mediafire.com/folder/9ss2pn046fcjo/Vi%E1%BB%87t_-_Anh)**
@@ -89,6 +91,7 @@ Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) 
 #### Other Tools
 
 - **[※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)** - Spaced repetition flashcard program. A must have. It is tricky to use at first. So please see the Mining section for guides on how to set it up (From the main guide).
+
 - [Unikey](https://www.unikey.org/download.html): Vietnamese Keyboard.
     
 
@@ -97,7 +100,9 @@ Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) 
 #### Android
 
 - [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) - Port of Anki for Android devices.
+
 - [AnkiConnect for Android](https://github.com/KamWithK/AnkiconnectAndroid) - use AnkiConnect for 1 click card creation on Android.
+
 - [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=ja&gl=US) - Chromium based browser with extension support. You can use Yomichan on this.
 
 #### iOS
