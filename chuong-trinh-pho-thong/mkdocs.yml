@@ -1,5 +1,5 @@
-site_name: Học cách học
-site_description: Tự học cách học tập, làm việc tối ưu và hiệu quả.
+site_name: Chương trình phổ thông
+site_description: Nơi tổng hợp nội dung học và hướng dẫn cho chương trình phổ thông.
 site_author: onlyduyy  
 theme:
   name: material
@@ -8,26 +8,7 @@ theme:
   palette:
     primary: indigo
 
-nav:
-  - Home: 'index.md'
-  - 'Hướng dẫn':
-    - 'Tìm hiểu chung': 'guide.md'
-    - 'Gợi ý': 'ghi-chu.md'
-  - 'Công cụ học tập':
-    - 'Ghi nhớ': 'anki.md'
-    - 'Quản lý kiến thức': 'obsidian.md'
-    - 'Xây dựng lịch trình': 'calendar.md'
-    - 'Kế hoạch cá nhân': 'okr.md'
-  - 'Phương pháp ghi chú':
-    - 'PARA': 'para.md'
-    - 'Chỉ mục': 'indexing-method.md'
-    - 'Hộp gỗ': 'zettelkasten.md'
-  - 'Phương pháp học tập':
-    - 'Siêu học tập': 'ultralearn.md'
-    - 'Lặp lại ngắt quãng': 'srs.md'
-    - 'Plaintext': 'plain-text.md'
-
-
+# Make changes to the nav section
       
 theme:
   palette:
