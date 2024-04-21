@@ -10,12 +10,12 @@ theme:
 
 nav:
   - Home: 'index.md'
-  - 'Guide':
-    - 'Hướng dẫn chính': 'guide.md'
+  - 'Hướng dẫn':
+    - 'Lộ trình cơ bản': 'guide.md'
   - 'Đầu vào':
-    - 'Đầu vào dễ hiểu ': 'dau-vao.md'
-    - 'Lựa chọn đầu vào': 'how-to-choose.md'
-  - 'Khu tài nguyên':
+    - 'Đầu vào dễ hiểu': 'dau-vao.md'
+    - 'Cách học': 'input-guide.md'
+  - 'Tài nguyên':
     - 'Tài nguyên học': 'resources.md'
     - 'Tổng hợp ngữ pháp': 'grammar-guide.md'
   - 'Media':

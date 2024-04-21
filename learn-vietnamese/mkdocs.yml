@@ -10,10 +10,10 @@ theme:
 
 nav:
   - Home: 'index.md'
-  - 'Guide':
-    - 'Vietnamese Guide': 'guide.md'
+  - 'Vietnamese':
+    - 'Guide': 'guide.md'
     - 'Reading': 'reading-guide.md'
-    - 'Vietnamese Culture': 'viet-culture.md'
+    - 'Culture': 'viet-culture.md'
   - 'Comprehensible Input':
     - 'Guide': 'input-guide.md'
     - 'Resources': 'input-resources.md'
