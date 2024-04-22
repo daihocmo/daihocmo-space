@@ -1,4 +1,4 @@
-The structure of this guide is based on [TheMoeWay Community for Japanese Learners](https://learnjapanese.moe/guide/) (This guide includes the "Preface" part, feel free to check this out).
+The structure of this guide is based on [TheMoeWay's Guide](https://learnjapanese.moe/guide/) (TheMoeWay's guide includes the "Preface" part, which tackles many questions about traditional language learning methods so feel free to check this out). 
 
 Basically, Vietnamese language:
 
@@ -37,7 +37,7 @@ The learning process for the beginner consists of:
 
 ## 1.2 Vietnamese alphabet
 ![alphabet.png](./Image/alphabet.png)
-The Vietnamese alphabet, also known as the Quốc ngữ script, stands as the official writing system of Vietnam, reflecting the linguistic and cultural heritage of the country. This unique script, unlike many other East Asian writing systems, is based on the Latin alphabet, showcasing the influence of Western linguistic traditions in Vietnam’s language development. The alphabet consists of 29 letters, including 14 consonants and 15 vowels. Each letter has a unique sound, and it is essential to know how to pronounce them correctly in order to speak and read Vietnamese fluently ([Check TVO here](https://www.tiengvietoi.com/post/vietnamese-alphabet-pronunciation-a-brief-introduction/)). 
+The Vietnamese alphabet, also known as the Quốc ngữ script, stands as the official writing system of Vietnam, reflecting the linguistic and cultural heritage of the country. This unique script, unlike many other East Asian writing systems, is based on the Latin alphabet, showcasing the influence of Western linguistic traditions in Vietnam’s language development. The alphabet consists of 29 letters, including 14 consonants and 15 vowels. Each letter has a unique sound, and it is essential to know how to pronounce them correctly in order to speak and read Vietnamese fluently. 
 
 ### 1.3 How to learn the alphabet
 ### Step 1: the chart
@@ -52,7 +52,7 @@ _The alphabet chart, there are some characters that sound different than the Eng
 
 ![tones](./Image/tones.png)
 
-_The tone chart, skip it for now, just learn it quick for the sake of immersion. The best way to learn tones is to listen to native speakers, the studying guide for this is just so ambiguous, doesn't represent how it should sound like._
+_The tone chart, skip it for now, just learn it quick for the sake of comsuming comprehensible input. The best way to learn tones is to listen to native speakers._
 
 Both of the above chart are taken from [Omniglot](https://www.omniglot.com/writing/vietnamese.htm).
 
@@ -62,28 +62,37 @@ Things you can do with the chart:
 
 - Learn to read characters by referring to the table. 
 
-- Learn how they are pronounced (If you know IPA)
+- Revise how they are pronounced (If you know IPA).
 
 - Use it as a master reference for all singular characters and letter combinations. This will help you a lot when you are learning how to read Vietnamese.
 
 #### Step 2 - The YouTube video
+
 - Learn Vietnamese alphabet pronunciation [here](https://youtu.be/Jf6mvBy9VXk?si=u35CESIcmtEIZYas).
 
 - After that, learn Vietnamese tones [here](https://www.youtube.com/watch?v=3bptcM1hf1E).
 
-Both videos only take you 20 minutes, so don't skip any parts and watch until the end.
+Both videos only take you 20 minutes, so don't skip any parts and watch until the end. 
 
 #### Step 3 - the grinding
 
 You can use [this Anki deck](https://ankiweb.net/shared/info/2093025241) (check the Anki guide below before downloading this deck and use it) to revise the alphabet (I assume you've finished Step 2). Or, if you want an easier way to test yourself, [here is the Quizlet link](https://quizlet.com/vn/888929191/vietnamese-alphabet-flash-cards/) for the Vietnamese alphabet.
 
 #### Step 4 - reading practice
-What also helps immensely in memorising the alphabet and the tones is reading Vietnamese sentences. You don't have to understand the meaning yet, just read to remember them for now (don't speak it aloud, it goes against the immersion rule, or reading too much, it may affects your Vietnamese pronunciation)
+
+What also helps immensely in memorising the alphabet and the tones is reading Vietnamese sentences. You don't have to understand the meaning yet, just read to remember them for now (don't speak it aloud, it goes against the immersion rule, or reading too much, it may affects your Vietnamese pronunciation).
+
 I recommend practising by trying to read some storybooks, which you can find [here](https://global-asp.github.io/storybooks-sah/stories/vi/).
 
-
 ## 1.4 Learning Vocabulary
-To make Vietnamese less daunting, I recommend you work through a beginner-level vocabulary deck for Anki. This is a deck consisting of around _1500_ words aimed at teaching you the most common Vietnamese words to jumpstart your Vietnamese learning.
+ 
+To make Vietnamese less daunting, I recommend you work through a beginner-level vocabulary deck for Anki. This is a deck consisting of around 1000 to 2000 words aimed at teaching you the most common Vietnamese words to jumpstart your Vietnamese learning.
+
+- [Vietnamese Vocabulary Core 1k by Soi](https://ankiweb.net/shared/info/687513656): Vietnamese Core 1K Vocab Anki Deck made by Soi.
+
+- [Xefjord's Complete Vietnamese - Northern Dialect](https://www.dropbox.com/sh/g4iz7sw992qzieg/AAD-iCCcDrUmfUPsXU3JtvWLa?dl=0): The Vietnamese Anki deck from [this project](https://www.reddit.com/r/languagelearning/comments/ywuj8g/100_free_anki_language_decks_xefjords_complete/).
+
+_PS: There are some decks I found that may come in handy. If there is any suggestions how to improve these decks, or wanna make a high-quality Vietnamese deck, feel free to email me: duykhanh471@protonmail.com_
 
 ### Quick Anki Setup
 
@@ -141,7 +150,7 @@ It is prime time to start getting some immersion going when you have learned som
 
 ## 1.6 Beginner immersion: an uphill battle
 
-If you recall from section 1.3, I touched on something known as comprehensible input. This is input that is understandable at your level, where there’s just a few missing pieces of the puzzle every few sentences. With this sort of immersion, you subconsciously fill in the incomprehensible parts with educated guesses based on context, which is what makes this type of input so useful for the purposes of language learning.
+If you recall from section 1.3 (The "Preface" section from TheMoeWay' guide), I touched on something known as comprehensible input. This is input that is understandable at your level, where there’s just a few missing pieces of the puzzle every few sentences. With this sort of immersion, you subconsciously fill in the incomprehensible parts with educated guesses based on context, which is what makes this type of input so useful for the purposes of language learning.
 
 Now you may have noticed a problem here. What do you do if you don’t have access to comprehensible input? As a complete beginner, there is no content that is easy. In fact, this is why people often fall into the endless cycle of reading from beginner resource to beginner resource. Though incomprehensible input is by no means useless—it does have its benefits and assists with learning—it is very difficult to get past that initial hurdle.
 
@@ -211,13 +220,13 @@ Regular output along with regular input is recommended.
 
 Contrary to what many immersion-based learning methods say, I do not believe it is a smart idea to delay your output until you are "really good" for reasons such as "saying things incorrectly is going to "cripple" or "ruin" your Vietnamese". Doing this makes you miss out on so many opportunities to pick up on things to use in your output earlier and brainwashes you into a toxic perfectionist mindset, becoming extremely protective of your Vietnamese.
 
-Throughout my 4+ years of running TheMoeWay and talking to all sorts of immersion learners, I haven't seen many that are confident in output. Why is that? Well for most of them, they don't even want to try outputting at all because they're scared of saying something broken, or scared that it's going to ruin their Japanese, or scared that somebody may laugh at them etc. All of this is a product of a toxic perfectionist mindset that hurts immersion learning (_Most of the people in TheMoeWay community learn Japanese_).
-
 ## 3.2 Pronunciation
 
-Learning Vietnamese pronunciation is tough, even for advanced learners. It's undeniable to say that, how well you pronouce a Vietnamese word is largely up to how much time have you heard that word spoken by a Vietnamese native.
+Learning Vietnamese pronunciation is tough, even for advanced learners (if you follow traditional guides btw). It's undeniable to say that, how well you pronouce a Vietnamese word is largely up to how much time have you heard that word spoken by a Vietnamese native.
 
-## 3.3 Learning milestones (Currently in progress).
+## 3.3 Learning milestones
+
+How can you measure your current Vietnamese level? It's up to your listening and reading time (Comprehensible Input), not just immersing mindlessly, incomprehensible input doesn't work.
 
 
 ## 3.4 Closing notes: post-beginner stage and beyond
@@ -226,7 +235,13 @@ _This guide is made possible by TheMoeWay community, I just modified it so it fi
 
 There isn't really much else to the learning process other than immerse a lot and learn words and grammar. You can really get fluent at Japanese with this method. But one thing does change when you leave the beginner stage.
 
-Learning vocabulary with Anki will become much more personal as you will be making your own cards from words found in your immersion in a process we call _mining_. The recommended mining guide is [Donkuri's mining guide](https://donkuri.github.io/learn-japanese/mining/) (This can be applied for most of your targeted language and not just limited in Japanese or Vietnamese). Mining will essentially become the heart of your language _study_.
+Learning vocabulary with Anki will become much more personal as you will be making your own cards from words found in your immersion in a process we call _mining_. You can search "Sentence Mining" for further information. Mining will essentially become the heart of your language _study_. 
+
+Here are some guides for "Sentence Mining", in order:
+
+- [Basic Sentence Mining Guide from Refold](https://refold.la/roadmap/stage-2/a/basic-sentence-mining)
+- [How to use Sentence Mining](https://www.reddit.com/r/languagelearning/comments/ja37ua/how_do_i_use_sentence_mining/)
+- [Mining Vietnamese Sentences with Asbplayer](asbplayer.md)
 
 Thank you so much for taking your time to read this guide and I wish you good luck on your Vietnamese learning journey!
 
