@@ -19,7 +19,7 @@ There are some films that you can watch on Youtube!
 | [Chuyện của Pao]() | | |
 | [Tết ở Làng Địa Ngục]() | Horror | Excellent reviews from Vietnamese, to me it is top-tier |
 | [Đêm tối rực rỡ! (2022)]() | | |
-| [Furie (2019)] | Action | |
+| [Furie (2019)]() | Action | |
 | [Bỗng dưng muốn khóc](https://youtube.com/playlist?list=PLW2Vi7qX1b4xer-QUEG-9iShUYRrI65gS) | | | 
 | [My Father is a Playboy](https://www.netflix.com/vn/title/81623689) | | |
 | [Apocalypse Now](https://libremdb.pussthecat.org/title/tt0078788) | | |
