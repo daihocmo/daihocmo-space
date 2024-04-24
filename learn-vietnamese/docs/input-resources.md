@@ -30,3 +30,5 @@ There are various playlists to choose, you can watch them all.
 - [Truyện thiếu nhi](https://tiengviethuchanh.wordpress.com/truyen-thieu-nhi/) - 165 short stories for kids.
 - [365 stories for kids](https://truyenchobe.com/tag/1001-chuyen-ke-cho-be-truoc-gio-di-ngu)
 - [Vietnamese folk tales](https://tiengviethuchanh.wordpress.com/truyen-co-tich/)
+
+You might want to read something more fun, [here it is](https://tiengviethuchanh.wordpress.com/bai-viet-hoc-sinh/). There are a lot of texts written by elementary students here.
