@@ -1,9 +1,14 @@
 Nội dung của bảng này sẽ được chia ra làm hai phần: "Học Tiếng Anh" và "Tiêu thụ nội dung Tiếng Anh"
 
+## Đặc biệt
+- [Hướng dẫn học ngoại ngữ thông qua YouTube & Netflix](https://docs.google.com/document/d/1YaHBu5obEmn83kh20NHkWW_eOYXc7_EAPXTJmDHy1y4/edit)
+- [Cheatsheet](https://ymaz.github.io/English_Cheatsheet/) - Tổng hợp về ngữ pháp Tiếng Anh bằng Tiếng Anh.
 ## Học Tiếng Anh
 
 ### Vocabulary
-- [Ogden's Basic English](http://ogden.basic-english.org/) - 850 simplified Language Basic English Words by Charles K. Ogden. It was released in 1930. With just 850 words everything may be said for all the purposes of everyday existence. [Simple English Wikipedia](https://simple.wikipedia.org/wiki/Basic_English) is based on these 850 basic English words.
+- [Ogden's Basic English](http://ogden.basic-english.org/) - Tổng hợp 850 từ vựng cơ bản.
+
+- [Languageguide](https://www.languageguide.org/ti%C3%AA%CD%81ng-anh/t%3F-v%3Fng/): Học từ vựng theo chủ đề thông qua tranh ảnh
 
 - [Book: Verbal Advantage by Charles Harrington Elster](https://www.academia.edu/27879831/Verbal_Advantage_by_Charles_Harrington_Elster) - This book for advanced levels and will help you learn more words. It's highly recommended book which not just informative but also interesting and fun to read.
 
@@ -41,6 +46,21 @@ Nội dung của bảng này sẽ được chia ra làm hai phần: "Học Tiế
 
 - [The Sound of English](http://thesoundofenglish.org/) - Learn how to speak clear English with a neutral British accent. Very helpful resource to improve your pronunciation.
 
+### Thi cử
+- [IELTS Mock Tests Volume 6](https://ieltsonlinetests.com/vi/collection/)
+- [Training YOUR IELTS Skills](https://ieltstrainingonline.com/)
+- [Tự luyện Writing : ](https://ted-ielts.com/free-ielts-writing-course/)
+- [Làm bài trên testbigggg](https://www.testbig.com/ielts)
+- [Streamline](https://tve-4u.org/threads/huong-dan-hoc-streamline-english-song-ngu-nguyen-thanh-yen-4-tap-pdf.18361/)
+- [Interchage 4th Edition](https://tve-4u.org/threads/interchange-fourth-edition-tri-gia-1-010-50.20830/)
+- [IELTS® Vocabulary Practice on Quizlet](https://quizlet.com/exams/ielts/)
+- [Anki Collections ](https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Helpful-Anki-Shared-Decks#English)
+- [Sach Tu hoc IELTS](https://www.tuhocielts.online/tron-bo-tai-lieu-ielts-tu-0-75?utm_source=facebook&utm_medium=cpc&utm_campaign=NUT03&utm_id=LP) 
+- [Write and Improve](https://writeandimprove.com/)
+- [Lop ngoai ngu](http://lopngoaingu.com/)
+- [EnglishClub](http://englishclub.com/) 
+- [IELTS theo lộ trình](https://drive.google.com/file/d/1p10jrlRX48yi1Enbt2BrwqJ9AhLTsEMB/view)
+- [Reading English News](https://www.newsinlevels.com/)
 
 ## Tiêu thụ nội dung Tiếng Anh
 
@@ -57,10 +77,6 @@ Listen podcasts anytime and anywhere to improve your listening skill. Podcasts o
 
 - [This American Life](http://www.thisamericanlife.org/radio-archives) - One of the most popular podcast. Most of the stories are journalism, with an occasional comedy routine or essay.
 
-Interviews are one of the best formats for podcasting and learn a real english conversations. The art of conversation is not an easy thing and can be tricky.
-
-- [Lex Fridman Podcast](https://lexfridman.com/podcast/) - Conversations about the nature of intelligence, consciousness, love, and power.
-
 - [Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk) - The official podcast of comedian Joe Rogan. Follow The Joe Rogan Clips show page for some of the best moments from the episodes.
 
 - [The Knowledge Project](https://fs.blog/knowledge-project-podcast/) - The Knowledge Project Podcast unlocks your potential. We interview world-class doers and thinkers so you can better analyze problems, seize opportunities, and master decision-making. Every episode is packed with lessons and insights that never expire.
@@ -68,8 +84,6 @@ Interviews are one of the best formats for podcasting and learn a real english c
 Online radio stations is one of the best and most effective ways to improve your English listening skills, while also getting accustomed to the speed and tone of native English speakers.
 
 - [NPR](http://www.npr.org/) - National american radio with transcripts.
-
-- [BBC London](http://www.bbc.co.uk/bbclondon) - News and talks radio station from London.
 
 - [Bloomberg Radio](https://www.bloomberg.com/audio) - Financial markets news radio.
 
@@ -83,19 +97,12 @@ Online radio stations is one of the best and most effective ways to improve your
 
 
 ### Online Dictionaries
-
+- [Từ điển Anh - Việt Online](https://dictionary.cambridge.org/vi/dictionary/english-vietnamese/): Đây là từ điển bao gồm cả nghĩa Anh - Anh lẫn Anh - Việt của Cambridge. 
+- [Goldendict](http://goldendict.org/download.php) - Từ điển ngoại tuyến cực tốt, tải bộ từ điển theo hướng dẫn trên Voz [tại đây](https://voz.vn/t/reup-goldendict-va-cac-bo-dai-tu-dien-eng-eng-full-audio-picture.710141/)
 - [Thesaurus.com](https://www.thesaurus.com/) - The world's largest online thesaurus by Dictionary.com
-
 - [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Dictionaries with meanings, definitions, pronunciations and pictures.
 
 ### Tools
 
-- [Play Phrase](http://playphrase.me/) - Tools allows to search and play specific soundbites from movies.
-
-- [Test your vocab](http://testyourvocab.com/) - Measure your vocabulary sizes.
-
-- [YouGlish](https://youglish.com/) - Improve your pronunciation
-
-- [Write & Improve](https://writeandimprove.com/) - FREE tool that helps every learner to improve their English writing.
-
+Chắc Anki vậy là đủ, sẽ cập nhật thêm sau.
 

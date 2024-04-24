@@ -12,6 +12,12 @@ nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
     - 'Giáo trình': 'guide.md'
+  - 'Lộ trình':
+    - 'Java Backend': 'java-backend.md'
+    - 'Phát triển Web': 'webdev-roadmap.md'
+  - 'Tài nguyên':
+    - 'Tài nguyên': 'resources.md'
+    - 'Danh sách Video bài giảng': 'day-du.md'  
       
 theme:
   palette:

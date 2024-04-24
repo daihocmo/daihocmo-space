@@ -3,7 +3,7 @@
 
 - [The blue expat](https://podcastindex.org/podcast/1262676): interviewing Vietnamese expats
 
-- [VOV]: state's radio, there are many podcasts to choose. Search them on any podcast apps.
+- [VOV](): state's radio, there are many podcasts to choose. Search them on any podcast apps.
 
 - Vietnamese radio channels from countries around the world: not exactly podcast and you may already know but I thought worth mentioning: SBS (Australia), RFI (France), VOA (US), NHK (Japan), BBC
 

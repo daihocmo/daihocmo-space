@@ -4,6 +4,7 @@
 - [Kuzuri's Resources](https://kuzuri.neocities.org/resources): Trang tổng hợp tất cả tài nguyên học Tiếng Nhật hoàn toàn miễn phí!
 - [Unofficial languagegainz Discord JP Resource Page](https://docs.google.com/document/d/1EyIKdsFgsakIh568loSanprRbgzZeAiRTNVkDWoY5RI/edit#heading=h.vf40j64cv0rm): Một trang tổng hợp tài nguyên của languagegainz.
 - [GaijinRyman](https://github.com/GaijinRyman/JapaneseResources): Tài nguyên học các kiểu của GaijinRyman, trên Github.
+- [Hướng dẫn học ngoại ngữ thông qua YouTube & Netflix](https://docs.google.com/document/d/1YaHBu5obEmn83kh20NHkWW_eOYXc7_EAPXTJmDHy1y4/edit)
 
 ## Learning Japanese
 
