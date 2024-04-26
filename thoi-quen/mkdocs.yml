@@ -1,5 +1,5 @@
-site_name: Học cách học
-site_description: Tự học cách học tập, làm việc tối ưu và hiệu quả.
+site_name: Xây dựng thói quen
+site_description: Tự học cách xây dựng thói quen tối ưu và hiệu quả.
 site_author: onlyduyy  
 theme:
   name: material
@@ -12,21 +12,6 @@ nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
     - 'Tìm hiểu chung': 'guide.md'
-    - 'Gợi ý': 'ghi-chu.md'
-  - 'Công cụ học tập':
-    - 'Ghi nhớ': 'anki.md'
-    - 'Quản lý kiến thức': 'obsidian.md'
-    - 'Xây dựng lịch trình': 'calendar.md'
-    - 'Kế hoạch cá nhân': 'okr.md'
-  - 'Phương pháp ghi chú':
-    - 'PARA': 'para.md'
-    - 'Chỉ mục': 'indexing-method.md'
-    - 'Hộp gỗ': 'zettelkasten.md'
-  - 'Phương pháp học tập':
-    - 'Siêu học tập': 'ultralearn.md'
-    - 'Lặp lại ngắt quãng': 'srs.md'
-    - 'Plaintext': 'plain-text.md'
-    - 'The Cult of Done': 'cult-of-done.md'
 
 
       
