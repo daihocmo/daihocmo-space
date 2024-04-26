@@ -1,96 +1,73 @@
-Đây là trang tài nguyên của TheMoeWay, xem trang gốc và đầy đủ hơn [tại đây](https://learnjapanese.moe/resources/). Bên trang gốc sẽ có nhiều hơn nên mọi người nên qua đó nha, nhất là khi bạn đã có nền Tiếng Anh vững.
-
 ## Đặc biệt
-- [Kuzuri's Resources](https://kuzuri.neocities.org/resources): Trang tổng hợp tất cả tài nguyên học Tiếng Nhật hoàn toàn miễn phí!
-- [Unofficial languagegainz Discord JP Resource Page](https://docs.google.com/document/d/1EyIKdsFgsakIh568loSanprRbgzZeAiRTNVkDWoY5RI/edit#heading=h.vf40j64cv0rm): Một trang tổng hợp tài nguyên của languagegainz.
-- [GaijinRyman](https://github.com/GaijinRyman/JapaneseResources): Tài nguyên học các kiểu của GaijinRyman, trên Github.
-- [Hướng dẫn học ngoại ngữ thông qua YouTube & Netflix](https://docs.google.com/document/d/1YaHBu5obEmn83kh20NHkWW_eOYXc7_EAPXTJmDHy1y4/edit)
 
-## Learning Japanese
+- [Trang tổng hợp Media Trung của Refold](https://zenith-raincoat-5cf.notion.site/Refold-Mandarin-Resources-d54bfade358b4d0a88b5600acb99582b)
 
-### Kana
-
-- [DJT Kana](https://djtguide.neocities.org/kana/index.html) - Game để học Hiragana và Katakana
-
-### Kanji
-
-**Nhắc nhỏ:** [Đọc nhiều](https://learnjapanese.moe/readingtips) là cách tốt nhất để học Kanji
-
-- **[※ - The "Kanken Deck"](https://mega.nz/file/VVdkUZbI#lGvxw2hDkw7JCEWa90cViY7cpYatf1SPUrE0Aw0OdDQ) - Học viết Kanji, nhưng nên biết đọc trước**
-- [Usagi Chan Kanji Phonetics](https://learnjapanese.moe/kanjiphonetics) - Bộ thẻ Anki để học phát âm Kanji
-- [RRTK450](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ) - Bộ thẻ ngắn hơn của Remember The Kanji, bạn có thể tự sửa truyện và thêm âm Hán Việt
-
-### Từ vựng
-
-- [Kaishi 1.5k](https://ankiweb.net/shared/info/1196762551) - Bộ thẻ từ vựng Nhật - Anh cơ bản. Bạn có thể tại nó ở [đây](https://github.com/donkuri/Kaishi/releases) (Chọn tệp `.apkg` ).
-
-### Ngữ pháp
-
-- [Chưa có hướng dẫn ngữ pháp Tiếng Nhật nào ổn bằng Tiếng Việt cả]()
-- [NihongoKyoshi JLPT grammar](https://nihongokyoshi-net.com/jlpt-grammars/) - Học ngữ pháp JLPT bằng Tiếng Nhật, tránh bị hiểu sai khi dịch song ngữ.
-- **[※ - NihongoKyoshi Anki Deck](https://drive.google.com/file/d/1tDBaabwgZMO8nxkcwcw4qBXayuk_513T/view?usp=sharing)** - Học ngữ pháp JLPT bằng Tiếng Nhật, tránh bị hiểu sai khi dịch song ngữ, bộ thẻ Anki.
+[Đọc bài viết gốc tại đây](https://voz.vn/t/tat-tan-tat-sach-tieng-trung.578699/). Nội dung của Kho 1 và Kho 2 đều thuộc bài đăng của anh/chị Hipro, nhớ xem trên Voz nha.
 
 
-## Acquiring Japanese
+## Kho 1
 
-### Anime
-
-- [Nyaa.si](https://nyaa.si/?q=&f=0&c=1_4) - Trang chia sẻ .torrent các Anime không có phụ đề. Nên dùng **qBittorrent** để xử lý cái này!
-- [asbplayer Chrome Extension](https://github.com/killergerbah/asbplayer/releases): Mạnh lắm, nên thử, học ngoại ngữ gì cũng dùng được cái này.
-- [Animelon](https://animelon.com/) - Trang để học Tiếng Nhật thông qua Anime.
-- [Anix.to](https://anix.to/home) - Xem Anime không phụ đề, chuyển sang Soft-sub rồi tắt phụ đề đi. Dùng asbplayer để thêm phụ đề Nhật vào nếu bạn muốn xem phụ đề Nhật.
-
-
-### Phim và J-Drama
-
-- [Google Drive J-Drama](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE?resourcekey=0-Mb-d6oqmNscdL_zO16m4Uw) - (mật khẩu`bagikuy`)
-- [bilibili](https://www.bilibili.com/) - Trang mạng xã hội Video của Trung Quốc, cũng có nhiều nội dung Nhật
-- [Terrace House BGND](https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/#more-177) - Terrace House BGND
-- [Danh sách gợi ý các nội dung tiêu thụ Tiếng Nhật](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
-
-### Manga
-
-- [Archive.org 2019 Archive](https://archive.org/download/2019-japanese-comics-pack) - 
-- [BilingualManga](https://bilingualmanga.org/) - Có thể đọc Manga sử dụng Yomichan/Yomitan
-- [Rawkuma](https://rawkuma.com/) - Đọc manga Nhật online
+- [Sách giáo viên](https://drive.google.com/drive/folders/1wmW0G3BsI6udv-Ju6UNGH7rsrXYqHRtR)
+- [Giản thể](https://drive.google.com/drive/folders/1oTTohT8YlZVS5tHipds6nYm1nLPCJ9Kv?usp=sharing)
+- [Gian the 2](https://drive.google.com/drive/folders/1Jqp6IS0IqgSHi5S3g-PQ9e2nFdV4meCy?usp=sharing)
+- [Phồn thể](https://drive.google.com/drive/folders/1sW2grNmaOcItDYPu6fNk1M8xzAUeuj5v?usp=sharing)
+- [File tập viết tiếng Trung do thím anchoiphonui94 chia sẻ](https://drive.google.com/drive/folders/1n4enY0BRzkFkOALlYjpQJwl4M7TbyObm?usp=sharing)
+[Nhiều video phát âm và học tiếng Trung cũng do thím ấy chia sẻ](https://onedrive.live.com/?authkey=!APDVqxeQchuAHi4&id=AB1D0C8103262620!39648&cid=AB1D0C8103262620)
 
 
-### Novels and Literary Texts
+## Kho 2
 
-- [Itazuraneko Extended Ebook Novel](https://yonde.itazuraneko.org/) - Kho tải light novel và các tiểu thuyết Nhật, bấm Ctrl + F để tìm sách
-- [Aozora Bunko](https://www.aozora.gr.jp/) - văn học cổ điển của Nhật
-- **[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Trang web giúp đọc sách điện tử (.epub) trực tiếp trên trình duyệt, hỗ trợ cho Tiếng Nhật, để dùng Yomitan!
+1. Bộ giáo trình hán ngữ 6 quyển (tái bản lần 3) （汉语教程）  
+[![Screenshot 2022-07-06 155316.png](https://data.voz.vn/attachments/1249/1249820-54f709fba780fb027025f9080c3fcdb5.jpg "Screenshot 2022-07-06 155316.png")](https://voz.vn/attachments/screenshot-2022-07-06-155316-png.1249818/)  
+[link tải](https://drive.google.com/drive/folders/1DcG59_JacoVg-1rLbVxxiOp6_PyVYoyy?usp=sharing)  
+Bộ đầu tiên, cũng là bộ nổi tiếng nhất ở Việt Nam. Bộ này ở Việt Nam đang giảng dạy và Việt hoá bản thứ 2, dễ học, dễ tìm tài liệu trên mạng, học ở đâu cũng được. Nhưng bộ này nặng về ngữ pháp, nhiều từ của bản thứ 2 trở thành từ chết do không được update, gây khó khăn cho những người muốn học thiên về giao tiếp. Bộ này trước đây mình học ở Trung quốc từ năm 2009, dạy ở Việt Nam từ 2017 đến 2021. Mình sẽ bổ sung link tải bản thứ 2 Việt hoá.  
+  
+2. Bộ giáo trình nghe Hán ngữ.（汉语听力教程）  
+[![Screenshot 2022-07-06 155947.png](https://data.voz.vn/attachments/1249/1249842-791a19ecac82b6ac5632f39d992db719.jpg "Screenshot 2022-07-06 155947.png")](https://voz.vn/attachments/screenshot-2022-07-06-155947-png.1249840/)  
+[link tải](https://drive.google.com/drive/folders/1RmEvmIQ8Lu54H1GRJ84nsIZrtreR0fzs?usp=sharing)  
+Bộ này là phụ trợ cho bộ giáo trình hán ngữ, để luyện nghe, đây là bản thứ 2, bản thứ 3 mình không tìm được, nhưng vẫn dùng tốt, không ảnh hưởng gì cả.  
+  
+3. Bộ Boya (Bác Nhã)（博雅汉语）  
+[![1657156116631.png](https://data.voz.vn/attachments/1250/1250832-b38379999b6f23626fbb1ab3bc650fd7.jpg "1657156116631.png")](https://voz.vn/attachments/1657156116631-png.1250830/)  
+[link tải](https://drive.google.com/drive/folders/1fxHG-JvJdC8OJdOR-IYLm6dgXWJrH26b?usp=sharing)  
+Đúng như tên gọi, học xong bộ boya này thì uyên bác, thâm sâu luôn, là bộ sách tiên phong trong việc đưa người học thành trung tâm, trước đây được khá nhiều nơi sử dụng. Nội dung hay, phong phú nhưng khó, không sát kiến thức hsk nên càng ngày càng ít người lựa chọn học. Bộ này có Việt hoá.  
+  
+4. Bộ giáo trình phát triển hán ngữ （发展汉语）  
+[![1657156391306.png](https://data.voz.vn/attachments/1250/1250835-875b256991e6b6c2ce987dfaf8275fca.jpg "1657156391306.png")](https://voz.vn/attachments/1657156391306-png.1250833/)  
+Bộ này phương pháp dạy kế thừa từ boya, viết rất khoa học, đầy đủ các đầu sách nghe, nói, đọc, viết, tổng hợp. Ở Việt nam trước đang Việt hoá được bộ sơ cấp thì dính phốt 1 trường ở Hà Nội dùng bản lậu, tiếng Trung, còn đường lưỡi bò nên sách này coi như bỏ, không có Việt hoá bộ trung cấp và cao cấp nữa, thực sự đáng tiếc cho một bộ sách tốt.  
+[link tải](https://drive.google.com/drive/folders/1taM3bZnUtFCgT7OLn35oJyXKQWuFE4DQ?usp=sharing)  
+[hoặc link này](https://onedrive.live.com/?authkey=%21ABuPrbm9ViTXxM8&id=AB1D0C8103262620%2182688&cid=AB1D0C8103262620)  
+5. Bộ Con đường thành công （成功之路）  
+[![1657156752077.png](https://data.voz.vn/attachments/1250/1250845-7e251dd5a50d593d9141e153cf4f23d4.jpg "1657156752077.png")](https://voz.vn/attachments/1657156752077-png.1250843/)  
+[link tải](https://drive.google.com/drive/folders/19tO0ZL4xXOpgX_B6WONjALH-PBRfmxpB?usp=sharing)  
+Bộ này mình sưu tầm, chưa đọc được nhiều, tổng có tới 22 tập, học hết chắc chắn thành công  
+  
+  
+6. Bộ giáo trình khẩu ngữ cấp tốc (汉语口语速成）  
+[![1657157016277.png](https://data.voz.vn/attachments/1250/1250858-a43872ecbf83c727c63787f9a2d8ea70.jpg "1657157016277.png")](https://voz.vn/attachments/1657157016277-png.1250856/)  
+[link tải](https://drive.google.com/drive/folders/1iR5urAB94Ok_6mnsaLMwzHNcOkKaYS59?usp=sharing)  
+Bộ này ở Việt Nam có việt hoá. Trước mình học ở Trung quốc là bản thứ 2, ở Việt Nam cũng có bản này. Sách này ở trường dùng cho môn khẩu ngữ. Ở Việt Nam phù hợp dạy giao tiếp do nôi dung cũng hay nhưng quá nhiều từ mới một bài, nên sử dụng pinyin để dạy là chính.  
+  
+7. Bộ msutong (速通汉语）  
+[![1657441843206.png](https://data.voz.vn/attachments/1257/1257111-a19a89d2ca970604aafa956f72a83172.jpg "1657441843206.png")](https://voz.vn/attachments/1657441843206-png.1257109/)  
+Bộ này do thanhmaihsk mang về Việt hoá PR khá nhiều, bộ này rất mới, từ mới hợp thời hơn những bộ cũ. Bộ này thiên về giao tiếp trong đời sống hàng ngày, phân bổ giáo trình mỗi buổi học khá tốt, tương đối nhẹ so với giáo trình hán ngữ.  
+Hiện tại mình đang dạy bộ này, thấy nhược điểm chính là không có sách chuyên nghe kèm theo, còn lại rất ổn, đã được Việt hoá đến bộ cao cấp nên yên tâm dạy và học.  
+mọi người có thể lên shopee mua bộ Việt hoá nhé.  
+8. Giáo trình HSK tiêu chuẩn.  
+Bộ này học để thi HSK là nhanh nhất, học để sử dụng hàng ngày cũng được nhưng về sau sẽ bị khó, nhiều kiến thức phục vụ cho HSK là chính, đời sống thực tế ít khi dùng đến.  
+[link tải](https://drive.google.com/drive/folders/1K7YXMHgD_gHqxoyIWiZ_wV7cYvNOLIDo?usp=sharing)  
+[link 2](https://drive.google.com/drive/u/4/folders/1K7YXMHgD_gHqxoyIWiZ_wV7cYvNOLIDo)  
+[PPT bài giảng giáo trình](https://drive.google.com/drive/folders/1CFLH0ei2RuyB04eHK-YO-63-40j8x-uy?usp=sharing)  
+
+![1663551411596.png](https://voz.vn/attachments/1663551411596-png.1389575/ "1663551411596.png")
+
+  
+Sách ôn HSK5. [sách ôn HSK5](https://drive.google.com/drive/folders/1RAhwe0tovV0i76TvzcKsAH601RCcvOyR?usp=drive_link)  
+
+![1689305474830.png](https://voz.vn/attachments/1689305474830-png.1953779/ "1689305474830.png")
 
 
-### Audiobooks & Podcasts
-- [Spreadsheet Podcast Tiếng Nhật](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0)
+### Kho tài liệu HSK cực khủng của một Vozer
+[Tải tại đây](https://drive.google.com/drive/u/0/folders/1MVLYYBQ00B7oJ8LUQ89DtywcdhE5BJdS?zarsrc=10). Bài viết gốc, nhớ vào đọc ủng hộ tác giả [tại đây](https://voz.vn/t/chia-se-tai-lieu-tieng-trung-nhat-anh.407921/)
 
-### Subtitles
-
-- [Kitsunekko](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) -  Tải phụ đề cho Anime. Nếu trang này không truy cập được thì truy cập bằng [trang này](https://learnjapanese.moe/kitsubackup.html#/ja))**
-- [Jimaku.cc](https://jimaku.cc/) - Tương tự trang trên
-- **[Tự căn chỉnh phụ đề cho đúng, lỗi timing chẳng hạn](https://youtu.be/x0h3ooBHrpk)**
-
-### Tìm câu ví dụ
-
-- [Immersion Kit](https://www.immersionkit.com/) - Bộ công cụ tìm câu của Game Gengo.
-- [Youglish](https://youglish.com/japanese) - Tìm từ Youtube
-- 
-### Audio được cắt gọn
-Cho việc nghe thụ động, đây là những tệp âm thanh được lọc bỏ toàn bộ các phần không có âm thanh cho Anime
-
-- [Condensed Audio 1](https://drive.google.com/drive/folders/1fqsc--ybDjxLLdJeGIxmQ3s-o4f2TIz8)
-- [Condensed Audio 2](https://www.mediafire.com/folder/ndeu7h9zjgf1l/MIA_Condensed_Audio)
-- [Condensed Audio 3](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ)
-- [Condensed Audio 4](https://condensedaudiocatalog.com/#)
-- [Condensed Audio 5](https://www.paliss.com/)
-- [Condense your own audio](https://ercanserteli.com/condenser/)
-
-
-### Từ điển
-
-#### Yomichan
-
-- [Tải Yomitan](https://foosoft.net/projects/yomichan/) - Từ điển tra từ trực tiếp trên trình duyệt
-- Hướng dẫn cách cài: [bấm vào đây](https://learnjapanese.moe/yomichan)
-- [Tải từ điển Nhật - Anh ở trang này](https://github.com/MarvNC/yomichan-dictionaries): Hiện tại vẫn chưa có từ điển Nhật Việt cho Yomitan nào tốt.
+Disclaimer: Các tài liệu dưới đây đều được chia sẻ dưới mục đích giáo dục và phi lợi nhuận. Nếu tác giả của những bài đăng trên muốn yêu cầu gỡ bài thì có thể liên lạc với mình tại `duy200442@gmail.com`. Mình cảm ơn.

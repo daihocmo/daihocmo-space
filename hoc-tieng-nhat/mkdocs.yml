@@ -12,9 +12,9 @@ nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
     - 'Chung': 'guide.md'
-    - 'Nói': 'noi-tieng-nhat.md'
-    - 'Anime': 'tieng-nhat-anime.md'
-    - 'Đọc': 'doc-tieng-nhat.md'
+    - 'Nói': 'noi.md'
+    - 'Anime': 'jp-anime.md'
+    - 'Đọc': 'doc.md'
     - 'Ngữ pháp': 'ngu-phap.md'
   - 'Đầu vào dễ hiểu':
     - 'Hướng dẫn': 'input.md'

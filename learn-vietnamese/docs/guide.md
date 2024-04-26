@@ -36,12 +36,12 @@ The learning process for the beginner consists of:
 
 
 ## 1.2 Vietnamese alphabet
-![alphabet.png](./Image/alphabet.png)
+![alphabet.webp](./Image/alphabet.webp)
 The Vietnamese alphabet, also known as the Quốc ngữ script, stands as the official writing system of Vietnam, reflecting the linguistic and cultural heritage of the country. This unique script, unlike many other East Asian writing systems, is based on the Latin alphabet, showcasing the influence of Western linguistic traditions in Vietnam’s language development. The alphabet consists of 29 letters, including 14 consonants and 15 vowels. Each letter has a unique sound, and it is essential to know how to pronounce them correctly in order to speak and read Vietnamese fluently. 
 
 ### 1.3 How to learn the alphabet
 ### Step 1: the chart
-![bang_chu_cai](./Image/bang_chu_cai.png)
+![bang_chu_cai](./Image/bang_chu_cai.webp)
 
 _The alphabet chart, there are some characters that sound different than the English counterpart, don't try to remember all of them at first, especially the letter combinations. Skip the IPA after the "/" in the pronunciation guide below each characters, it represents its Southern dialect counterpart._
 
@@ -50,7 +50,7 @@ _The alphabet chart, there are some characters that sound different than the Eng
 
 - In informal writing, "W", "F", and "J" are sometimes used as shorthands for "QU", "PH" and "GI" respectively.
 
-![tones](./Image/tones.png)
+![tones](./Image/tones.webp)
 
 _The tone chart, skip it for now, just learn it quick for the sake of comsuming comprehensible input. The best way to learn tones is to listen to native speakers._
 
@@ -100,7 +100,7 @@ Anki is a flashcard program designed to help you remember large amounts of infor
 
 Visit the [Anki download page](https://apps.ankiweb.net/), and download the version of Anki for your system and install it.
 
-![Anki Download Page](http://learnjapanese.moe/img/ankidownload.png)
+![Anki Download Page](http://learnjapanese.moe/img/ankidownload.webp)
 
 Download the one for your system.
 

@@ -1,2 +1,2 @@
 
-Bắt đầu học Tiếng Nhật ngay [tại đây](guide.md)
+Bắt đầu học Tiếng Trung ngay [tại đây](guide.md)

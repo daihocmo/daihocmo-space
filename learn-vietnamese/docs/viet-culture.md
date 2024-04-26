@@ -1,89 +1,59 @@
 _Understanding Vietnam's culture could make your Vietnamese learning journey much easier._
 
-You can say that Vietnamese are somewhat more genuine and open to other cultures. Us Vietnamese live among a lots of culture and they (for whom I have seen) mostly do not regard toward races and genders much. Vietnamese are also (again, for the people I have seen) hard working and trying to figure their way around a lot. A lot of poor, underprivileged Vietnamese find happiness in themselves. And they would help people in need whenever their condition allows it.
+Vietnam is actually East Asian by culture & ethnicity. It's 1 of the main cultures within the [East Asian cultural sphere](https://en.wikipedia.org/wiki/East_Asian_cultural_sphere), and even [Harvard](https://ealc.fas.harvard.edu/vietnamese) labels Vietnamese as East Asian. Also, Vietnamese used to be written in [Chinese characters](https://en.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m) before the French came and changed everything, and our ancestors came from South China & North Vietnam
+
+Compare to other East Asian cultures (China, Japan, Korea), You can say that Vietnamese are somewhat more genuine and open to other cultures. Us Vietnamese live among a lots of culture and they (for whom I have seen) mostly do not regard toward races and genders much. Vietnamese are also (again, for the people I have seen) hard working and trying to figure their way around a lot. A lot of poor, underprivileged Vietnamese find happiness in themselves. And they would help people in need whenever their condition allows it.
 
 This maybe bright and optimistic since this is what I see through my lens. Maybe I am a lucky person to have been able to engage with such people. But it never hurts too badly if you have faith and belief in people.
 
+[How would you describe the Vietnamese culture?](https://qr.vern.cc/How-would-you-describe-the-Vietnamese-culture)
 
-I would say an openness to foreigners. In China, Japan and Korea. They have a tendency to regard foreigners as invaders as opposed to guests and hold them at arms length even if they make big advances in their direction such as learning their language. The other aspect about Vietnamese is being very quick to adopt things that they like from from other places. While face and a culture of connections exists in Vietnam it isn't so overt. In other east Asian countries it much more of thing to make a "friend" because you think they may be useful.
+Initially, I would like to say that this question is very interesting. **_In terms of influence_**, generally, the Vietnamese culture is mainly influenced by two other cultures: **the Chinese** and **the Western**.
 
-Vietnam is actually East Asian by culture & ethnicity. It's 1 of the main cultures within the [East Asian cultural sphere](https://en.wikipedia.org/wiki/East_Asian_cultural_sphere), and even [Harvard](https://ealc.fas.harvard.edu/vietnamese) labels Vietnamese as East Asian. Also, Vietnamese used to be written in [Chinese characters](https://en.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m) before the French came and changed everything, and our ancestors came from South China & North Vietnam
+Because of geography, the Vietnamese culture is influenced by the Chinese one very, very remarkably. I could assert that the Chinese characteristics in it are more intensive than in Korean or Japanese cultures. Vietnam had been controlled by the Chinese monarchs in more than one thousand years. And even though Vietnam became independent from the 10th century, Vietnamese still realized the strong Chinese influence in their lives. Thus, it is unsurprising when Vietnam is considered as a part of the **East Asian cultural sphere** or the **Sinitic culture**.
 
+![1](./previews/posts/viet-culture/1.webp)
 
-### Here is the post from Quora
+However, from the 19th century, Vietnam began receiving Western cultural influences when the French armies took invasions of Vietnam. When **Vietnam** was completely a **French colony**, Western culture started an influx into Vietnam, mainly the **French one**. This influx was such strong that many Chinese signs were erased. Then, in the Vietnam War, by the appearance of Americans, Vietnam received **American cultural impacts**. And up to today, in globalization, Vietnamese culture is impacted by many cultures, including the Western one.
 
-Let's list them shall we?
+(Vietnam was a part of the French Indochina)
 
-- Vietnamese of all classes, ages, and genders dyed their teeth black. Only portions of South China dyed them. In Vietnam, it was the symbol of beauty and even emperors dyed them. Not dying them would be equivalent to not wearing pants today.
+![2](./previews/posts/viet-culture/2.webp)
 
-![](https://qph.cf2.quoracdn.net/main-qimg-8cc41982fca749d633c932aefbae94f5.webp)
+In addition to that, due to globalization, Vietnam is under the cultural effects of Korea (through the Hallyu movement) and Japan (through anime, manga, and more) as well as the other countries.
 
-- Vietnamese of all classes, ages, and genders tattooed themselves during Li and Tran dynasties. Tattoos were considered as for criminals in China, and Japanese aristocrats didn't tattoo themselves. In Vietnam, tattoo was considered a requirement to be a government official, and emperors were the only ones that could tattoo dragons. Of course, the Ming came and wiped that mindset out, and tattoos became taboo by then.
+**_In terms of characteristics_**, overall, because Vietnam is traditionally an **agricultural** nation, the Vietnamese culture demonstrates the cultural points. Furthermore, it has many other essential clues.
 
-![](https://qph.cf2.quoracdn.net/main-qimg-d3ca90e15ad97f600a937c5f66d5a9d5.webp)
+_Language_: Vietnamese is a member of the **Vietic**, the branch of the **Austroasiatic language**, intelligible to the Mường language. In history, Vietnamese people used **Chinese characters** to write their mother tongue. Then, from the 13th century, they invented “**Chữ Nôm**” to be independent linguistically. Both Chinese characters and “Chữ Nôm” were used until the 20th century as they were replaced by the “**Quốc Ngữ**”. (The image below is a “Chữ Nôm” script of one of the most famous Vietnamese literature works “Truyện Kiều”, or “The Story of Kiều”)
 
-- Vietnamese of all classes, ages, and genders practiced paan. Red lips from paan was a symbol of beauty, and paan was used as dowry. Even empresses practiced paan.
+![3](./previews/posts/viet-culture/3.webp)
 
-![](https://qph.cf2.quoracdn.net/main-qimg-6fde78ea08013a4cb374ded218bed4b4.webp)
+_Cuisine_: Vietnam is very rich in terms of cuisine. That is because the climate of this country supports the development of a multitude of animals and plants. Additionally. Vietnam has been the intersection of numerous cultures in the world. As a result, Vietnamese cuisine is very different. Some typical Vietnamese aliments are rice, “phở”, “bánh mì” and “bún chả” (I hope someday you will visit Vietnam to eat them. They are delicious!). And unlike Westerners and like East Asians, Vietnamese use **chopsticks** in meals. (The image below is “bún chả”).
 
-![](https://qph.cf2.quoracdn.net/main-qimg-5d1b51df597283fa9d100746444e4647.webp)
+![4](./previews/posts/viet-culture/4.webp)
 
-- Vietnamese of all classes, ages, and genders preferred to walk barefoot. It was convenient and efficient to them. Government officials pre-Nguyễn walked into Imperial courts barefoot. Emperors and empresses during their regular days preferred to walk barefoot for convenience. Of course, they wore shoes too, but for important occasions.
+_Costume_: In history, Vietnamese costumes were strongly influenced by the Chinese ones. Thereafter, in Westernization, Vietnamese began wearing like Westerners. However, Vietnam has distinct clothes, representatively “áo dài”. Vietnamese women become more beautiful when they wear it. (The image below is the traditional clothes for both Vietnamese men and women).
 
-![](https://qph.cf2.quoracdn.net/main-qimg-2dd2ccee55158d8b3f8cb29d15945061.webp)
+![5](./previews/posts/viet-culture/5.webp)
 
-- Speaking of shoes, Vietnamese shoes for women were distinct in that they revealed heels. Unlike Chinese, who binded their feet and considered that beautiful, Vietnamese prided themselves in their exposed feet. The prettier your heels, the prettier you were. So shoes revealed heels for that purpose. And because Vietnamese loved to walk barefoot, they did not bind their feet.
+_Architecture_: When Vietnam was a monarchial nation, Vietnamese architecture was impacted by China. Still, unlike Chinese old architectural products, the Vietnamese ones were more **moderate**. This point could be also found in the majority of Vietnamese modern buildings, which are constructed in Western-style. (The image below is in Huế, the former capital of Vietnam in the Nguyễn dynasty).
 
-![](https://qph.cf2.quoracdn.net/main-qimg-2c380a7dabf6f9fe31a05cf34139f388.webp)
+![6](./previews/posts/viet-culture/6.webp)
 
-- Hairstyles of each dynasty differed from China. During Lí and Trần, everyone preferred to cut their hair or (for men) go bald, usually for religious purposes (Buddhism). This contrasted from Chinese, who let their hair long and tied it into a bun through Confucian etiquette. Of course Vietnamese had hair-buns as well, but not as popular as short hair. During Lê, men and women preferred flowy long hair. The longer and silkier your hair, the prettier you looked, including men. So everyone let their hair down and some even touched the ground. This contrasted from Chinese, who never ever let their hair down. In Sinospheric cultures, only Heian Japan and Lê Vietnam let their hair all the way down, while Koreans and Chinese tied their hair up. By Nguyễn dynasty, hair-buns and turbans were preferred. This turban was unique to Vietnam and not the same as other religious turbans. Chinese didn't have this.
+_Literature_: It could be said that Vietnamese like writing poems and stories very, very much. In the monarchial period, poets and story writers were mainly officers. They wrote those products just for entertainment. As for structure, they used the **Chinese** structure. However, in the “**lục bát”** poetry, they created a different structure (the first sentence includes six words, the second includes eight words). As for style, they were influenced remarkably by Chinese. As for topics, they were **Chinese history** (surprising, right?) and **regular life** as well as the **personal mind**. In the modern period, Vietnamese generally erase many Chinese clues to receive new ones from **the West**. Literature topics are richer than the past
 
-![](https://qph.cf2.quoracdn.net/main-qimg-3c3ba27072cfcd726951f8db7e8db5dd.webp)
+_Music_: Although not achieving successes like Western music, in history, Vietnamese music was very vibrant. Like other cultural aspects, this music illustrated Chinese influence. it descended **pentatonic** mind. Another essential point is royal music and common music was different. **Royal music** preferred **dancing or performing without words**, where **common music** preferred **singing**. The main topics were Chinese history and regular life In this period, Vietnamese music brings Western and Korean clues. Topics are more abundant than in past but focused on principally love. Some of the Vietnamese typical musical kinds are “tuồng”, “chèo”, “cải lương”, “ca trù”, “nhã nhạc”. (The image below is a “ca trù” performance).
 
-![](https://qph.cf2.quoracdn.net/main-qimg-d7f1aa9f53a9f06dee0c0b87c1c7182a.webp)
+![7](./previews/posts/viet-culture/7.webp)
 
-- Vietnamese fashion differed from China due to tropical climate. Vietnamese mostly preferred darker colors as regular wear. During Lí, Vietnamese wore Song-styled cross-collar Hanfu. By Trần, Vietnamese wore round-collar Yuanling Pao style, except there was no belt and lots of men preferred to wear underwear instead of pants. By Lê, cross-collar Changao style was preferred, but there was no folded skirts, and the collar was so open that you usually revealed your upper underwear or your chest due to hot climate. But that doesn’t mean Vietnamese liked to expose themselves. They were historically one of the most covered up people in Southeast Asia, and their Yếm (underwear) covered everything that was supposed to be covered. Meanwhile, Chinese collars all touched their necks. By Nguyễn dynasty, Vietnamese adopted Ming styled high collar, but their collars were way shorter, they all wore pants/trousers, and they all preferred tight-sleeved. By French colonialism, this attire became modern Áo Dài and was tightened at the waist. This dress had nothing to do with Qipao except that they were born at the same time, meaning same tastes in tight western clothing.
+_Lifestyle_: Vietnamese prefer living in a community or a group to living in isolation.
 
-![](https://qph.cf2.quoracdn.net/main-qimg-3f0fe13e0bb6afa6458862f2be511d2a.webp)
+_Belief_: Vietnamese believe there is **another world for the dead people**. Hence, in each Vietnamese home, there is an area or a room to obey and communicate with their **ancestors**. They also believe in the power of **Ông Trời**, as the Christians believe in Jesus Christ. Thus, the Vietnamese sentence “**Ôi trời ơi!**” is similar to “Oh my God” in English. Additionally, plenty of Vietnamese also believe in ideologies of some religions like Buddhism and Christianity. (The image below is an altar, obeying the ancestors of a Vietnamese family).
 
-![](https://qph.cf2.quoracdn.net/main-qimg-43ba672ef15fa1171715cb7fda709580.webp)
+![8](./previews/posts/viet-culture/9.webp)
 
-- Vietnamese used different furniture and transportations. Vietnamese rode on elephants. Vietnamese used hammocks as transportation (aside from Imperial families). Vietnamese used raised platforms in every dynasty. Vietnamese put meals on mâm before eating.
+_Religion_: The majority of Vietnamese **don’t follow any religion**. For the rest, according to the latest religious statistics, **Vietnamese Christians are the most**, followed by Vietnamese Buddhists. Vietnamese also created new regions like **Cao Đài** or new religious branches like **Hòa Hảo Buddhism**. (The image below is a meeting of the Cao Đài followers).
 
-![](https://qph.cf2.quoracdn.net/main-qimg-2c53c2cd1333fb9054c4c33b87ee5478.webp)
+![9](./previews/posts/viet-culture/9.webp)
 
-![](https://qph.cf2.quoracdn.net/main-qimg-db777e582d244947fa3e6174aef42251.webp)
-
-![](https://qph.cf2.quoracdn.net/main-qimg-ff54e9a63be6dcf5fa35e8ae1c6278e2.webp)
-
-- Vietnamese cuisine is unique. It has Vietnamese, Chinese, and French influences. Fish sauce from Vietnam is distinct. Phở is a combination of all 3 elements. Huế imperial cuisine is also extremely rich and refined.
-
-![](https://qph.cf2.quoracdn.net/main-qimg-1c80db6cf7a615b64c21160a07186161.webp)
-
-- Chinese cannot read Vietnamese writing system. Chữ Nôm was created for vernacular Vietnamese, and it was used with Hán Tự since there are so many Chinese loanwords (like Japanese and Korean). Quốc Ngữ then appeared and replaced it.
-
-![](https://qph.cf2.quoracdn.net/main-qimg-43a1a71e33a483095fb12b651361e8ea-pjlq)
-
-- Dougong was replaced for Bảy/Kẻ. Bảy is basically a simplified version of Dougong, which was replaced during Restored Later Lê.
-
-![](https://qph.cf2.quoracdn.net/main-qimg-343675ff88b4cf5a09623ac5843b59d6.webp)
-
-- Vietnamese indigenous religion is very diverse and matriarchal. Vietnamese most popular religious cult is Đạo Mẫu, which worships over hundreds of goddesses and gods. Despite having male gods, the religion has an extreme number of female goddesses and they are all extremely powerful beings that sit atop the hierarchy.
-
-![](https://qph.cf2.quoracdn.net/main-qimg-f6ec1d6daa3ccd3611928ae6652ad8ec.webp)
-
-- Vietnamese have unique amounts of weapons. Ming Chinese bought a huge ton of weapons from Vietnam. Vietnamese weapons were famous for being extremely decorative, and aristocratic weapons were covered with gold, pearls, and silver.
-
-![](https://qph.cf2.quoracdn.net/main-qimg-7fa7ea42fe88e9cc5512970de1e50b0f.webp)
-
-- Vietnamese have unique amounts of beautiful patterns. The most distinct one is probably the fire blade pattern of Restored Later Lê, which Chinese don't have.
-
-![](https://qph.cf2.quoracdn.net/main-qimg-e788b7cdf92e48df12df2c7342730e3f.webp)
-
-- Vietnam's original culture, called Đông Sơn Son culture, was one of the Baiyue tribes. The Baiyue that assimilated with China had a similar culture to ancient Vietnam because they came from a similar source.
-
-![](https://qph.cf2.quoracdn.net/main-qimg-0fddd16a667328c1b9413a458df66e50.webp)
-
-Should I mention more? Or should I stop?
-
-You can refer to another answer of mine to a sim
+Those are some characteristics of Vietnamese culture.

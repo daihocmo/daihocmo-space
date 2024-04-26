@@ -2,37 +2,28 @@
 
 Hello and welcome to your first steps towards learning a foreign language. If you're coming here fresh to the endeavour, you've got a lot to cover, but we promise the effort will be worth the reward!
 
-The r/languagelearning subreddit is a general community - we don't support any particular language. Rather, we try to help you on your journey in two ways:
+We serve as a hub to help you find all the great communities and resources that are out there
 
-    We serve as a hub to help you find all the great communities and resources that are out there
-    We share advice and tips that apply to all languages
+We share advice and tips that apply to all languages
 
 When it comes to your specific language, there are lots of great places to find resources and get support. The best place to start is with the language subreddits. Check out the Resources wiki for some resources and links to language subreddits. If you'd like to know how we recommend you start learning a language, you can start with the guide below.
 
-If you're a beginner and you've got some questions about language learning, try our FAQ - you can find lots of information there. You can also find a list of Discord servers here.
-Subreddit guide
-
 There's a fair amount to cover, so to make it as easy as possible one of our mods has organised everything into a guide. The guide has two formats: an online version and a PDF. The content is almost entirely the same, but the online version is updated more frequently.
 
-You can find the online version here.
-
-You can get the PDF in multiple ways. You can one-click download with this link. You can use Google Docs' Viewer to view the guide in your browser here.
-
-If you would like to offer support, you can purchase the guide on Leanpub or send a tip to the author.
-What's in the guide?
+## What's in the guide?
 
 There are lots of guides out there in the internet, so why did we need another one? Most guides out there are very theoretical. They talk a lot about language learning theory or dispense a smattering of advice without covering the breadth of any one topic. Theory is important, but it can also be very lengthy. Oftentimes, the learner is still left wondering "ok great, so I think I understand how to learn, but what do I actually do to start? What resources should I use? What should my routine be?". Here we take the position that understanding the basic steps to learning a language is far more important for a beginner than dealing with lots of theory.
 
 To help you best, the subreddit guide is structured as follows:
 
-    The start contains a bare minimum of theory, covering only the basics you really need to know before you begin.
-    The guide then focuses on helping you find resources. You will review the types of resources you need to start and where to find them.
-    The guide then helps you put everything together, covering your routine with some advice on ensuring you learn as fast as you can.
+The start contains a bare minimum of theory, covering only the basics you really need to know before you begin.
+The guide then focuses on helping you find resources. You will review the types of resources you need to start and where to find them.
+The guide then helps you put everything together, covering your routine with some advice on ensuring you learn as fast as you can.
 
 After that, the book covers more core language learning theory:
 
-    You will be shown how to use your resources optimally.
-    You will then cover more broad language learning theory, such as how best to learn grammar, vocabulary, and the four skills.
+You will be shown how to use your resources optimally.
+You will then cover more broad language learning theory, such as how best to learn grammar, vocabulary, and the four skills.
 
 From there, the guide moves on to more intermediate topics, including great intermediate activities and advice for studying without a course. The end of the guide has a large set of appendices to provide additional information and respond to common queries. Beginners don't need to read this far.
 
