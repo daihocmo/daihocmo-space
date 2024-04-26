@@ -1,1 +1,0 @@
-- Dự tính trong tương lai gần sẽ tiếp tục học, giờ bận chạy deadline với cải thiện các ngôn ngữ kia

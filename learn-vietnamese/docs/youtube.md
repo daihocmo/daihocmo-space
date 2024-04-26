@@ -1,4 +1,5 @@
 There are various great Youtube contents made by Vietnamese. And if you are stuck, auto-generated subtitles are here to use, it's pretty accurate tbh (mostly).
+## Youtube channels
 
 | Kênh | Giọng - Accent | Thể loại - Genre | Mô tả - Description | Hình - Picture |
 | --- | --- | --- | --- | --- |
@@ -22,3 +23,18 @@ There are various great Youtube contents made by Vietnamese. And if you are stuc
 | [Thanh Pham](https://www.youtube.com/channel/UCflB5s9lNML-rFf9JpBiC4A) | Northern | Other | He draws, sometimes makes random videos about history, really hilarious. | ![cover](./previews/youtube/thanhpham.jpg) |
 | [Tập Vẽ Man](https://www.youtube.com/@tapveman) | Northern | Skits | He makes animated videos about his own experiences. | ![cover](./previews/youtube/tap_ve_man.jpg) | 
 | [Meichan](https://www.youtube.com/channel/UCXqtMJC2xCAWPATo4919dTA) | Northern | Vlog | vlog about her uni life | ![cover](./previews/youtube/meichan.jpg) | 
+| [Ninh Titô](https://youtube.com/c/NinhTit%C3%B4) | Northern | travel & food | A food reviewer who makes videos about various Vietnamese cuisines | ![cover]() | 
+| [Woossi TV](https://youtube.com/c/WOOSSITV) food  | Northern | Vlog | (he's Korean but the content is in VN), there are Vietnamese subtitles (inside the video) | ![cover]() | 
+| [Huy Hay Đi](https://youtube.com/c/HuyHay%C4%90i) | Northern |  | smaller travel, vietnamese sub is available  | ![cover]() | 
+| [Loa Phường TV](https://www.youtube.com/@LoaPhuongtv) | Northern |  | comedy, vietnamese sub is available  | ![cover]() | 
+| [Cô Em Trendy](https://www.youtube.com/channel/UCgjvMGOqcR1Z3yUXN71GDgg) | Northern | Comestics  | A model who makes videos about comestics and such kinds of things in her life  | ![cover]() | 
+| [An Nguyễn Fitness](https://www.youtube.com/channel/UCmGd7o2cpZgU6EcuJYXijKw) | Northern | Fitness |  | ![cover]() | 
+ 
+
+## TV Programme (Available on Youtube)
+
+| Danh sách phát - Playlist | Giọng - Accent | Thể loại - Genre | Mô tả - Description | 
+| --- | --- | --- | --- |
+| [THỬ THÁCH LỚN KHÔN](https://youtube.com/playlist?list=PLQdFgSsk41_xkFgoOGvll6xkZ8qfLJMXM&si=QsgtNZ5EnIYLXBsw) | Northern and Southern | | a show about little children and it's so cute. both seasons 1 and 2 have eng subs. |
+[Ca sĩ mặt nạ](https://youtube.com/playlist?list=PLxKLMN7WdG5ANJruYBhSGi5UBRUIhQTbi&si=vYyEUxdHgFj7XJGz) | Northern and Southern | | |
+[Người ấy là ai](https://www.youtube.com/playlist?list=PLxKLMN7WdG5CkjfnU7rh6VaHsEOvRkmnm) | Northern and Southern | | |

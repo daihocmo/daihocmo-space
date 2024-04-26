@@ -19,10 +19,11 @@ Chúng ta sẽ bắt đầu nghe trước vì nó dễ hơn và bớt áp lực 
 
 - [Tương đối rồi đấy](https://www.youtube.com/playlist?list=PLPdNX2arS9MZ70r0Vi6d6dUazHb_3z2sd): Sau khi bạn xong Playlist ở trên, yêu cầu hiểu khoảng trên 80% thì bạn có thể cân nhắc lên danh sách phát này. Các danh sách phát này đều không dài, rất dễ thở khi nghe và có thể nghe lại nếu không rõ hoặc chưa hiểu hết nữa!
 
-- [**Thử thách**](https://youtu.be/dEcr9M0xKE4): Đây là một video của Vanessa cho "Beginner" nhưng nó không hề dễ một chút nào!! Bạn có thể thử thách bản thân nếu bạn đã hoàn thành được cả phần đọc bên dưới. Tốc độ nói của người nói trong video cũng không quá chậm so với các cuộc hội thoại thông thường nên nếu bạn hiểu được khoảng 80% thì chúc mừng bạn nha!!!
+- [Nihongo Learning](https://www.youtube.com/channel/UC6Xtu6v_op552SsOr5_jWrg): "Tiếng Nhật dễ" nhưng không dễ, vì tốc độ hội thoại và nói trong đây không quá chậm cũng không quá nhanh. Nội dung đa dạng với không khó tiếp thu. Làm video dưới dạng hội thoại và hoạt hình.
 
-Các nội dung thêm: Đang được bổ sung....
+- [**Thử thách**](https://www.youtube.com/playlist?list=PLXCeHBWxd4iCqSvBJPvE2TFMWkKBKfJpv): Đây là danh sách phát 12 bài nghe N3 của Japanese Test. Nghe thử xem!
 
+Các nội dung thêm: Bạn có thể đọc thêm về Comprehensible Japanese tại [trang này](https://cijapanese.com/).
 
 ### Đọc 
 
@@ -34,8 +35,9 @@ Các nội dung thêm: Đang được bổ sung....
 
 - [YomuJP](https://yomujp.com/): Đây là danh sách các bài đọc có chia Level cho người ở mọi trình độ (Từ N6 (?) đến N1 luôn!).
 - [Satori Reader](https://www.satorireader.com/series): Đây là một trang tổng hợp các bài đọc Tiếng Nhật, đa dạng chủ đề và có giọng đọc (Hình như có phần nội dung mất tiền nên không ưu tiên)
-- [Tadoku](https://tadoku.org/japanese/book-search/?series=010): Đây là phần Graded Reader, tức chia bài đọc theo Level, miễn phí và siêu xịn. 
-- [**Thử thách**](): Hiện vẫn chưa tìm được.
+- [Tadoku](https://tadoku.org/japanese/book-search/?series=010): Đây là phần Graded Reader, tức chia bài đọc theo Level, miễn phí và siêu xịn. Bạn có thể tải tài liệu trực tiếp tại [đây](tadoku.md).
+
+- [**Thử thách**](https://ehon.alphapolis.co.jp/): Không hẳn là thử thách nhưng đây là trang sách ảnh cho trẻ em của Nhật.
 
 Trong giai đoạn đầu tiên, mọi người không nhất thiết chỉ nghe hoặc đọc các nội dung mình đã cho sẵn ở đây mà có thể chủ động tìm kiếm các nguồn khác để cải thiện kĩ năng hiểu của mình với Tiếng Nhật. Các nguồn học liệu bổ sung mình sẽ thêm ở trang "Tài nguyên" nếu bạn muốn tìm hiểu thêm.
 
@@ -50,9 +52,27 @@ Từ giai đoạn này, bạn bắt đầu sẽ thấy Tiếng Nhật trở lên
 
 Vui hơn một chút, các đoạn nghe bắt đầu trở lên tự nhiên hơn.
 
-- [Nihongo Learning](https://www.youtube.com/channel/UC6Xtu6v_op552SsOr5_jWrg): "Tiếng Nhật dễ" nhưng không dễ, vì tốc độ hội thoại và nói trong đây không quá chậm cũng không quá nhanh. Nội dung đa dạng với không khó tiếp thu. Làm video dưới dạng hội thoại và hoạt hình.
+- [もしもしゆうすけ](https://www.youtube.com/channel/UCcCeJ3pQYFgvfVuMxVRWhoA): Khó hơn chút, vì anh này quay vlog nói một mình hoặc các tình huống giao tiếp ngoài đời thực, có phụ đề.
+- [The bite size Japanese Podcast](https://www.youtube.com/channel/UCc8QJqwkWe9RcKYZTY2Ezuw): Chị layla chia sẻ về trải nghiệm cá nhân bằng Tiếng Nhật. không quá khó nghe vì được làm cho người học nhưng cũng không quá dễ nghe vì cần một lượng từ vựng tương đối.
+- [YUYUの日本語Podcast](https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA): Podcast của YUYU rơi vào khoảng N3 ~ N2. 
+- [日本語 to 旅](https://www.youtube.com/channel/UCJUQG9V0DuccWVOw8ovzTsQ): Nghe Tiếng Nhật có chia Level + Phụ đề
+- [Suzu_nihongo](https://www.youtube.com/@suzu_nihongo/): Tương tự
+- [SayuriSaying](https://www.youtube.com/@SayuriSaying/): Cũng tương tự
 
-- [もしもしゆうすけ
-](https://www.youtube.com/channel/UCcCeJ3pQYFgvfVuMxVRWhoA): Khó hơn chút, vì anh này quay vlog nói một mình hoặc các tình huống giao tiếp ngoài đời thực, có phụ đề.
 
+- [**Thử thách**](https://youtu.be/4389Vt9uo74?si=J1i7QQoZMuWMb7Uw): Đây là bài nghe đầy đủ Choukai N2 dài 1 tiếng. Thử thách bản thân thử xem, gợi ý nên bật x1.25 để nghe tự nhiên hơn :>!
+
+Một số các danh sách nghe theo Level (N2) khác:
+
+- [Japanese Test](https://www.youtube.com/playlist?list=PLXCeHBWxd4iCZ9BbNJBGPFoYXvduL_WQc)
+- [JLPT N2聴解](https://youtube.com/playlist?list=PLjjOUGQqAuxkDBy65hlOWK489jcifUeeE&si=BDPwtcTtU-mjhEKW)
+
+### Đọc:
+
+Mọi người hoàn toàn có thể sử dụng các tài nguyên từ giai đoạn một vì đa phần các trang đó đều có bài đọc cho Level cao hơn.
+
+Một số nguồn đọc gợi ý:
+
+- [NHK EASY WEB](https://www3.nhk.or.jp/news/easy/): Một trang báo Tiếng Nhật của NHK.
+- []()
 Tớ sẽ bổ sung thêm sớm thui ^^. 

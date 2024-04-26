@@ -1,4 +1,5 @@
 Một số các Podcasts được sưu tầm, các đường dẫn ở đa nền tảng (Gần như toàn bộ đều là Google Podcasts)
+
 * [Lex Fridman](https://www.youtube.com/c/lexfridman/videos)\- long form podcasts with the world's greatest minds
 * [Materialism](https://podcasts.google.com/feed/aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9tYXRlcmlhbGlzbQ?sa=X&ved=0CBoQ27cFahcKEwjgj5L-4Kr0AhUAAAAAHQAAAAAQQg) \- material science
 * [Radiolab](https://www.wnycstudios.org/podcasts/radiolab/radiolab-memorable-episode-results) \- investigative journalism with sexy sound design
@@ -26,3 +27,8 @@ Một số các Podcasts được sưu tầm, các đường dẫn ở đa nền
 * [The Biologic Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9iaW9sb2dpYy5saWJzeW4uY29tL3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwiwlp3c-t71AhUAAAAAHQAAAAAQAQ&hl=en)
 * [Talk Nerdy with Cara](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDUzMDA2MS9lcGlzb2Rlcy9mZWVk?hl=en)
 * [The Skeptics Guide to the Universe](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnRoZXNrZXB0aWNzZ3VpZGUub3JnL2ZlZWQvcnNzLmFzcHg_ZmVlZD1zZ3U/episode/aHR0cHM6Ly93d3cudGhlc2tlcHRpY3NndWlkZS5vcmcvcG9kY2FzdC9zZ3UvODY0?hl=en&ved=2ahUKEwifiZOfgN_1AhVjk2oFHU_-BYQQieUEegQIAhAF&ep=6)
+
+
+### Danh sách các Podcast ngắn có độ dài khoảng từ 5 phút đến 20 phút
+
+Đang cập nhật.

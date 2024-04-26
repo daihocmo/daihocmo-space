@@ -1,9 +1,7 @@
 |     | Starter Pack |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | No  | Name | Level | Transcript | Script Link | Link |     |     |     |     |
-| 1   | Nihongo con Teppei (beginner) |     | ❌   | ❌   | https://open.spotify.com/show/4W4jYoKRmjlURKO1fIfcOK?si=23adf8801cc24ff4 |     |     |     |     |
 | 2   | Sakura Tips |     | ✓   | https://sakuratips.com/category/pod-cast/ | https://open.spotify.com/show/3FwGWuEg9oAkz4k5fsbyBq?si=ea89d983522b429b |     |     |     |     |
-| 3   | Japanese with Shun |     | Not free | https://www.patreon.com/Japanesewithshun | https://open.spotify.com/show/0TWRqowC0TPhXlG79M0qzv?si=2889910f4066479a |     |     |     |     |
 | 4   | Nihongo for You |     | ✓   | https://www.nihongoforyou.com/episodes/ | https://open.spotify.com/show/5qQD8ngmhTLUh4LNBw29cA?si=222ddf14b27c4016 |     |     |     |     |
 | 5   | Momoko To Nihongo |     | ✓   | https://www.momoko-to-nihongo.com/podcast-scripts | https://open.spotify.com/show/4KBEcdMXAQTcLcE86Y0ow9?si=864a9bb00cf745ba |     |     |     |     |
 | 6   | Let's Learn Japanese with Movies |     | ✓   | https://www.letslearnjapanesewithmovies.com/node/131 | https://open.spotify.com/show/6jjFCjovosuZ34rOmLJaUu?si=e0c6988031854670 |     |     |     |     |

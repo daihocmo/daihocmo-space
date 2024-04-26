@@ -12,6 +12,9 @@ nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
     - 'Giáo trình': 'guide.md'
+  - 'Thói quen tốt':
+    - 'Dọn dẹp': 'konmari.md'
+    - 'Mewing': 'mewing.md'
       
 theme:
   palette:

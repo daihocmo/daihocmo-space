@@ -12,9 +12,16 @@ nav:
   - Home: 'index.md'
   - 'Hướng dẫn': 
     - 'Hướng dẫn': 'guide.md'
-    - 'Đọc trong ESP': 'reading.md'
-    - 'Nghe trong ESP': 'esp-listening.md'
-    - 'Từ vựng': 'esp-vocabulary.md'
+    - 'Đọc': 'reading.md'
+    - 'Nghe': 'listening.md'
+    - 'Từ vựng': 'vocab.md'
+  - 'Chuyên ngành':
+    - 'Y học': 'y-hoc.md'
+    - 'Marketing': 'marketing.md'
+    - 'CNTT - IT': 'cntt.md'
+    - 'Du lịch': 'du-lich.md'
+    - 'May mặc': 'may-mac.md'
+    - 'Điện tử': 'dien-tu.md'
   - 'Tài nguyên':
     - 'Tài nguyên': 'resources.md'
       

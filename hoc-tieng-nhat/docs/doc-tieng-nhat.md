@@ -1,22 +1,3 @@
-  
-
-[Introduction](https://docs.google.com/document/d/1OcCK337wXqjW9dzH0A-5GtNVJ0Ts3ZSHwkmwl7U-waI/edit#heading=h.be671b9h42g7)
-
-  
-
-[Key Tips Before You Start](https://docs.google.com/document/d/1OcCK337wXqjW9dzH0A-5GtNVJ0Ts3ZSHwkmwl7U-waI/edit#heading=h.g0fph5o3nyep)
-
-  
-
-[List of Collections](https://docs.google.com/document/d/1OcCK337wXqjW9dzH0A-5GtNVJ0Ts3ZSHwkmwl7U-waI/edit#heading=h.hklupri1vr92)
-
-  
-
-[My Other Guides](https://docs.google.com/document/d/1OcCK337wXqjW9dzH0A-5GtNVJ0Ts3ZSHwkmwl7U-waI/edit#heading=h.r79t8lnunvt5)
-
-  
-  
-
 # Introduction
 
   
@@ -24,23 +5,19 @@
 Reading as immersion material is particularly key in increasing vocabulary, but after focusing on listening for a while, it can be daunting.
 
 [Graded readers](https://www.reddit.com/r/LearnJapanese/comments/o7x7ha/2021_updated_free_tadoku_graded_reader_pdfs_1796/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button) can be boring despite how helpful they might be, but Light Novels can look like a daunting wall of text for many, even at lower levels. Manga simply doesn’t have the text density that books can offer.
-
   
 
 I think there’s a great potential in choosing books focused on the 児童 market, from 小学生 to 中学生。With shorter sentences and often less complicated vocabulary, they can still offer stories interesting enough to grab and retain our attention as learners.
 
-  
 
 I’ve compiled a list of 文庫 collection names, for easy searching for children’s books that might help getting a foot in the door to reading - once you get the ball rolling, it’s a whole lot less intimidating.
 
-  
 
 (This is not a comprehensive list, and I may have missed some well-known collections)
 
   
   
-  
-  
+
 
 ## Key Tips Before You Start
 
