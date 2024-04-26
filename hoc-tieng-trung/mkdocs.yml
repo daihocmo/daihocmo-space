@@ -17,9 +17,8 @@ nav:
     - 'Hán tự': 'cay-han-tu.md'
   - 'Đầu vào dễ hiểu':
     - 'Hướng dẫn': 'input.md'
-    - 'Tài nguyên': 'input-resources.md'
+    - 'Tài nguyên': 'input-guide.md'
   - 'Công cụ':
-    - 'Yomitan': 'yomi-setup.md'
     - 'Anki': 'anki.md'
   - 'Tài nguyên':
     - 'Tài nguyên': 'resources.md'

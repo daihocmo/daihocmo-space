@@ -32,3 +32,27 @@ Một số các Podcasts được sưu tầm, các đường dẫn ở đa nền
 ### Danh sách các Podcast ngắn có độ dài khoảng từ 5 phút đến 20 phút
 
 Đang cập nhật.
+
+- Cabinet of Curiosities
+- Planet Money
+- The Indicator (planet money spin off)
+- This American Life 
+- Anthropocene Reviewed
+- Song Exploder
+- Short Wave
+- The Memory Palace 
+- Poetry Unbound 
+- Up First by NPR
+- Everything, Everywhere Daily. 
+- The Hottest Take
+- The Atlas Obscura Podcast
+- Techmeme
+- Let me Google that
+- Morning cup of murder
+- The peak daily or the indicator
+- Comedy Bytes
+- Ways of Knowing 
+- Futility Closet 
+- Ungeniused
+- “Explain like I’m Five”
+- Ologies” and “Radiolab”.

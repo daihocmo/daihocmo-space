@@ -20,6 +20,7 @@ nav:
   - 'Tools':
     - 'Mining': 'asbplayer.md'
     - 'Yomitan': 'yomi-setup.md'
+    - 'Anki': 'anki.md'
   - 'Hán Nôm':
     - 'Guide': 'han-nom.md'
   - 'Resources':

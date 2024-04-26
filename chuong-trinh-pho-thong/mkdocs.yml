@@ -9,7 +9,11 @@ theme:
     primary: indigo
 
 # Make changes to the nav section
-      
+nav:
+  - Home: 'index.md'
+  - 'Hướng dẫn':
+    - 'Giáo trình': 'guide.md'
+    - 'Plan': 'notice.md'
 theme:
   palette:
     # Palette toggle for light mode

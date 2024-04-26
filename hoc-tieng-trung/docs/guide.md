@@ -3,11 +3,9 @@
 
 Đây cũng là hướng dẫn mình tham khảo và thấy đơn giản và ngắn gọn nhất, bởi phần lớn thời gian bọn mình học sẽ là tập trung vào xem Media Trung nói chung. Đây cũng sẽ là lúc bạn tận hưởng quá trình học nhất ^^!
 
-![roadmap](https://donkuri.github.io/learn-japanese/img/jp-flowchart.png)
-
 _Một lộ trình học Tiếng Trung_
 
-  
+
 ## Lộ trình căn bản.  
 Bạn cần bắt đầu như thế nào để có thể học Tiếng Trung theo phương pháp này, việc học sẽ được tối ưu hơn nếu bạn sử dụng máy tính / laptop:  
 
@@ -63,7 +61,7 @@ Nếu bạn đã xong bộ thẻ Anki ở trên, thì chúc mừng nha ^^, bạn
 
 Chúng ta bắt đầu đắm chìm vào Tiếng Trung sau khi tiếp thu được một khối lượng tương đối, bạn có thể tìm hiểu về sentence mining, khai thác các từ mới thông qua các câu xuất hiện trên Media bạn tiêu thụ. Việc sentence mining sẽ giúp bạn ghi nhớ các mẫu câu hay cách dùng hay mà bạn bắt gặp trong quá trình học Tiếng Trung. Bạn có thể xem hướng dẫn cơ bản về sentence mining [tại đây](https://www.youtube.com/watch?v=PLnJ1l6f7mQ). 
 
-Nếu bạn không biết mình "nên" xem gì, thử tìm ở [Chinese Media Recommendation](https://ixrec.neocities.org/immersion/). Tìm thứ mình thích, cày nó và cày nó.
+Nếu bạn không biết mình "nên" xem gì, thử tìm ở [Chinese Media Recommendation](). Tìm thứ mình thích, cày nó và cày nó.
 
 Trong giai đoạn này, bạn có thể sẽ bắt gặp một số cấu trúc ngữ pháp lạ hoặc khó. Bạn có thể thử tự tra trên Google
 

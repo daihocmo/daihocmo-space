@@ -1,41 +1,44 @@
-Got it. I’ll do just that. I figure if I learn like a baby, I can pick up the language like nobody’s business. The learning how to read and write part will be a bit more of a fun challenge though. I’m sure that part won’t be a breeze, but we’ll get there.
+### Giới thiệu
 
-You don't really wanna learn like a baby. At least, not in the beginning. As a beginner, an hour spent reading a textbook will give you about a hundred times more bang for your buck than an hour spent watching a TV-show. A few months in textbooks and other learning materials will slowly stop giving those massive returns in investment and immersion will gradually take its place as the main source of learning, but the nature of the beast is that the more of the language you know the easier it gets to learn even more. The corollary to this is that the less of a language you know the harder it will be to learn more. And since in the beginning you know nothing at all, you gotta do at least some studying. A textbook will straight-up tell you "This word means that thing. That grammar point means this thing". In the beginning you will need that. A common recommendation for beginners here is Tae Kim's grammar guide (free) or Genki (costs money).
+Đây là bài viết về Đầu vào dễ hiểu hay Comprehensible Input đầu tiên, để giúp bạn có thể tối ưu hóa lượng thời gian nạp nội dung nhất. Khi chúng ta mới học thì đa phần các Input (Đầu vào) đều sẽ là "Imcomprehensible" (Không dễ hiểu) bởi vì chúng ta chưa có từ vựng hay hiểu biết cơ bản về ngôn ngữ để có thể "hiểu" được "thông điệp được truyền tải" từ nội dung đó.
 
-Of course, immersion is something you do in your free time, so you can do it even in the beginning, after you're done with your daily hour of studying. And to avoid forgetting what you've learned, use a memory aid program like Anki. Stick sentences in Japanese on the front card, what they mean on the back card.
+### Input, Output
+
+_Đầu vào hay đầu ra?_
+
+Khi ở giai đoạn mới học, khi mà bạn vẫn chưa biết gì về ngoại ngữ hoặc không chắc chắn rằng câu nói hoặc câu viết này đúng hay sai, đừng nói/viết!
+
+Output ở đây là "đầu ra", tức bao gồm nói và viết, khi mà ta tạo ra Tiếng Anh dựa trên những gì chúng ta đã "Input" (nạp vào, bao gồm nghe và đọc). Khi chúng ta chưa nghe và đọc "đủ nhiều" thì khả năng sử dụng ngoại ngữ cho nói và viết sẽ rất hạn chế vì:
+
+- Ta không chắc câu này ta nói có đúng không? -> Ta chưa được nghe mẫu câu đúng đó đủ nhiều để có thể nói như cách ta nói Tiếng Việt.
+
+- Dễ bị sai, thành thói quen và khó sửa. Nếu để lỗi sai thành một thói quen xấu thì sẽ rất khó sửa.
+
+### i + 1
+
+Bạn học từ mới thông qua ngữ cảnh, hay đơn giản hơn, bạn học từ mới nhanh hơn khi bạn đặt từ mới đó trong ngữ cảnh, ở đây là câu, bao gồm các từ vựng bạn đã biết, và một từ bạn chưa biết và muốn học đặt trong đó. Đây gọi là phương pháp "i + 1", i ở đây là khối lượng từ vựng ước tính của bạn. Cứ mỗi một câu "i + 1" thì bạn lại:
+
+- Nạp thêm một từ vựng mới.
+- Biết được cách dùng của từ vựng đấy trong câu/ngữ cảnh.
+- Ôn lại các từ đã biết -> Giúp nhớ lâu hơn.
+
+Vậy nên, có lẽ bạn sẽ muốn chọn học liệu hoặc nội dung tiêu thụ ngang hoặc nhỉnh hơn kĩ năng Tiếng Anh của mình một chút để có thể tăng lượng Comprehensible Input lên nhiều nhất. Tuy các nội dung làm cho người học chán, không bánh cuốn nhưng với những người mới học, việc đọc/nghe nhiều những nội dung "i + 1" đó sẽ giúp họ cải thiện được Tiếng Anh nhanh ở giai đoạn đầu.
+
+Nhưng khi đến giai đoạn trung cấp, ở đây giả sử bạn có khoảng 2000 từ vựng và thời gian nghe đọc nội dung cơ bản được tương đối (Mình ước tính khoảng 200 giờ đến 300 giờ, hoặc có thể hơn). Thì có lẽ đã đến lúc nên thử đắm mình vào trong ngôn ngữ mà người nói Tiếng Anh bản ngữ thực sự dùng rồi!
+
+### Về đọc có chọn lọc theo cấp độ (Graded Readers)
+
+Việc lựa chọn tài liệu đọc sao cho phù hợp với những người theo học phương pháp Comprehensible Input là một điều rất quan trọng. Vì khi các tài liệu đọc được sử dụng trong lúc học của chúng ta thực sự "Comprehensible", tức dễ hiểu thì khả năng chúng ta học từ mới thông qua ngữ cảnh và làm mới ngữ cảnh đó trong đầu của chúng ta sẽ được cải thiện rất nhiều.
+
+Vậy nên thay vì nhảy luôn vào đọc những kiệt tác hay những cuốn sách dùng Tiếng Anh "xịn", thì bạn nên thử "đọc chia cấp độ" để có một cái nhìn tổng quát hơn về Tiếng Anh.
+
+Mình xin phép trích một bình luận của một giáo viên Tiếng Anh trên Reddit.
+
+> Graded Readers is the right choice. Also illustrated thinks like comic books or even children's books. Keep using Graded Readers for your English learning journey. Just go to the next level as you move up!
+
+Tất nhiên, việc không xem được những gì mình thích hoặc muốn sử dụng để học Tiếng Anh không thực sự vui và tận hưởng lắm. Nhưng bù lại, nó cho ta cảm giác về sự tiến bộ dần dần trong quá trình học.
 
 
-### 2
+### Bắt đầu thế nào
 
-I'm a very strong advocate of comprehensible input, but there are a lot of people saying "comprehensible input" when they just mean "input," as if it helps you very much to listen to a lot of language that's too fast or complex for you to understand anything.
-
-Here's the thing: it's not comprehensible input unless you can understand it. That is what "comprehensible" means. If you're already at a high-intermediate level, then watching TV/movies without subtitles can be comprehensible input, but if you're a beginner, it's not. For comprehensible input, you're looking for content you can understand 95%-98% of. (You will get SOME comprehensible input if you understand less than that, but if you can understand very little of what you hear... it's not comprehensible input.) Also... not using subtitles has nothing to do with comprehensible input. Comprehensible input proponents generally encourage people to use subtitles (but more importantly, you should find content that's so easy you don't need subtitles).
-
-Research on both babies and adult second language learners suggests that we don't learn language just by hearing it. (Hearing babies of deaf parents don't learn language from TV!) We need to hear it at a level that is deliberately slowed down and simplified so that we can understand it. Mostly, this means learning from teachers who are trained in CI techniques, rather than self-study; most of the work I've seen on comprehensible input is specifically classroom-based. But CI proponents also advocate a lot of reading, using resources like the earliest levels of these graded readers.
-
-When I was first learning Japanese, I started out by doing self-study with textbooks, followed by classes, but I jumped into manga pretty much right away, and then very quickly into novels. I was reading a lot of stuff way above my level, which is not what proponents of CI suggest you do because it can be very slow and discouraging - but some people are carried through by sheer passion and ambition, like I was. It definitely helped me relative to the other people in my class who weren't doing as much out-of-class reading as I was.
-
-By the time I started learning Mandarin Chinese, I had discovered theories about comprehensible input, and I wanted to put them to use. What I figured out was that it's quite difficult to do comprehensible input as self-study if there aren't good materials available, but it was possible to put something together between textbooks, graded readers, and podcasts intended for second-language learners of Chinese. I think that if you're not in a situation where you can take classes from someone who uses CI techniques, then you kind of have to use more traditional study methods (mixed with as much comprehensible input as possible) until you're at a level where you can understand native content at a decent level.
-
-(By the way, read Principles and Practice in Second Language Acquisition by Stephen Krashen; it's a free book by the guy who literally wrote the book on comprehensible input).
-
-### 3
-
-Comprehensible inputs is key. I don't think anybody that has gotten to "fluency" in any language without comprehensible inputs in one way or another. Personally, I didn't realize this until later in my studies but as I got more advanced, the more I realized that not just inputs but comprehensible inputs is what is important. Simply put, incomprehensible inputs is better than nothing but it's practically useless. Comprehensible inputs will teach you language nuisances, new vocabs, solidified previously learned concepts, language intuitions(grammar), etc..
-
-I'm not huge on classroom learning but thinking back on it, my teacher speaking a dumbed down version of the language helped a lot in solidifying. For a long time, I used Anki as my main source of studying. But all the thousands of hours of Anki studying didn't really solidify until much later; it came from hundreds, if not thousands of exposures with contexts from comprehensible native resources.
-
-### 4
-I'm a Japanese teacher. Comprehensible input is the new favored teaching strategy for language acquisition right now (it's not a new concept but the teaching pendulum swings to other things every decade or so). But I think some people hear the term and make some false assumptions on how it works.
-
-It has a very important part that people gloss over. In order to be useful, the input must be over 90% comprehensible to the one receiving the input and the learner generally has to receive input on the same word/grammar nearly a dozen times for it to actually embed itself. Teachers using comprehensible input successfully have to be extremely conscious on the words they're using at all times with students. I mention teachers because it's a teaching methodology, not really a learning methodology.
-
-If the input contains too many things the learner cannot figure out, it is no longer comprehensible. If you're reading or listening to something and only understand a few words, it's not comprehensible. If you hear a word you don't understand and you cannot figure out what it could mean, it's not comprehensible. (Using a dictionary =/= comprehensible input.)
-
-Comprehensible input for a brand new learner usually doesn't look like watching your favorite anime without subtitles because your language level isn't ready for that. And it's not like how "babies learn" because you're not a baby and you'll never again have the chance to learn like a baby learns.
-
-In my opinion, comprehensible input is great but it's not the cure to learning a language. It's part of the prescription, joined with many other things. I'm not sure how comprehensible input could work for someone trying to self-study unless you're following a plan made by someone else. Otherwise it'll be really hard to find material that is comprehensible to you. Most media made for native speaker isn't truly comprehensible to learners until they've entered intermediate or advanced level.
-
-
-## Graded Reader
-[Hey](https://tadoku.org/japanese/en/graded-readers-en/)
+Bạn hãy đọc [bài này](input-guide.md) để lấy hướng dẫn, lộ trình và các nguồn nghe đọc nha.

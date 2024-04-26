@@ -12,6 +12,7 @@ nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
     - 'Học sao?': 'guide.md'
+    - 'Roadmap': 'roadmap.md'
   - 'Tài nguyên':
     - 'Tài nguyên học': 'resources.md'
 

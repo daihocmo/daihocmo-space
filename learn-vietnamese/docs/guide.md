@@ -213,23 +213,23 @@ How long should I do immersion per day?
 
 I recommend around 1 hour to 2 hours when starting out. There is no harm in doing more immersion than that, and you will improve faster with more immersion per day.
 
-## 3.1 Regarding speaking and writing (output)
+## 2.1 Regarding speaking and writing (output)
 
 People often have the misconception that speaking the language a lot is how you get better at the language, but this isn't really the case, as the input we receive from hearing and seeing natives use their language is what actually benefits us. While output won't directly improve your proficiency at the language, it is still quite important to be practicing output, whether it is by texting or with speech, because input and output go hand in hand. Doing output effectively forces your brain to make sure it is correctly understanding the words you are hearing and you may start to subconsciously look for opportunities to use what you hear in input.  
 Regular output along with regular input is recommended.
 
 Contrary to what many immersion-based learning methods say, I do not believe it is a smart idea to delay your output until you are "really good" for reasons such as "saying things incorrectly is going to "cripple" or "ruin" your Vietnamese". Doing this makes you miss out on so many opportunities to pick up on things to use in your output earlier and brainwashes you into a toxic perfectionist mindset, becoming extremely protective of your Vietnamese.
 
-## 3.2 Pronunciation
+## 2.2 Pronunciation
 
 Learning Vietnamese pronunciation is tough, even for advanced learners (if you follow traditional guides btw). It's undeniable to say that, how well you pronouce a Vietnamese word is largely up to how much time have you heard that word spoken by a Vietnamese native.
 
-## 3.3 Learning milestones
+## 2.3 Learning milestones
 
 How can you measure your current Vietnamese level? It's up to your listening and reading time (Comprehensible Input), not just immersing mindlessly, incomprehensible input doesn't work.
 
 
-## 3.4 Closing notes: post-beginner stage and beyond
+## 2.4 Closing notes: post-beginner stage and beyond
 
 _This guide is made possible by TheMoeWay community, I just modified it so it fits Vietnamese learners better. All thanks and donation should goes to them, not me._
 
