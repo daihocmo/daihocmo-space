@@ -14,6 +14,11 @@ nav:
     - 'Giáo trình': 'guide.md'
   - 'Thói quen tốt':
     - 'Dọn dẹp': 'konmari.md'
+    - 'Tập thể dục': 'the-duc.md'
+    - 'Đọc sách': 'doc-sach.md'
+  - 'Tập luyện':
+    - 'Yoga': 'yoga.md'
+    - 'Stretching': 'stretching.md'
     - 'Mewing': 'mewing.md'
       
 theme:

@@ -1,5 +1,5 @@
-site_name: Immersion-based Vietnamese Learning 
-site_description: Guide to self-learning Vietnamese.
+site_name: Học Tiếng Trung qua Youtube, Phim Ảnh và hơn thế nữa.
+site_description: Học Tiếng Trung thông qua việc tiêu thụ nội dung do người Trung làm cho người Trung (Immersion). Hoàn toàn miễn phí, tự học.
 site_author: onlyduyy  
 theme:
   name: material
@@ -10,26 +10,23 @@ theme:
 
 nav:
   - Home: 'index.md'
-  - 'Vietnamese':
-    - 'Guide': 'guide.md'
-    - 'Reading': 'reading-guide.md'
-    - 'Culture': 'viet-culture.md'
-  - 'Comprehensible Input':
-    - 'Guide': 'input-guide.md'
-    - 'Resources': 'input-resources.md'
-  - 'Tools':
-    - 'Mining': 'asbplayer.md'
+  - 'Hướng dẫn':
+    - 'Chung': 'guide.md'
+    - 'Nói': 'noi.md'
+    - 'Đọc': 'doc.md'
+    - 'Ngữ pháp': 'ngu-phap.md'
+  - 'Đầu vào dễ hiểu':
+    - 'Hướng dẫn': 'input.md'
+    - 'Tài nguyên': 'input-resources.md'
+  - 'Công cụ':
     - 'Yomitan': 'yomi-setup.md'
-  - 'Hán Nôm':
-    - 'Guide': 'han-nom.md'
-  - 'Resources':
-    - 'Resources': 'resources.md'
-    - 'Grammar': 'grammar-guide.md'
-  - 'Media':
-    - 'Novels': 'books.md'
-    - 'Movies': 'movies.md'
+    - 'Anki': 'anki.md'
+  - 'Tài nguyên':
+    - 'Tài nguyên': 'resources.md'
+  - 'Nội dung':
     - 'Youtube': 'youtube.md'
     - 'Podcasts': 'podcasts.md'
+    - 'Phim Ảnh': 'phim-anh.md'
       
 theme:
   palette:

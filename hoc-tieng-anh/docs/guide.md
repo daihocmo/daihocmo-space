@@ -17,7 +17,7 @@ Chúng ta cũng nên chuẩn bị danh sách những gì mình sẽ muốn xem b
 
 ### 2: Cài đặt công cụ:  
 
-Hai công cụ cần thiết nhất mà bạn nên cài là Anki (SRS - Hệ thống lặp lại ngắt quãng - Giúp ôn tập và học mọi thứ, từ vựng, Kanji, cấu trúc ngữ pháp) và Yomitan, từ điển Popup cho trình duyệt dành cho Tiếng Anh để tra từ nhanh khi đọc báo hoặc nội dung Tiếng Anh. Hướng dẫn cài đặt hoặc sử dụng thì bạn có 
+Hai công cụ cần thiết nhất mà bạn nên cài là Anki (SRS - Hệ thống lặp lại ngắt quãng - Giúp ôn tập và học mọi thứ, từ vựng, Kanji, cấu trúc ngữ pháp) và một từ điển Popup cho trình duyệt dành cho Tiếng Anh để tra từ nhanh khi đọc báo hoặc nội dung Tiếng Anh (Nên có để có thể tra từ nhanh khi đọc báo, xem phim).  
 
 Giới thiệu đôi chút về 2 công cụ quan trọng này:
 
