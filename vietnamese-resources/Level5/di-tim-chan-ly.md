@@ -1,0 +1,11 @@
+NGƯỜI ĐI TÌM “CHÂN TƯỚNG” SỰ SỐNG
+
+“Tôi còn có thể sống được bao lâu nữa?” – Đó hầu như là câu hỏi đầu tiên của rất nhiều người sau khi biết mình mắc bệnh nan y, không thể qua khỏi. Năm 1981, lúc 40 tuổi, Xti– phen Guôn– đơ, nhà sinh vật học người Mĩ, cũng đã thốt lên với các bác sĩ câu hỏi này khi ông biết mình đã bị ung thư… 
+
+Những người mắc bệnh giống ông đều biết rằng khoảng nửa trong số họ sẽ bị tử thần “rước đi” chỉ sau tám tháng nữa. Họ than vãn đầy tuyệt vọng: “Thế là hết, tôi chỉ còn tám tháng nữa thôi”. Nhưng Guôn-đơ thì khác, suy nghĩ của ông lúc đó là: “Chẳng phải ta còn tới 50% hi vọng đó sao?”
+
+Để có thể “gia nhập” vào nhóm người sống quá tám tháng, Guôn-đơ đã tham khảo ý kiến của các chuyên gia miễn dịch học về phương thức chữa trị tốt nhất. Ông nhận được từ họ câu trả lời: “Trong cuộc chiến ung thư, yếu tố quan trọng nhất là tinh thần. Có được lòng tin ắt sẽ chiến thắng được mọi thứ!”
+
+Vậy là Xti-phen Guôn-đơ đã quyết tâm dùng ý chí chiến đấu với cặn bệnh quái ác ấy. Ông vẫn tiếp tục công việc giảng dạy về địa chất, sinh vật học và khoa học lịch sử ở đại học Ha-vớt. Ngoài ra, Guôn-đơ còn đảm nhiệm cương vị chủ biên tạp chí khoa học – một tạp chí có uy tín nhất trong lĩnh vực khoa học và tự nhiên và là Chủ tịch Hội xúc tiến khoa học Mĩ. Năm 1982, dựa vào những phát hiện khảo cổ, Guôn– đơ đã cùng những người công tác với mình cho ra đời lí luận về nguồn gốc tiến hóa các loài khác hẳn với những tiến hóa truyền thống của Đác – uyn. “Lí thuyết tiến hóa cân bằng giai đoạn” – tên công trình nghiên cứu của ông – có ảnh hưởng rất lớn đến sự phát triển của khoa học sinh vật đương đại. Và sau này, những phát hiện mới, phong phú của ngành khảo cổ đã càng chứng minh tính đúng đắn trong quan điểm tiến hóa có tính nhảy vọt của Xti-phen Guôn – đơ…
+
+Cuối cùng, sau khi hoàn thành tác phẩm nổi tiếng dày 1500 trang có tên “Kết cấu của lí luận tiến hóa”, Xti-phen Guôn - đơ – nhà sinh vật học uyên bác của thế giới, đã qua đời tại Niu Oóc ngày 20 - 5 - 2001, hưởng thọ 60 tuổi. Như vậy, ông đã không chỉ lọt vào danh sách những người “sống quá 8 tháng” mà còn có thêm 20 năm cống hiến hết mình cho khoa học. Cuộc đời của Xti-phen Guôn – đơ là một tấm gương sáng về một nghị lực phi thường.   
