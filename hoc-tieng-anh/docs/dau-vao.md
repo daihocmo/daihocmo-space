@@ -14,7 +14,7 @@ Output ở đây là "đầu ra", tức bao gồm nói và viết, khi mà ta t�
 
 - Dễ bị sai, thành thói quen và khó sửa. Nếu để lỗi sai thành một thói quen xấu thì sẽ rất khó sửa.
 
-### i + 1
+### Đào câu và học từ vựng thông qua cấu trúc i + 1
 
 Bạn học từ mới thông qua ngữ cảnh, hay đơn giản hơn, bạn học từ mới nhanh hơn khi bạn đặt từ mới đó trong ngữ cảnh, ở đây là câu, bao gồm các từ vựng bạn đã biết, và một từ bạn chưa biết và muốn học đặt trong đó. Đây gọi là phương pháp "i + 1", i ở đây là khối lượng từ vựng ước tính của bạn. Cứ mỗi một câu "i + 1" thì bạn lại:
 

@@ -1,9 +1,12 @@
 ### Mở đầu
+
 Trong phần này sẽ là lộ trình để tự học Tiếng Anh. Trong mỗi một bước, mọi người sẽ được giải thích cần học gì để tiến tới cấp độ tiếp theo. Nếu bạn muốn tìm hiểu thêm về phương pháp đắm chìm mình vào input (đầu vào) trong ngoại ngữ, thì bạn có thể tra Google ^^>.
 
 Vậy thì mọi người nên học Tiếng Anh như thế nào? Có cả tá hướng dẫn để mọi người có thể bắt đầu. Nhưng trong bài viết này, mình xin phép được viết ngắn gọn cách mọi người có thể bắt đầu học Tiếng Anh thông qua các nội dung được người nói Tiếng Anh làm như Youtube, phim ảnh, sách và vân vân. 
 
 Bước mà tốn nhiều thời gian, lẫn đạt hiệu quả cao nhất chính là nạp nội dung Tiếng Anh do người nói Tiếng Anh bản ngữ làm, và có thể là bước vui nhất vì đây là lúc bạn "tiêu thụ" những gì bạn thích, chọn những gì bạn muốn xem bằng Tiếng Anh.
+
+Nếu bạn mới bắt đầu học Tiếng Anh thì có thể bạn sẽ muốn luyện nghe và đọc thông qua các nội dung dễ hiểu hay Comprehensible Input trước khi bạn bắt đầu tiêu thụ các nội dung bản ngữ như Youtube hay phim ảnh. Bạn có thể đọc thêm về Comprehensible Input [tại đây](dau-vao.md) hoặc bắt đầu thực hành Comprehensible Input [ngay tại đây](input-guide.md).
 
 ### Tiêu thụ nội dung Tiếng Anh
 
@@ -34,15 +37,17 @@ Giới thiệu đôi chút về 2 công cụ quan trọng này:
 
 Bắt đầu đến bước này, có lẽ chúng ta đã bắt đầu va đập với Tiếng Anh đôi chút rồi. 
 
-Về phần từ vựng, bạn nên học khoảng từ 1500 từ đến 3000 từ cơ bản để giúp việc đắm chìm vào Media Tiếng Anh bớt bị ngợp. Có một bộ thẻ của AnkiVN khá tốt mà bạn có thể tải xuống [tại đây](https://ankivn.com/bo-the/ngoai-ngu/tieng-anh/3000-tu-vung-tieng-anh-thong-dung/).
+Về phần từ vựng, bạn nên học khoảng từ 1500 từ đến 3000 từ cơ bản để giúp việc đắm chìm vào Media Tiếng Anh bớt bị ngợp. Có một bộ thẻ của AnkiVN khá tốt mà bạn có thể tải xuống [tại đây](https://ankivn.com/bo-the/ngoai-ngu/tieng-anh/3000-tu-vung-tieng-anh-thong-dung/). 
 
-Chúng ta có thể bắt đầu xem một số hướng dẫn ngữ pháp [này](grammar-guide.md). Có lẽ bạn không nen dành quá nhiều thời gian làm bài tập ngữ pháp bởi mấu chốt của việc học ngữ pháp là để thúc đẩy khả năng hiểu của ta khi ta đọc hoặc nghe Tiếng Anh (Chúng ta cần nạp đủ nhiều Tiếng Anh trước khi nói hoặc viết) và phải nạp nhiều Input thì ta mới có thể thực sự "thành thạo" ngoại ngữ đó. Thay vì cố gắng trở nên thật thành thạo trong một số chủ đề ngữ pháp, có lẽ sẽ tốt hơn nếu được nghe, đọc hoặc xem được cách mà người bản ngữ dùng cái đó.
+Trước khi bắt đầu sử dụng Anki, bạn nên dành thêm một chút thời gian để học cách sử dụng Anki cơ bản, mình gợi ý bạn xem [video này]() của Anking nếu bạn đã có một mức Tiếng Anh tương đối, còn lại, bạn có thể xem [hướng dẫn này]() của . Việc học cách sử dụng Anki cơ bản sẽ giúp bạn ôn tập dễ dàng và hiệu quả hơn rất nhiều.
+
+Về phần ngữ pháp, bạn có thể bắt đầu xem một số hướng dẫn ngữ pháp, hoặc đọc hướng dẫn ngữ pháp [này](grammar-guide.md). Có lẽ bạn không nen dành quá nhiều thời gian làm bài tập ngữ pháp bởi mấu chốt của việc học ngữ pháp là để thúc đẩy khả năng hiểu của ta khi ta đọc hoặc nghe Tiếng Anh (Chúng ta cần nạp đủ nhiều Tiếng Anh trước khi nói hoặc viết) và phải nạp nhiều Input thì ta mới có thể thực sự "thành thạo" ngoại ngữ đó. Thay vì cố gắng trở nên thật thành thạo trong một số chủ đề ngữ pháp, có lẽ sẽ tốt hơn nếu được nghe, đọc hoặc xem được cách mà người bản ngữ dùng cái đó.
 
 ### 4. Tiêu thụ nội dung Tiếng Anh
 
-Nếu bạn đã xong bộ thẻ Anki ở trên, thì chúc mừng nha ^^, bạn không còn là người mới bắt đầu học nữa dù vẫn còn cảm thấy rằng mình vẫn chưa biết nhiều về Tiếng Anh lắm, không sao cả. Bạn vẫn chưa tiêu thụ nhiều nội dung Tiếng Anh cho lắm, nên giờ sẽ là lúc khởi đầu hành trình nè. 
+Nếu bạn đã xong bộ thẻ Anki ở trên (Ở đây xong tức là bạn đã không còn thẻ mới ở phần 'New Card' nữa), thì chúc mừng nha ^^, bạn không còn là người mới bắt đầu học nữa dù vẫn còn cảm thấy rằng mình vẫn chưa biết nhiều về Tiếng Anh lắm, không sao cả. Bạn vẫn chưa tiêu thụ nhiều nội dung Tiếng Anh cho lắm, nên giờ sẽ là lúc khởi đầu hành trình nè. 
 
-Chúng ta bắt đầu đắm chìm vào Tiếng Anh sau khi tiếp thu được một khối lượng tương đối, bạn có thể tìm hiểu về sentence mining, khai thác các từ mới thông qua các câu xuất hiện trên Media bạn tiêu thụ. Việc sentence mining sẽ giúp bạn ghi nhớ các mẫu câu hay cách dùng hay mà bạn bắt gặp trong quá trình học Tiếng Anh. Bạn có thể xem hướng dẫn cơ bản về sentence mining [tại đây](https://www.youtube.com/watch?v=PLnJ1l6f7mQ). 
+Chúng ta bắt đầu đắm chìm vào Tiếng Anh sau khi tiếp thu được một khối lượng tương đối, bạn có thể tìm hiểu về sentence mining, khai thác các từ mới thông qua các câu xuất hiện trên Media bạn tiêu thụ. Việc sentence mining sẽ giúp bạn ghi nhớ các mẫu câu hay cách dùng hay mà bạn bắt gặp trong quá trình học Tiếng Anh. Bạn có thể xem hướng dẫn cơ bản về sentence mining [tại đây](https://www.youtube.com/watch?v=PLnJ1l6f7mQ). Đây là một phương pháp giúp ta học từ vựng thông qua câu ngữ cảnh rất hữu ích mà bạn có thể thử.
 
 Nếu bạn không biết mình "nên" xem gì, thử tìm [trên đây xem](youtube.md). Tìm thứ mình thích, cày nó và cày nó.
 
@@ -55,7 +60,7 @@ Trong giai đoạn này, bạn có thể sẽ bắt gặp một số cấu trúc
 
 ### 5. Đắm chìm hơn nữa, và học viết, nếu cần  
 
-Càng nạp nhiều, càng nghe nhiều càng xem nhiều càng đắm chìm nhiều thì bạn sẽ tự phát triển mình
+Càng nạp nhiều, càng nghe nhiều càng xem nhiều càng đắm chìm nhiều thì bạn sẽ tự phát triển mình.
 
 Nếu bạn muốn viết thì bạn có thể học thông qua việc đọc nhiều hơn hoặc tra các mẫu câu trên từ điển hoặc thông qua báo, từ điển hoặc khắp nơi trên Internet.
 

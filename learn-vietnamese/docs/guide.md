@@ -36,7 +36,9 @@ The learning process for the beginner consists of:
 
 
 ## 1.2 Vietnamese alphabet
+
 ![alphabet.webp](./Image/alphabet.webp)
+
 The Vietnamese alphabet, also known as the Quốc ngữ script, stands as the official writing system of Vietnam, reflecting the linguistic and cultural heritage of the country. This unique script, unlike many other East Asian writing systems, is based on the Latin alphabet, showcasing the influence of Western linguistic traditions in Vietnam’s language development. The alphabet consists of 29 letters, including 14 consonants and 15 vowels. Each letter has a unique sound, and it is essential to know how to pronounce them correctly in order to speak and read Vietnamese fluently. 
 
 ### 1.3 How to learn the alphabet
@@ -53,6 +55,9 @@ _The alphabet chart, there are some characters that sound different than the Eng
 ![tones](./Image/tones.webp)
 
 _The tone chart, skip it for now, just learn it quick for the sake of comsuming comprehensible input. The best way to learn tones is to listen to native speakers._
+
+There are six (6) tones in the Vietnamese language with five (5) tone marks as you can see in the above chart.
+
 
 Both of the above chart are taken from [Omniglot](https://www.omniglot.com/writing/vietnamese.htm).
 
@@ -150,7 +155,7 @@ It is prime time to start getting some immersion going when you have learned som
 
 ## 1.6 Beginner immersion: an uphill battle
 
-If you recall from section 1.3 (The "Preface" section from TheMoeWay' guide), I touched on something known as comprehensible input. This is input that is understandable at your level, where there’s just a few missing pieces of the puzzle every few sentences. With this sort of immersion, you subconsciously fill in the incomprehensible parts with educated guesses based on context, which is what makes this type of input so useful for the purposes of language learning.
+Comprehensible Input is input that is understandable at your level, where there’s just a few missing pieces of the puzzle every few sentences. With this sort of immersion, you subconsciously fill in the incomprehensible parts with educated guesses based on context, which is what makes this type of input so useful for the purposes of language learning.
 
 Now you may have noticed a problem here. What do you do if you don’t have access to comprehensible input? As a complete beginner, there is no content that is easy. In fact, this is why people often fall into the endless cycle of reading from beginner resource to beginner resource. Though incomprehensible input is by no means useless—it does have its benefits and assists with learning—it is very difficult to get past that initial hurdle.
 
@@ -160,11 +165,12 @@ So how can we make it so we don’t constantly dread having to parse through con
 
 The answer is actually very simple. Fun! Media can be entertaining for reasons other than language content. By choosing media that also has high entertainment value regardless of its language level, we are able to stay consistently engaged and motivated to continue our immersion. Then, as our language experience grows, we naturally find ourselves understanding more and more, and the once seemingly unattainable goal of finding comprehensible input has now become a given, with the goal rather shifting to finding content that is difficult enough to push us to continue learning.
 
+Wanna learn more about Comprehensible Input, [click here](input-guide.md)
 ## 1.7 How to immerse
 
 ### Reading & Dictionaries
 
-To make Vietnamese less of a pain to read, you can use a free browser extension known as Yomitan. You can find a tutorial on how to use it [here](https://daihocmo.github.io/vietmoe/yomi-setup/). 
+To make Vietnamese less of a pain to read, you can use a free browser extension known as Yomitan. You can find a tutorial on how to use it [here](https://learnjapanese.moe/yomichan/). 
 
 To look up words individually, you can use [Soha](http://tratu.soha.vn/) (Remember to change dictionary mode to "Việt - Anh", the dropdown box), apps for Android [here](https://play.google.com/store/apps/details?id=com.bravolang.dictionary.vietnamese&hl=en&gl=US).
 

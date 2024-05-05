@@ -1,4 +1,8 @@
-Một số các Podcasts được sưu tầm, các đường dẫn ở đa nền tảng (Gần như toàn bộ đều là Google Podcasts)
+Một số các Podcasts được sưu tầm, các đường dẫn ở đa nền tảng (Gần như toàn bộ đều là Google Podcasts hoặc Spotify). 
+
+Nếu bạn sử dụng máy tính, thì mình gợi ý bạn nên sử dụng [Podcastindex](https://podcastindex.org), đây là một trang nghe Podcast hoàn toàn miễn phí, không quảng cáo và không phải đăng nhập. Có một số Podcast có thể sẽ chỉ có ở trên Google Podcast hoặc Spotify nên mọi người nhớ kiểm tra trước nha. Còn lại thì Podcastindex thẳng tiến!
+
+### Các Podcast được gợi ý trên Reddit
 
 * [Lex Fridman](https://www.youtube.com/c/lexfridman/videos)\- long form podcasts with the world's greatest minds
 * [Materialism](https://podcasts.google.com/feed/aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9tYXRlcmlhbGlzbQ?sa=X&ved=0CBoQ27cFahcKEwjgj5L-4Kr0AhUAAAAAHQAAAAAQQg) \- material science
@@ -31,8 +35,6 @@ Một số các Podcasts được sưu tầm, các đường dẫn ở đa nền
 
 ### Danh sách các Podcast ngắn có độ dài khoảng từ 5 phút đến 20 phút
 
-Đang cập nhật.
-
 - Cabinet of Curiosities
 - Planet Money
 - The Indicator (planet money spin off)
@@ -42,7 +44,7 @@ Một số các Podcasts được sưu tầm, các đường dẫn ở đa nền
 - Short Wave
 - The Memory Palace 
 - Poetry Unbound 
-- Up First by NPR
+- [Up First]() - Một Podcast tin tức của NPR
 - Everything, Everywhere Daily. 
 - The Hottest Take
 - The Atlas Obscura Podcast
