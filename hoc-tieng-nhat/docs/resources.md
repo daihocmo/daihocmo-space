@@ -43,10 +43,9 @@
 
 ### Phim và J-Drama
 
-- [Google Drive J-Drama](https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE?resourcekey=0-Mb-d6oqmNscdL_zO16m4Uw) - (mật khẩu`bagikuy`)
 - [bilibili](https://www.bilibili.com/) - Trang mạng xã hội Video của Trung Quốc, cũng có nhiều nội dung Nhật
 - [Terrace House BGND](https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/#more-177) - Terrace House BGND
-- [Danh sách gợi ý các nội dung tiêu thụ Tiếng Nhật](https://docs.google.com/spreadsheets/d/1w42HEKEu2AzZg9K7PI0ma9ICmr2qYEKQ9IF4XxFSnQU/)
+- [Danh sách gợi ý các bộ phim và Drama Tiếng Nhật nên xem](https://ixrec.neocities.org/immersion/tv)
 
 ### Manga
 
@@ -55,36 +54,35 @@
 - [Rawkuma](https://rawkuma.com/) - Đọc manga Nhật online
 
 
-### Novels and Literary Texts
+### Văn học
 
-- [Itazuraneko Extended Ebook Novel](https://yonde.itazuraneko.org/) - Kho tải light novel và các tiểu thuyết Nhật, bấm Ctrl + F để tìm sách
-- [Aozora Bunko](https://www.aozora.gr.jp/) - văn học cổ điển của Nhật
+- [Kho sách của Itazuraneko](https://yonde.itazuraneko.org/) - Kho tải light novel và các tiểu thuyết Nhật, bấm Ctrl + F để tìm sách
+- [Aozora Bunko](https://www.aozora.gr.jp/) - Văn học cổ điển của Nhật
 - **[※ ッツ Ebook Reader](https://ttu-ebook.web.app/)** - Trang web giúp đọc sách điện tử (.epub) trực tiếp trên trình duyệt, hỗ trợ cho Tiếng Nhật, để dùng Yomitan!
 
 
-### Audiobooks & Podcasts
-- [Spreadsheet Podcast Tiếng Nhật](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit#gid=0)
+### Sách nói & Podcasts
+- [Spreadsheet Podcast Tiếng Nhật](podcasts.md)
 
-### Subtitles
+### Phụ đề
 
-- [Kitsunekko](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) -  Tải phụ đề cho Anime. Nếu trang này không truy cập được thì truy cập bằng [trang này](https://learnjapanese.moe/kitsubackup.html#/ja))**
+- [Kitsunekko](http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Tải phụ đề cho Anime. Nếu trang này không truy cập được thì truy cập bằng [trang này](https://learnjapanese.moe/kitsubackup.html#/ja)**
 - [Jimaku.cc](https://jimaku.cc/) - Tương tự trang trên
-- **[Tự căn chỉnh phụ đề cho đúng, lỗi timing chẳng hạn](https://youtu.be/x0h3ooBHrpk)**
+- **[Tự căn chỉnh phụ đề cho đúng](https://youtu.be/x0h3ooBHrpk)**
 
 ### Tìm câu ví dụ
-
 - [Immersion Kit](https://www.immersionkit.com/) - Bộ công cụ tìm câu của Game Gengo.
 - [Youglish](https://youglish.com/japanese) - Tìm từ Youtube
-- 
+
 ### Audio được cắt gọn
-Cho việc nghe thụ động, đây là những tệp âm thanh được lọc bỏ toàn bộ các phần không có âm thanh cho Anime
+Cho việc nghe thụ động, đây là những tệp âm thanh được lọc bỏ toàn bộ các phần không có âm thanh cho Anime.
 
 - [Condensed Audio 1](https://drive.google.com/drive/folders/1fqsc--ybDjxLLdJeGIxmQ3s-o4f2TIz8)
 - [Condensed Audio 2](https://www.mediafire.com/folder/ndeu7h9zjgf1l/MIA_Condensed_Audio)
 - [Condensed Audio 3](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ)
 - [Condensed Audio 4](https://condensedaudiocatalog.com/#)
 - [Condensed Audio 5](https://www.paliss.com/)
-- [Condense your own audio](https://ercanserteli.com/condenser/)
+- [Tự tạo Condensed Audio cho riêng mình](https://ercanserteli.com/condenser/)
 
 
 ### Từ điển
@@ -92,5 +90,9 @@ Cho việc nghe thụ động, đây là những tệp âm thanh được lọc 
 #### Yomichan
 
 - [Tải Yomitan](https://foosoft.net/projects/yomichan/) - Từ điển tra từ trực tiếp trên trình duyệt
-- Hướng dẫn cách cài: [bấm vào đây](https://learnjapanese.moe/yomichan)
+- [Hướng dẫn cách cài Yomitan của TMW](https://learnjapanese.moe/yomichan) - Hướng dẫn được viết bởi một thành viên trong đội TMW.
 - [Tải từ điển Nhật - Anh ở trang này](https://github.com/MarvNC/yomichan-dictionaries): Hiện tại vẫn chưa có từ điển Nhật Việt cho Yomitan nào tốt.
+
+#### Các từ điển khác
+- [Mazii]() - Từ điển huyền thoại mà bạn nào học Tiếng Nhật cũng biết.
+- []

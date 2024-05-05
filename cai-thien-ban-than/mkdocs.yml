@@ -11,16 +11,22 @@ theme:
 nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
-    - 'Giáo trình': 'guide.md'
+    - 'Lộ trình': 'guide.md'
   - 'Thói quen tốt':
     - 'Dọn dẹp': 'konmari.md'
     - 'Tập thể dục': 'the-duc.md'
     - 'Đọc sách': 'doc-sach.md'
-    - 'Cooking': 'nau-an.md'
+    - 'Nấu ăn': 'nau-an.md'
+  - 'Học tập'
+    - 'Tự học': 'tu-hoc.md'
+    - 'Định hướng học': 'dinh-huong-hoc.md'
   - 'Tập luyện':
     - 'Yoga': 'yoga.md'
     - 'Stretching': 'stretching.md'
     - 'Mewing': 'mewing.md'
+  - 'Kỉ luật':
+    - 'Xây dựng kỉ luật': 'ki-luat.md'
+  
       
 theme:
   palette:

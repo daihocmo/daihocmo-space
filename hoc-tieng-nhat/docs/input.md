@@ -4,8 +4,6 @@
 
 ### Input, Output
 
-_Đầu vào hay đầu ra?_
-
 Khi ở giai đoạn mới học, khi mà bạn vẫn chưa biết gì về ngoại ngữ hoặc không chắc chắn rằng câu nói hoặc câu viết này đúng hay sai, đừng nói/viết!
 
 Output ở đây là "đầu ra", tức bao gồm nói và viết, khi mà ta tạo ra Tiếng Anh dựa trên những gì chúng ta đã "Input" (nạp vào, bao gồm nghe và đọc). Khi chúng ta chưa nghe và đọc "đủ nhiều" thì khả năng sử dụng ngoại ngữ cho nói và viết sẽ rất hạn chế vì:
@@ -14,7 +12,7 @@ Output ở đây là "đầu ra", tức bao gồm nói và viết, khi mà ta t�
 
 - Dễ bị sai, thành thói quen và khó sửa. Nếu để lỗi sai thành một thói quen xấu thì sẽ rất khó sửa.
 
-### i + 1
+### Đào câu và xây dựng vốn từ vựng thông qua cấu trúc câu i + 1
 
 Bạn học từ mới thông qua ngữ cảnh, hay đơn giản hơn, bạn học từ mới nhanh hơn khi bạn đặt từ mới đó trong ngữ cảnh, ở đây là câu, bao gồm các từ vựng bạn đã biết, và một từ bạn chưa biết và muốn học đặt trong đó. Đây gọi là phương pháp "i + 1", i ở đây là khối lượng từ vựng ước tính của bạn. Cứ mỗi một câu "i + 1" thì bạn lại:
 

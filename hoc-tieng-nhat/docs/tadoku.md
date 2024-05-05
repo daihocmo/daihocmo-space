@@ -1,57 +1,43 @@
 Tadoku's material is licensed under [Creative Commons 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0).
 
-This is an updated version with so much more content than the post I made in [Dec 2019 Reddit post](https://www.reddit.com/r/LearnJapanese/comments/eggyg9/more_complete_version_of_the_tadoku_pdf_merged/).
+Nguồn nội dung được tổng hợp bởi một người dùng trên Reddit, đọc bài đăng [tại đây](https://www.reddit.com/r/LearnJapanese/comments/eggyg9/more_complete_version_of_the_tadoku_pdf_merged/).
 
-There are now 5 separate PDFs partly due to size limitations and also just separating them by level:
+Gồm 5 tệp PDF:
 
-- 50 LVL 0 stories (848pg). 96.6 MB [https://drive.google.com/file/d/1dSSvUb__gtjKHHsen1t0MGrxmnHi0N7h/view](https://drive.google.com/file/d/1dSSvUb__gtjKHHsen1t0MGrxmnHi0N7h/view)
+- 50 LVL 0 truyện (848 trang). 96.6 MB [https://drive.google.com/file/d/1dSSvUb__gtjKHHsen1t0MGrxmnHi0N7h/view](https://drive.google.com/file/d/1dSSvUb__gtjKHHsen1t0MGrxmnHi0N7h/view)
     
-- 25 LVL 1 stories (325pg). 46.7 MB [https://drive.google.com/file/d/11ptkp3EoSpDwwXMp2Yiy6ILpxCT9wQrd/view](https://drive.google.com/file/d/11ptkp3EoSpDwwXMp2Yiy6ILpxCT9wQrd/view)
+- 25 LVL 1 truyện (325 trang). 46.7 MB [https://drive.google.com/file/d/11ptkp3EoSpDwwXMp2Yiy6ILpxCT9wQrd/view](https://drive.google.com/file/d/11ptkp3EoSpDwwXMp2Yiy6ILpxCT9wQrd/view)
     
-- 16 LVL 2 stories (252pg). 31.5 MB [https://drive.google.com/file/d/1c27rUXQzayEm7FYulAnlzcQWXksOHc5B/view](https://drive.google.com/file/d/1c27rUXQzayEm7FYulAnlzcQWXksOHc5B/view)
+- 16 LVL 2 truyện (252 trang). 31.5 MB [https://drive.google.com/file/d/1c27rUXQzayEm7FYulAnlzcQWXksOHc5B/view](https://drive.google.com/file/d/1c27rUXQzayEm7FYulAnlzcQWXksOHc5B/view)
     
-- 13 LVL 3 stories (216pg). 21.9 MB [https://drive.google.com/file/d/1LUiJG27VuiEzFaN29ROsd4P8JfFOwwqv/view](https://drive.google.com/file/d/1LUiJG27VuiEzFaN29ROsd4P8JfFOwwqv/view)
+- 13 LVL 3 truyện (216 trang). 21.9 MB [https://drive.google.com/file/d/1LUiJG27VuiEzFaN29ROsd4P8JfFOwwqv/view](https://drive.google.com/file/d/1LUiJG27VuiEzFaN29ROsd4P8JfFOwwqv/view)
     
-- 7 LVL 4 stories + 1 LVL 5 story (155pg). 67.8 MB [https://drive.google.com/file/d/1BAgIrATCoE2KP1ixXU9niO5Qe61hlunu/view](https://drive.google.com/file/d/1BAgIrATCoE2KP1ixXU9niO5Qe61hlunu/view)
-    
-
-Some of these stories have. Use the audio to help with proper pronunciation and to shadow read. The Audio can be found here: [https://tadoku.org/japanese/audio-downloads/](https://tadoku.org/japanese/audio-downloads/)
-
-What is Tadoku?
-
-- １．やさしいものから読む - Start from scratch
-    
-- ２．辞書を引かないで読む - Don’t use a dictionary(my input: while you are reading don't do it. If you need to, wait until after finishing the story)
-    
-- ３．わからないところは飛ばして読む - Skip over difficult words, phrases, and passages.
-    
-- ４．進まなくなったら他の本を読む - When the going gets tough, quit reading and pick up a new book.
+- 7 LVL 4 truyện + 1 LVL 5 story (155 trang). 67.8 MB [https://drive.google.com/file/d/1BAgIrATCoE2KP1ixXU9niO5Qe61hlunu/view](https://drive.google.com/file/d/1BAgIrATCoE2KP1ixXU9niO5Qe61hlunu/view)
     
 
-In a simple explanation, Tadoku is where you read content (In this case the free graded reader pdfs) around your level for fun, and don't stress out about using a dictionary for every single word. Extensive reading instead of Intensive reading. Read a more detailed description here: [https://tadoku.org/japanese/en/what-is-tadoku-en/#](https://tadoku.org/japanese/en/what-is-tadoku-en/#) .
+Một số truyện có đoạn ghi âm, mọi người tải [tại đây](https://tadoku.org/japanese/audio-downloads/)
 
-Tadoku is for both beginner readers (Lvl 0-1) up to late intermediate readers (Lvl 4-5). Read more detailed information on how the levels are structured here: [https://tadoku.org/japanese/levels/](https://tadoku.org/japanese/levels/) .
+Tadoku là gì?
 
-Level 0/JLPT N5: up to 400 word length, 350 vocabulary words +grammar
+- １．やさしいものから読む - Bắt đầu từ đầu
+    
+- ２．辞書を引かないで読む - Không dùng từ điển trong lúc đọc, nếu thực sự cần, hãy ghi từ lại và tra sau khi đọc xong.
+    
+- ３．わからないところは飛ばして読む - Bỏ qua các từ, mẫu câu, cấu trúc khó.
+    
+- ４．進まなくなったら他の本を読む - Nếu càng đọc càng thấy rối, hãy dừng lại và chuyển qua cuốn khác.
+    
 
-Level 1/JLPT N4-5: 400 to 1,500 word length, 350 vocabulary words +grammar
+Tadoku dành cho người mới bắt đầu cho tới mức tương đối trung bình, đọc thêm về cách chia Cấp độ của Tadoku [tại đây](https://tadoku.org/japanese/levels/) .
 
-Level 2/JLPT N4: 1,500 to 3000 word length, 500 new vocabulary words +grammar
+- Cấp độ 0/JLPT N5: up to 400 từ trong một bài đọc, 350 từ vựng mới với ngữ pháp
+- Cấp độ 1/JLPT N4-5: 400 cho tới 1,500 từ trong một bài đọc, 350 từ vựng mới với ngữ pháp
+- Cấp độ 2/JLPT N4: 1,500 cho tới 3000 từ trong một bài đọc, 500 từ vựng mới với ngữ pháp
+- Cấp độ 3/JLPT N3-4: 2,500 cho tới 6,000 từ trong một bài đọc, 800 từ vựng mới với ngữ pháp
+- Cấp độ 4/JLPT N3-2: 5,000 cho tới 15,000 từ trong một bài đọc, 1300 từ vựng mới với ngữ pháp
+- Cấp độ 5/JLPT N2: 8000-25,000 từ trong một bài đọc, 2000 từ vựng mới với ngữ pháp
 
-Level 3/JLPT N3-4: 2,500 to 6,000 word length, 800 new vocabulary words +grammar
 
-Level 4/JLPT N3-2: 5,000 to 15,000 word length, 1300 new vocabulary words +grammar
+Mục tiêu của đọc chia cấp độ là giúp bạn bắt đầu xây dựng kĩ năng đọc của mình trước khi bắt đầu đọc các nội dung tiếng Nhật khó hơn.
+ 
 
-Level 5/Jlpt N2: 8000-25,000 word length, 2000 new vocabulary words +grammar
-
-The graded readers are made for adult language learners so they do not have kid talk like in children's books.
-
-With graded readers, you will learn new vocab and see grammar as they are used in the stories over and over again.
-
-The goal of graded readers is for you to be able to use them as a springboard to dive into native material easier instead of belly-flopping into native material as your first experience of reading.
-
-Edit 1:The website also has recommended native material(Books/Manga) that is compatible with the Tadoku system. Just change the first drop down tab that says level to what level you want and press the search button at the bottom and you can see compatible native content for that level.
-
-[https://tadoku.org/japanese/book-search?level=&series=&kind%5B%5D=040&kw=&order=register_desc](https://tadoku.org/japanese/book-search?level=&series=&kind%5B%5D=040&kw=&order=register_desc)
-
-Edit 2: To those making videos (and deleting my comments) claiming to have created this pdf and putting them behind paywalls (Patreon/ websites) you should stop that. This is a free resource for everyone.
