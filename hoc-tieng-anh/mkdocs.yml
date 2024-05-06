@@ -12,12 +12,13 @@ nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
     - 'Lộ trình cơ bản': 'guide.md'
+    - 'Ngữ pháp đầy đủ': 'grammar-guide.md'
   - 'Đầu vào':
     - 'Đầu vào dễ hiểu': 'dau-vao.md'
     - 'Cách học': 'input-guide.md'
   - 'Tài nguyên':
     - 'Tài nguyên': 'resources.md'
-    - 'Ngữ pháp': 'grammar-guide.md'
+    - 'Cộng đồng': 'cong-dong.md'
   - 'Media':
     - 'Sách': 'sach.md'
     - 'Phim': 'phim-anh.md'
