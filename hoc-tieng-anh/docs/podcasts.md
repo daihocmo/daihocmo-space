@@ -34,10 +34,11 @@ Nếu bạn sử dụng máy tính, thì mình gợi ý bạn nên sử dụng [
 
 
 ### Danh sách các Podcast ngắn có độ dài khoảng từ 5 phút đến 20 phút
+Mình không dám chắc rằng đây là những Podcast "dễ" vì làm cho English Native và sử dụng tương đối nhiều thuật ngữ chuyên ngành hoặc các từ chuyên môn nên sẽ khá khó hiểu khi mới nghe.
 
-- Cabinet of Curiosities
+- [Cabinet of Curiosities]()
 - Planet Money
-- The Indicator (planet money spin off)
+- [The Indicator]() - (planet money spin off)
 - This American Life 
 - Anthropocene Reviewed
 - Song Exploder

@@ -61,6 +61,11 @@ Chúng ta sẽ bắt đầu thử về Graded Reading.
 
 - [VOA Learning English](https://learningenglish.voanews.com/) - Không hẳn là một trang Graded Reading nhưng là những bài báo dành cho người học với khối lượng từ vựng khá cao.
 
-- [NewsInLevel]() - Bạn có thể đọc các bảng tin bằng Tiếng Anh được chia cấp độ này (Có cả nghe nữa!).
+- [NewsInLevel](https://www.newsinlevels.com/) - Bạn có thể đọc các bảng tin bằng Tiếng Anh được chia cấp độ này (Có cả nghe nữa!).
 
 Tớ sẽ bổ sung thêm sớm thui ^^. 
+
+
+## Giai đoạn 3
+
+Nếu bạn có thể hiểu được khoảng 80% trở lên các nội dung ở giai đoạn 2 (cộng với xong bộ thẻ 3000 ở hướng dẫn chính) thì đến lúc bạn thử đắm chìm mình vào các nội dung bản ngữ. Ban đầu sẽ rất khó, chỉ cần hạ thấp độ khó của nội dung xuống dần dần, và tránh nó bị dễ quá.

@@ -6,7 +6,7 @@ _PS: Các sách miễn phí do hết hạn bản quyền hoặc hoàn toàn mi�
 | --- | --- | --- | --- |
 | [The Magic Treehouse]() | Dễ | | |
 | [Midnight Library]() | | | Thư viện nửa đêm của H. G. Wells |
-| [Tomorrow, and Tomorrow, and Tomorrow]() | | | | 
+| [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/en/book/show/58784475) | | | | 
 | [The Old Man and the Sea]() | | | Truyện ông già và biển cả có lẽ bạn đã từng đọc |
 | [The Little Prince]() | Trung bình | Cổ tích (Không hẳn) | Truyện Hoàng tử bé nhưng là bản Tiếng Anh |
 | [The Boy and the Fox, the mole, and the Horse]() | | |
@@ -15,7 +15,6 @@ _PS: Các sách miễn phí do hết hạn bản quyền hoặc hoàn toàn mi�
 | [Hobbit]() | | | |
 | [Alice in Wonderland](https://www.gutenberg.org/ebooks/11) | Trung bình | | |
 | [Nevermoor: The Trials of Morrigan Crow]() | | | |
-| []() | | | |
 
 
 

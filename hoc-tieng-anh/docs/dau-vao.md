@@ -4,8 +4,6 @@
 
 ### Input, Output
 
-_Đầu vào hay đầu ra?_
-
 Khi ở giai đoạn mới học, khi mà bạn vẫn chưa biết gì về ngoại ngữ hoặc không chắc chắn rằng câu nói hoặc câu viết này đúng hay sai, đừng nói/viết!
 
 Output ở đây là "đầu ra", tức bao gồm nói và viết, khi mà ta tạo ra Tiếng Anh dựa trên những gì chúng ta đã "Input" (nạp vào, bao gồm nghe và đọc). Khi chúng ta chưa nghe và đọc "đủ nhiều" thì khả năng sử dụng ngoại ngữ cho nói và viết sẽ rất hạn chế vì:
@@ -13,6 +11,10 @@ Output ở đây là "đầu ra", tức bao gồm nói và viết, khi mà ta t�
 - Ta không chắc câu này ta nói có đúng không? -> Ta chưa được nghe mẫu câu đúng đó đủ nhiều để có thể nói như cách ta nói Tiếng Việt.
 
 - Dễ bị sai, thành thói quen và khó sửa. Nếu để lỗi sai thành một thói quen xấu thì sẽ rất khó sửa.
+
+_Shadowing có phải là Output?_
+
+Trả lời ngắn gọn: Output là Shadowing nhưng Shadowing không phải là Output, vì bạn đang bắt chước lại người bản xứ chứ không hề tự tạo mẫu câu trong đầu.
 
 ### Đào câu và học từ vựng thông qua cấu trúc i + 1
 

@@ -59,6 +59,7 @@ Nội dung của bảng này sẽ được chia ra làm hai phần: "Học Tiế
 ### Từ điển
 
 #### Ngoại tuyến
+
 Bạn có thể sẽ muốn cài đặt từ điển ngoại tuyến vì sự tiện lợi, nhanh và không cần phải có mạng vẫn có thể tra từ được.
 
 - [Goldendict](http://goldendict.org/download.php) - Từ điển ngoại tuyến cực tốt, tải bộ từ điển theo hướng dẫn trên Voz [tại đây](https://voz.vn/t/reup-goldendict-va-cac-bo-dai-tu-dien-eng-eng-full-audio-picture.710141/)
@@ -68,11 +69,16 @@ Bạn có thể sẽ muốn cài đặt từ điển ngoại tuyến vì sự ti
 - [Thesaurus.com](https://www.thesaurus.com/) - The world's largest online thesaurus by Dictionary.com
 - [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Từ điển Oxford.
 
-Phia trên là các từ điển đơn ngữ, tức Anh - Anh, nếu bạn muốn thử từ điển song ngữ thì bạn có thể thử [LabanDict]() hay []
+Phia trên là các từ điển đơn ngữ, tức Anh - Anh, nếu bạn muốn thử từ điển song ngữ thì bạn có thể thử [LabanDict](https://dict.laban.vn/) hay [VDict](https://vdict.com/)
+
+#### Từ điển trên điện thoại
+- [TFlat](https://play.google.com/store/apps/details?id=com.vn.dic.e.v.ui) - Về cơ bản ai dùng từ điển trên điện thoại cũng dùng từ điển này.
+- [Prodict](https://play.google.com/store/apps/details?id=com.dict.user.prodict) - Từ điển Anh - Việt hoặc Anh - Anh khá tốt, cá nhân mình khuyến khích dùng ứng dụng này hơn TFlat.
+
 
 ### Công cụ
 - [Anki](https://apps.ankiweb.net/) - Ứng dụng giúp hỗ trợ ghi nhớ dễ dàng hơn thông qua SRS (Hệ thống lặp lại ngắt quãng)
-- [GoldenDict]() - Ứng dụng cho mọi từ điển, hoạt động ngoại tuyến, không cần Internet.
+- [GoldenDict](https://voz.vn/t/reup-goldendict-va-cac-bo-dai-tu-dien-eng-eng-full-audio-picture.710141/) - Ứng dụng cho mọi từ điển, hoạt động ngoại tuyến, không cần Internet (Ở đây tớ để đường dẫn tới luôn kho từ điển trên diễn đàn Voz, trên đó cũng có GoldenDict cho bạn tải luôn). 
 
 ## Tiêu thụ nội dung Tiếng Anh
 
@@ -88,7 +94,7 @@ Phia trên là các từ điển đơn ngữ, tức Anh - Anh, nếu bạn muố
 
 #### Nội dung Tiếng Anh
 
-_Luyện nghe Podcast Tiếng Anh để cải thiện Tiếng Anh_
+_Những Podcast được làm cho người bản ngữ hoặc có Tiếng Anh tốt, sẽ khó nhằn đấy!_
 
 - [This American Life](http://www.thisamericanlife.org/radio-archives) - Một trong những Podcast rất phổ biến
 - [Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk) - Podcast của Joe Rogan.
@@ -105,7 +111,7 @@ _Luyện nghe các Talkshows!_
 - [The Wendy Williams Show](https://www.youtube.com/user/WendyWilliamsShow) - American syndicated infotainment talk show hosted by Wendy Williams.
 - [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight) - American late-night talk show hosted by Jimmy Fallon on NBC.
 
-### Kho nội dung khác
-- Đang trong quá trình bổ sung...
-
-
+### Đọc sách ngoại văn (Tiếng Anh)
+- [Gutenberg](https://gutenberg.org/) - Trang tổng hợp các sách Public Domain, đã hết hạn bản quyền ở US, có nhiều tác phẩm hay của Charles Dickens, Shakespeare.
+- [Gutenberg AU](https://gutenberg.net.au/) - Trang tổng hợp các sách Public Domain, đã hết hạn bản quyền ở Australia, có George Orwell (Animal Farm hoặc 1984).
+- [StandardEbooks](https://standardebooks.org/) - Free and liberated ebooks, carefully produced for the true book lover. Trang tổng hợp Ebooks tương tự như 2 trang trên, nhưng nó được định dạng tốt hơn.

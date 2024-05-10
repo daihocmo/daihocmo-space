@@ -39,7 +39,7 @@ Bắt đầu đến bước này, có lẽ chúng ta đã bắt đầu va đập
 
 Về phần từ vựng, bạn nên học khoảng từ 1500 từ đến 3000 từ cơ bản để giúp việc đắm chìm vào Media Tiếng Anh bớt bị ngợp. Có một bộ thẻ của AnkiVN khá tốt mà bạn có thể tải xuống [tại đây](https://ankivn.com/bo-the/ngoai-ngu/tieng-anh/3000-tu-vung-tieng-anh-thong-dung/). 
 
-Trước khi bắt đầu sử dụng Anki, bạn nên dành thêm một chút thời gian để học cách sử dụng Anki cơ bản, mình gợi ý bạn xem [video này]() của Anking nếu bạn đã có một mức Tiếng Anh tương đối, còn lại, bạn có thể xem [hướng dẫn này]() của . Việc học cách sử dụng Anki cơ bản sẽ giúp bạn ôn tập dễ dàng và hiệu quả hơn rất nhiều.
+Trước khi bắt đầu sử dụng Anki, bạn nên dành thêm một chút thời gian để học cách sử dụng Anki cơ bản, mình gợi ý bạn xem [video này](https://youtu.be/Eo1HbXEiJxo) của Anking nếu bạn đã có một mức Tiếng Anh tương đối, nếu được, trước hết, bạn có thể xem [hướng dẫn này](https://youtu.be/M9-qwsHyBrc) của Đạt Nguyễn. Việc học cách sử dụng Anki cơ bản sẽ giúp bạn ôn tập dễ dàng và hiệu quả hơn rất nhiều.
 
 Về phần ngữ pháp, bạn có thể bắt đầu xem một số hướng dẫn ngữ pháp, hoặc đọc hướng dẫn ngữ pháp [này](grammar-guide.md). Có lẽ bạn không nen dành quá nhiều thời gian làm bài tập ngữ pháp bởi mấu chốt của việc học ngữ pháp là để thúc đẩy khả năng hiểu của ta khi ta đọc hoặc nghe Tiếng Anh (Chúng ta cần nạp đủ nhiều Tiếng Anh trước khi nói hoặc viết) và phải nạp nhiều Input thì ta mới có thể thực sự "thành thạo" ngoại ngữ đó. Thay vì cố gắng trở nên thật thành thạo trong một số chủ đề ngữ pháp, có lẽ sẽ tốt hơn nếu được nghe, đọc hoặc xem được cách mà người bản ngữ dùng cái đó.
 
