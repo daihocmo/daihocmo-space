@@ -33,7 +33,7 @@ Nếu bạn thấy nghi ngờ về điều này, hãy đọc cuốn Ultralearnin
 
 ### Danh sách phát
 
-- [Chinh phục kỳ thi THPTQG | Môn Ngữ văn | Sơ đồ tư duy](https://www.youtube.com/playlist?list=PLmQ5jM-TsmbzTLh2ucLb9F5_vmewVKfKf)
+- [Chinh phục kỳ thi THPTQG - Môn Ngữ văn - Sơ đồ tư duy](https://www.youtube.com/playlist?list=PLmQ5jM-TsmbzTLh2ucLb9F5_vmewVKfKf)
 - [Tổng hợp ôn thi từ TUYENSINH247 và HOCMAI](https://www.youtube.com/playlist?list=PLnTF6FQ_rCaxSw-HVH91UrlKkxjiPjZMP)
 - [Giải đề thi THPTQG qua các năm](https://www.youtube.com/playlist?list=PLKvMFrXS4WklSXFC0lbGVBK1RKO_SFhQG)
 - [Lớp văn thầy Nhật](https://youtube.com/playlist?list=PLCgf7--jN4P-5pVynSX2hVjP5wtt7GmLZ)
@@ -46,7 +46,7 @@ Nếu bạn thấy nghi ngờ về điều này, hãy đọc cuốn Ultralearnin
 
 ### Danh sách phát
 - [Mẹo 5+ Tiếng Anh Thi THPT Quốc Gia 2023](https://www.youtube.com/playlist?list=PLQ5ipwnpG-b4_spxd8g5myrn5f9TPYZiM)
-- [Chinh phục kì thi THPTQG | Môn Tiếng Anh](https://www.youtube.com/playlist?list=PLmQ5jM-Tsmbx5PdzU6l6kTdzdso4-8wjM)
+- [Chinh phục kì thi THPTQG - Môn Tiếng Anh](https://www.youtube.com/playlist?list=PLmQ5jM-Tsmbx5PdzU6l6kTdzdso4-8wjM)
 - [Chữa Đề Thi Tham Khảo Tiếng Anh THPT](https://www.youtube.com/playlist?list=PLQ5ipwnpG-b5no2s9TA7lfc8UINAeYGv-)
 - [NGỮ PHÁP THI THPT 2022 - CÔ VŨ MAI PHƯƠNG](https://www.youtube.com/playlist?list=PL6PCHUZXXoqNEICiHjtA9lScFfUEu7NNJ)
 - [Ôn thi Tiếng Anh THPTQG](https://www.youtube.com/playlist?list=PLZKgXULUIVkB8WZ3MMeNoe-WU2VwgZdSS) - Của cô Thu Oanh
@@ -85,7 +85,7 @@ Nếu bạn thấy nghi ngờ về điều này, hãy đọc cuốn Ultralearnin
 ### Giáo viên
 - [Thầy Phan Khắc Nghệ]()
 ### Danh sách phát
-- [Chinh phục kỳ thi THPTQG | Môn Sinh học | Sơ đồ tư duy](https://www.youtube.com/playlist?list=PLmQ5jM-TsmbxmBwot1mNDTlLfTcnWCQIh)
+- [Chinh phục kỳ thi THPTQG - Môn Sinh học - Sơ đồ tư duy](https://www.youtube.com/playlist?list=PLmQ5jM-TsmbxmBwot1mNDTlLfTcnWCQIh)
 - [Ôn thi THPT môn Sinh Học](https://www.youtube.com/playlist?list=PLWvmZvmFl5T6Mpmg5EXlxcLbOF0837By7)
 - [Sinh 12](https://www.youtube.com/playlist?list=PLrMDqY32t8ID2PmXKihWYkt8TBBxH3xdA)
 - [Chống liệt môn sinh](https://www.youtube.com/playlist?list=PLuRfCNhyvhjOybtODmmDBsO2azX75KCY3)
@@ -107,5 +107,5 @@ VUIHOC THPT](https://www.youtube.com/playlist?list=PLSscus4PK7Intajgn9hE4Pkov49M
 ### Giáo viên
 
 ### Danh sách phát
-- [Chinh phục kỳ thi THPTQG | Môn Địa lý | Sơ đồ tư duy](https://www.youtube.com/playlist?list=PLmQ5jM-TsmbyhIWTz_NUyZ7T9zkLMZViv)
-- [Chinh phục kỳ thi 2019 | Ôn thi tốt nghiệp THPT môn Địa lý](https://www.youtube.com/playlist?list=PLmQ5jM-TsmbzjCI3apGeAKdqKeaQvJ2qL)
+- [Chinh phục kỳ thi THPTQG - Môn Địa lý - Sơ đồ tư duy](https://www.youtube.com/playlist?list=PLmQ5jM-TsmbyhIWTz_NUyZ7T9zkLMZViv)
+- [Chinh phục kỳ thi 2019 - Ôn thi tốt nghiệp THPT môn Địa lý](https://www.youtube.com/playlist?list=PLmQ5jM-TsmbzjCI3apGeAKdqKeaQvJ2qL)
