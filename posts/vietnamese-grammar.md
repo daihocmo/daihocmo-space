@@ -1,1 +1,0 @@
-Tổng hợp ngữ pháp từ seahourse, Elementary Vietnamese và hơn nữa
