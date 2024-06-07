@@ -7,3 +7,4 @@
 
 ### Các tài nguyên khác
 - [Lịch sử Việt Nam](./lich-su-viet-nam/README.md) - Học lịch sử Việt Nam từ thời Vua Hùng dựng nước đến thời kì xây dựng đổi mới thông qua video.
+- [Tự ôn thi vào đại học](./tu-hoc/on-thi-dai-hoc.md) - Tự ôn thi vào đại học cho học sinh lớp 12
